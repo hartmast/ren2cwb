@@ -1,0 +1,4202 @@
+<text id="T07">
+  <cora-header name="Mst. Uk. 1401-1450" sigle="T07" />
+  <header>text:2 digitalisierte Münsterer Urkunden aus dem ASnA, 1401-1450
+abbr_ddd:Mst. Uk. 1401-1450
+text-type:
+reference:
+edition:ASnA-Corpus (offline)
+literature:
+library:ASnA
+library-shelfmark:ASnA
+online:
+scribe_or_printer:
+place:
+extent:2 Urkunden
+columns:
+style:
+hands:
+author:
+drawer:
+date:1447-1449
+external_source:
+notes_manuscript:
+notes_language:
+corpus:
+notes_transcription:
+notes_annotation:
+digitization_by:ASnA
+collation_by:NNA (Münster)
+pre_editing_by:NNA (Münster)
+annotation_by:---
+proofreading_by:---
+illustration:
+extract:ASnA-Siglen: Mst 1447b, Mst 1449c
+reference_secondary:
+online_file:
+topic:Recht
+topic_ReN:U
+genre:U
+time:15/1
+medium:Handschrift
+language-area:westfaelisch
+base_for_transcription:Handschrift/Druck
+token:1.012
+language:mittelniederdeutsch
+language-type:niederdeutsch</header>
+  <layoutinfo>
+    <page id="p1" no="1" range="c1" side="r" />
+    <page id="p2" no="1" range="c2" side="r" />
+    <column id="c1" name="--" range="l1..l23" />
+    <column id="c2" name="--" range="l24..l46" />
+    <line id="l1" name="01" range="t1_d1..t19_d1" />
+    <line id="l2" name="02" range="t19_d2..t40_d1" />
+    <line id="l3" name="03" range="t41_d1..t60_d1" />
+    <line id="l4" name="04" range="t61_d1..t77_d1" />
+    <line id="l5" name="05" range="t78_d1..t98_d1" />
+    <line id="l6" name="06" range="t99_d1..t114_d1" />
+    <line id="l7" name="07" range="t114_d2..t131_d1" />
+    <line id="l8" name="08" range="t132_d1..t153_d1" />
+    <line id="l9" name="09" range="t153_d2..t173_d1" />
+    <line id="l10" name="10" range="t173_d2..t190_d1" />
+    <line id="l11" name="11" range="t191_d1..t210_d1" />
+    <line id="l12" name="12" range="t211_d1..t229_d1" />
+    <line id="l13" name="13" range="t230_d1..t247_d1" />
+    <line id="l14" name="14" range="t248_d1..t268_d1" />
+    <line id="l15" name="15" range="t269_d1..t287_d1" />
+    <line id="l16" name="16" range="t287_d2..t307_d1" />
+    <line id="l17" name="17" range="t308_d1..t327_d1" />
+    <line id="l18" name="18" range="t328_d1..t348_d1" />
+    <line id="l19" name="19" range="t349_d1..t370_d1" />
+    <line id="l20" name="20" range="t371_d1..t393_d1" />
+    <line id="l21" name="21" range="t394_d1..t416_d1" />
+    <line id="l22" name="22" range="t417_d1..t436_d1" />
+    <line id="l23" name="23" range="t437_d1..t466_d1" />
+    <line id="l24" name="01" range="t467_d1..t489_d1" />
+    <line id="l25" name="02" range="t490_d1..t515_d1" />
+    <line id="l26" name="03" range="t516_d1..t543_d1" />
+    <line id="l27" name="04" range="t543_d2..t565_d1" />
+    <line id="l28" name="05" range="t566_d1..t591_d1" />
+    <line id="l29" name="06" range="t592_d1..t619_d1" />
+    <line id="l30" name="07" range="t620_d1..t646_d1" />
+    <line id="l31" name="08" range="t647_d1..t672_d1" />
+    <line id="l32" name="09" range="t672_d2..t693_d1" />
+    <line id="l33" name="10" range="t694_d1..t715_d1" />
+    <line id="l34" name="11" range="t715_d2..t734_d1" />
+    <line id="l35" name="12" range="t735_d1..t759_d1" />
+    <line id="l36" name="13" range="t759_d2..t782_d1" />
+    <line id="l37" name="14" range="t783_d1..t808_d1" />
+    <line id="l38" name="15" range="t809_d1..t832_d1" />
+    <line id="l39" name="16" range="t833_d1..t858_d1" />
+    <line id="l40" name="17" range="t859_d1..t884_d1" />
+    <line id="l41" name="18" range="t885_d1..t909_d1" />
+    <line id="l42" name="19" range="t910_d1..t932_d1" />
+    <line id="l43" name="20" range="t933_d1..t957_d1" />
+    <line id="l44" name="21" range="t958_d1..t982_d1" />
+    <line id="l45" name="22" range="t982_d2..t1003_d1" />
+    <line id="l46" name="23" range="t1004_d1..t1007_d1" />
+  </layoutinfo>
+  <shifttags />
+  <comment type="K">ASnA Ortspunkt-Corpus Münster Mst 1447b</comment>
+  <token id="t1" trans="Wij">
+    <dipl id="t1_d1" trans="Wij" utf="Wij" />
+    <anno ascii="Wij" checked="n" id="t1_m1" trans="Wij" utf="Wij">
+      </anno>
+  </token>
+  <token id="t2" trans="Bertolt">
+    <dipl id="t2_d1" trans="Bertolt" utf="Bertolt" />
+    <anno ascii="Bertolt" checked="n" id="t2_m1" trans="Bertolt" utf="Bertolt" />
+  </token>
+  <token id="t3" trans="Bisscopinck">
+    <dipl id="t3_d1" trans="Bisscopinck" utf="Bisscopinck" />
+    <anno ascii="Bisscopinck" checked="n" id="t3_m1" trans="Bisscopinck" utf="Bisscopinck" />
+  </token>
+  <token id="t4" trans="Richter">
+    <dipl id="t4_d1" trans="Richter" utf="Richter" />
+    <anno ascii="Richter" checked="n" id="t4_m1" trans="Richter" utf="Richter" />
+  </token>
+  <token id="t5" trans="vns{R_e}s">
+    <dipl id="t5_d1" trans="vns{R_e}s" utf="vnses" />
+    <anno ascii="vnses" checked="n" id="t5_m1" trans="vns{R_e}s" utf="vnses" />
+  </token>
+  <token id="t6" trans="leyuen">
+    <dipl id="t6_d1" trans="leyuen" utf="leyuen" />
+    <anno ascii="leyuen" checked="n" id="t6_m1" trans="leyuen" utf="leyuen" />
+  </token>
+  <token id="t7" trans="genedigen">
+    <dipl id="t7_d1" trans="genedigen" utf="genedigen" />
+    <anno ascii="genedigen" checked="n" id="t7_m1" trans="genedigen" utf="genedigen" />
+  </token>
+  <token id="t8" trans="heren">
+    <dipl id="t8_d1" trans="heren" utf="heren" />
+    <anno ascii="heren" checked="n" id="t8_m1" trans="heren" utf="heren" />
+  </token>
+  <token id="t9" trans=",">
+    <dipl id="t9_d1" trans="," utf="," />
+    <anno ascii="," checked="n" id="t9_m1" trans="," utf="," />
+  </token>
+  <token id="t10" trans="her{R_e}n">
+    <dipl id="t10_d1" trans="her{R_e}n" utf="heren" />
+    <anno ascii="heren" checked="n" id="t10_m1" trans="her{R_e}n" utf="heren" />
+  </token>
+  <token id="t11" trans="Hinrikes">
+    <dipl id="t11_d1" trans="Hinrikes" utf="Hinrikes" />
+    <anno ascii="Hinrikes" checked="n" id="t11_m1" trans="Hinrikes" utf="Hinrikes" />
+  </token>
+  <token id="t12" trans="Bisscops">
+    <dipl id="t12_d1" trans="Bisscops" utf="Bisscops" />
+    <anno ascii="Bisscops" checked="n" id="t12_m1" trans="Bisscops" utf="Bisscops" />
+  </token>
+  <token id="t13" trans="to">
+    <dipl id="t13_d1" trans="to" utf="to" />
+    <anno ascii="to" checked="n" id="t13_m1" trans="to" utf="to" />
+  </token>
+  <token id="t14" trans="Munster">
+    <dipl id="t14_d1" trans="Munster" utf="Munster" />
+    <anno ascii="Munster" checked="n" id="t14_m1" trans="Munster" utf="Munster" />
+  </token>
+  <token id="t15" trans="in">
+    <dipl id="t15_d1" trans="in" utf="in" />
+    <anno ascii="in" checked="n" id="t15_m1" trans="in" utf="in" />
+  </token>
+  <token id="t16" trans="der">
+    <dipl id="t16_d1" trans="der" utf="der" />
+    <anno ascii="der" checked="n" id="t16_m1" trans="der" utf="der" />
+  </token>
+  <token id="t17" trans="stat">
+    <dipl id="t17_d1" trans="stat" utf="stat" />
+    <anno ascii="stat" checked="n" id="t17_m1" trans="stat" utf="stat" />
+  </token>
+  <token id="t18" trans="to">
+    <dipl id="t18_d1" trans="to" utf="to" />
+    <anno ascii="to" checked="n" id="t18_m1" trans="to" utf="to" />
+  </token>
+  <token id="t19" trans="Muns#ter">
+    <dipl id="t19_d1" trans="Muns#" utf="Muns" />
+    <dipl id="t19_d2" trans="ter" utf="ter" />
+    <anno ascii="Munster" checked="n" id="t19_m1" trans="Muns#ter" utf="Munster" />
+  </token>
+  <token id="t20" trans="dot">
+    <dipl id="t20_d1" trans="dot" utf="dot" />
+    <anno ascii="dot" checked="n" id="t20_m1" trans="dot" utf="dot" />
+  </token>
+  <token id="t21" trans="kundich">
+    <dipl id="t21_d1" trans="kundich" utf="kundich" />
+    <anno ascii="kundich" checked="n" id="t21_m1" trans="kundich" utf="kundich" />
+  </token>
+  <token id="t22" trans="allen">
+    <dipl id="t22_d1" trans="allen" utf="allen" />
+    <anno ascii="allen" checked="n" id="t22_m1" trans="allen" utf="allen" />
+  </token>
+  <token id="t23" trans="luden">
+    <dipl id="t23_d1" trans="luden" utf="luden" />
+    <anno ascii="luden" checked="n" id="t23_m1" trans="luden" utf="luden">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t24" trans="Bekennet">
+    <dipl id="t24_d1" trans="Bekennet" utf="Bekennet" />
+    <anno ascii="Bekennet" checked="n" id="t24_m1" trans="Bekennet" utf="Bekennet">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t25" trans="vnd">
+    <dipl id="t25_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t25_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t26" trans="betuget">
+    <dipl id="t26_d1" trans="betuget" utf="betuget" />
+    <anno ascii="betuget" checked="n" id="t26_m1" trans="betuget" utf="betuget" />
+  </token>
+  <token id="t27" trans="openbar">
+    <dipl id="t27_d1" trans="openbar" utf="openbar" />
+    <anno ascii="openbar" checked="n" id="t27_m1" trans="openbar" utf="openbar" />
+  </token>
+  <token id="t28" trans="in">
+    <dipl id="t28_d1" trans="in" utf="in" />
+    <anno ascii="in" checked="n" id="t28_m1" trans="in" utf="in" />
+  </token>
+  <token id="t29" trans="dussen">
+    <dipl id="t29_d1" trans="dussen" utf="dussen" />
+    <anno ascii="dussen" checked="n" id="t29_m1" trans="dussen" utf="dussen" />
+  </token>
+  <token id="t30" trans="breue">
+    <dipl id="t30_d1" trans="breue" utf="breue" />
+    <anno ascii="breue" checked="n" id="t30_m1" trans="breue" utf="breue" />
+  </token>
+  <token id="t31" trans=",">
+    <dipl id="t31_d1" trans="," utf="," />
+    <anno ascii="," checked="n" id="t31_m1" trans="," utf=",">
+      <bound_sent tag="Satzteil_I" /></anno>
+  </token>
+  <token id="t32" trans="dat">
+    <dipl id="t32_d1" trans="dat" utf="dat" />
+    <anno ascii="dat" checked="n" id="t32_m1" trans="dat" utf="dat" />
+  </token>
+  <token id="t33" trans="vor">
+    <dipl id="t33_d1" trans="vor" utf="vor" />
+    <anno ascii="vor" checked="n" id="t33_m1" trans="vor" utf="vor" />
+  </token>
+  <token id="t34" trans="vns">
+    <dipl id="t34_d1" trans="vns" utf="vns" />
+    <anno ascii="vns" checked="n" id="t34_m1" trans="vns" utf="vns" />
+  </token>
+  <token id="t35" trans="in">
+    <dipl id="t35_d1" trans="in" utf="in" />
+    <anno ascii="in" checked="n" id="t35_m1" trans="in" utf="in" />
+  </token>
+  <token id="t36" trans="eyn">
+    <dipl id="t36_d1" trans="eyn" utf="eyn" />
+    <anno ascii="eyn" checked="n" id="t36_m1" trans="eyn" utf="eyn" />
+  </token>
+  <token id="t37" trans="geheget">
+    <dipl id="t37_d1" trans="geheget" utf="geheget" />
+    <anno ascii="geheget" checked="n" id="t37_m1" trans="geheget" utf="geheget" />
+  </token>
+  <token id="t38" trans="gerichte">
+    <dipl id="t38_d1" trans="gerichte" utf="gerichte" />
+    <anno ascii="gerichte" checked="n" id="t38_m1" trans="gerichte" utf="gerichte">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t39" trans="dar">
+    <dipl id="t39_d1" trans="dar" utf="dar" />
+    <anno ascii="dar" checked="n" id="t39_m1" trans="dar" utf="dar" />
+  </token>
+  <token id="t40" trans="wij">
+    <dipl id="t40_d1" trans="wij" utf="wij" />
+    <anno ascii="wij" checked="n" id="t40_m1" trans="wij" utf="wij" />
+  </token>
+  <token id="t41" trans="stede">
+    <dipl id="t41_d1" trans="stede" utf="stede" />
+    <anno ascii="stede" checked="n" id="t41_m1" trans="stede" utf="stede" />
+  </token>
+  <token id="t42" trans="vnd">
+    <dipl id="t42_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t42_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t43" trans="stol">
+    <dipl id="t43_d1" trans="stol" utf="stol" />
+    <anno ascii="stol" checked="n" id="t43_m1" trans="stol" utf="stol" />
+  </token>
+  <token id="t44" trans="myt">
+    <dipl id="t44_d1" trans="myt" utf="myt" />
+    <anno ascii="myt" checked="n" id="t44_m1" trans="myt" utf="myt" />
+  </token>
+  <token id="t45" trans="ordele">
+    <dipl id="t45_d1" trans="ordele" utf="ordele" />
+    <anno ascii="ordele" checked="n" id="t45_m1" trans="ordele" utf="ordele" />
+  </token>
+  <token id="t46" trans="vnd">
+    <dipl id="t46_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t46_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t47" trans="myt">
+    <dipl id="t47_d1" trans="myt" utf="myt" />
+    <anno ascii="myt" checked="n" id="t47_m1" trans="myt" utf="myt" />
+  </token>
+  <token id="t48" trans="rechte">
+    <dipl id="t48_d1" trans="rechte" utf="rechte" />
+    <anno ascii="rechte" checked="n" id="t48_m1" trans="rechte" utf="rechte" />
+  </token>
+  <token id="t49" trans="besetten">
+    <dipl id="t49_d1" trans="besetten" utf="besetten" />
+    <anno ascii="besetten" checked="n" id="t49_m1" trans="besetten" utf="besetten" />
+  </token>
+  <token id="t50" trans="hadden">
+    <dipl id="t50_d1" trans="hadden" utf="hadden" />
+    <anno ascii="hadden" checked="n" id="t50_m1" trans="hadden" utf="hadden" />
+  </token>
+  <token id="t51" trans="antworde">
+    <dipl id="t51_d1" trans="antworde" utf="antworde" />
+    <anno ascii="antworde" checked="n" id="t51_m1" trans="antworde" utf="antworde" />
+  </token>
+  <token id="t52" trans="guder">
+    <dipl id="t52_d1" trans="guder" utf="guder" />
+    <anno ascii="guder" checked="n" id="t52_m1" trans="guder" utf="guder" />
+  </token>
+  <token id="t53" trans="lude">
+    <dipl id="t53_d1" trans="lude" utf="lude" />
+    <anno ascii="lude" checked="n" id="t53_m1" trans="lude" utf="lude" />
+  </token>
+  <token id="t54" trans="hir">
+    <dipl id="t54_d1" trans="hir" utf="hir" />
+    <anno ascii="hir" checked="n" id="t54_m1" trans="hir" utf="hir" />
+  </token>
+  <token id="t55" trans="na">
+    <dipl id="t55_d1" trans="na" utf="na" />
+    <anno ascii="na" checked="n" id="t55_m1" trans="na" utf="na" />
+  </token>
+  <token id="t56" trans="bescreuen">
+    <dipl id="t56_d1" trans="bescreuen" utf="bescreuen" />
+    <anno ascii="bescreuen" checked="n" id="t56_m1" trans="bescreuen" utf="bescreuen" />
+  </token>
+  <token id="t57" trans=",">
+    <dipl id="t57_d1" trans="," utf="," />
+    <anno ascii="," checked="n" id="t57_m1" trans="," utf=",">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t58" trans="gekomen">
+    <dipl id="t58_d1" trans="gekomen" utf="gekomen" />
+    <anno ascii="gekomen" checked="n" id="t58_m1" trans="gekomen" utf="gekomen" />
+  </token>
+  <token id="t59" trans="sijnt">
+    <dipl id="t59_d1" trans="sijnt" utf="sijnt" />
+    <anno ascii="sijnt" checked="n" id="t59_m1" trans="sijnt" utf="sijnt" />
+  </token>
+  <token id="t60" trans="Temme">
+    <dipl id="t60_d1" trans="Temme" utf="Temme" />
+    <anno ascii="Temme" checked="n" id="t60_m1" trans="Temme" utf="Temme" />
+  </token>
+  <token id="t61" trans="denckerinck">
+    <dipl id="t61_d1" trans="denckerinck" utf="denckerinck" />
+    <anno ascii="denckerinck" checked="n" id="t61_m1" trans="denckerinck" utf="denckerinck" />
+  </token>
+  <token id="t62" trans="vnd">
+    <dipl id="t62_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t62_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t63" trans="Arnd">
+    <dipl id="t63_d1" trans="Arnd" utf="Arnd" />
+    <anno ascii="Arnd" checked="n" id="t63_m1" trans="Arnd" utf="Arnd" />
+  </token>
+  <token id="t64" trans="vnd">
+    <dipl id="t64_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t64_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t65" trans="drude">
+    <dipl id="t65_d1" trans="drude" utf="drude" />
+    <anno ascii="drude" checked="n" id="t65_m1" trans="drude" utf="drude" />
+  </token>
+  <token id="t66" trans="sine">
+    <dipl id="t66_d1" trans="sine" utf="sine" />
+    <anno ascii="sine" checked="n" id="t66_m1" trans="sine" utf="sine" />
+  </token>
+  <token id="t67" trans="echten">
+    <dipl id="t67_d1" trans="echten" utf="echten" />
+    <anno ascii="echten" checked="n" id="t67_m1" trans="echten" utf="echten" />
+  </token>
+  <token id="t68" trans="kyndere">
+    <dipl id="t68_d1" trans="kyndere" utf="kyndere" />
+    <anno ascii="kyndere" checked="n" id="t68_m1" trans="kyndere" utf="kyndere">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t69" trans="vnd">
+    <dipl id="t69_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t69_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t70" trans="vorkofften">
+    <dipl id="t70_d1" trans="vorkofften" utf="vorkofften" />
+    <anno ascii="vorkofften" checked="n" id="t70_m1" trans="vorkofften" utf="vorkofften" />
+  </token>
+  <token id="t71" trans="vnd">
+    <dipl id="t71_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t71_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t72" trans="vpleten">
+    <dipl id="t72_d1" trans="vpleten" utf="vpleten" />
+    <anno ascii="vpleten" checked="n" id="t72_m1" trans="vpleten" utf="vpleten" />
+  </token>
+  <token id="t73" trans="al">
+    <dipl id="t73_d1" trans="al" utf="al" />
+    <anno ascii="al" checked="n" id="t73_m1" trans="al" utf="al" />
+  </token>
+  <token id="t74" trans="dar">
+    <dipl id="t74_d1" trans="dar" utf="dar" />
+    <anno ascii="dar" checked="n" id="t74_m1" trans="dar" utf="dar" />
+  </token>
+  <token id="t75" trans="myt">
+    <dipl id="t75_d1" trans="myt" utf="myt" />
+    <anno ascii="myt" checked="n" id="t75_m1" trans="myt" utf="myt" />
+  </token>
+  <token id="t76" trans="eyndrechtigen">
+    <dipl id="t76_d1" trans="eyndrechtigen" utf="eyndrechtigen" />
+    <anno ascii="eyndrechtigen" checked="n" id="t76_m1" trans="eyndrechtigen" utf="eyndrechtigen" />
+  </token>
+  <token id="t77" trans="vryen">
+    <dipl id="t77_d1" trans="vryen" utf="vryen" />
+    <anno ascii="vryen" checked="n" id="t77_m1" trans="vryen" utf="vryen" />
+  </token>
+  <token id="t78" trans="willen">
+    <dipl id="t78_d1" trans="willen" utf="willen" />
+    <anno ascii="willen" checked="n" id="t78_m1" trans="willen" utf="willen" />
+  </token>
+  <token id="t79" trans="vor">
+    <dipl id="t79_d1" trans="vor" utf="vor" />
+    <anno ascii="vor" checked="n" id="t79_m1" trans="vor" utf="vor" />
+  </token>
+  <token id="t80" trans="syck">
+    <dipl id="t80_d1" trans="syck" utf="syck" />
+    <anno ascii="syck" checked="n" id="t80_m1" trans="syck" utf="syck" />
+  </token>
+  <token id="t81" trans="vnd">
+    <dipl id="t81_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t81_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t82" trans="vor">
+    <dipl id="t82_d1" trans="vor" utf="vor" />
+    <anno ascii="vor" checked="n" id="t82_m1" trans="vor" utf="vor" />
+  </token>
+  <token id="t83" trans="al">
+    <dipl id="t83_d1" trans="al" utf="al" />
+    <anno ascii="al" checked="n" id="t83_m1" trans="al" utf="al" />
+  </token>
+  <token id="t84" trans="ere">
+    <dipl id="t84_d1" trans="ere" utf="ere" />
+    <anno ascii="ere" checked="n" id="t84_m1" trans="ere" utf="ere" />
+  </token>
+  <token id="t85" trans="eruͤen">
+    <dipl id="t85_d1" trans="eruͤen" utf="eruͤen" />
+    <anno ascii="eruͤen" checked="n" id="t85_m1" trans="eruͤen" utf="eruͤen" />
+  </token>
+  <token id="t86" trans="vnd">
+    <dipl id="t86_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t86_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t87" trans="vor">
+    <dipl id="t87_d1" trans="vor" utf="vor" />
+    <anno ascii="vor" checked="n" id="t87_m1" trans="vor" utf="vor" />
+  </token>
+  <token id="t88" trans="johanne">
+    <dipl id="t88_d1" trans="johanne" utf="johanne" />
+    <anno ascii="johanne" checked="n" id="t88_m1" trans="johanne" utf="johanne" />
+  </token>
+  <token id="t89" trans="te{R_m}men">
+    <dipl id="t89_d1" trans="te{R_m}men" utf="temmen" />
+    <anno ascii="temmen" checked="n" id="t89_m1" trans="te{R_m}men" utf="temmen" />
+  </token>
+  <token id="t90" trans="sone">
+    <dipl id="t90_d1" trans="sone" utf="sone" />
+    <anno ascii="sone" checked="n" id="t90_m1" trans="sone" utf="sone" />
+  </token>
+  <token id="t91" trans="vnd">
+    <dipl id="t91_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t91_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t92" trans="Arndes">
+    <dipl id="t92_d1" trans="Arndes" utf="Arndes" />
+    <anno ascii="Arndes" checked="n" id="t92_m1" trans="Arndes" utf="Arndes" />
+  </token>
+  <token id="t93" trans="vnd">
+    <dipl id="t93_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t93_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t94" trans="druden">
+    <dipl id="t94_d1" trans="druden" utf="druden" />
+    <anno ascii="druden" checked="n" id="t94_m1" trans="druden" utf="druden" />
+  </token>
+  <token id="t95" trans="broder">
+    <dipl id="t95_d1" trans="broder" utf="broder" />
+    <anno ascii="broder" checked="n" id="t95_m1" trans="broder" utf="broder" />
+  </token>
+  <token id="t96" trans="vorg{R_enomd}">
+    <dipl id="t96_d1" trans="vorg{R_enomd}" utf="vorgenomd" />
+    <anno ascii="vorgenomd" checked="n" id="t96_m1" trans="vorg{R_enomd}" utf="vorgenomd" />
+  </token>
+  <token id="t97" trans="de">
+    <dipl id="t97_d1" trans="de" utf="de" />
+    <anno ascii="de" checked="n" id="t97_m1" trans="de" utf="de" />
+  </token>
+  <token id="t98" trans="buten">
+    <dipl id="t98_d1" trans="buten" utf="buten" />
+    <anno ascii="buten" checked="n" id="t98_m1" trans="buten" utf="buten" />
+  </token>
+  <token id="t99" trans="landes">
+    <dipl id="t99_d1" trans="landes" utf="landes" />
+    <anno ascii="landes" checked="n" id="t99_m1" trans="landes" utf="landes" />
+  </token>
+  <token id="t100" trans="hinrike">
+    <dipl id="t100_d1" trans="hinrike" utf="hinrike" />
+    <anno ascii="hinrike" checked="n" id="t100_m1" trans="hinrike" utf="hinrike" />
+  </token>
+  <token id="t101" trans="holthuse">
+    <dipl id="t101_d1" trans="holthuse" utf="holthuse" />
+    <anno ascii="holthuse" checked="n" id="t101_m1" trans="holthuse" utf="holthuse" />
+  </token>
+  <token id="t102" trans="dem">
+    <dipl id="t102_d1" trans="dem" utf="dem" />
+    <anno ascii="dem" checked="n" id="t102_m1" trans="dem" utf="dem" />
+  </token>
+  <token id="t103" trans="scrodere">
+    <dipl id="t103_d1" trans="scrodere" utf="scrodere" />
+    <anno ascii="scrodere" checked="n" id="t103_m1" trans="scrodere" utf="scrodere" />
+  </token>
+  <token id="t104" trans="vnd">
+    <dipl id="t104_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t104_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t105" trans="Elseken">
+    <dipl id="t105_d1" trans="Elseken" utf="Elseken" />
+    <anno ascii="Elseken" checked="n" id="t105_m1" trans="Elseken" utf="Elseken" />
+  </token>
+  <token id="t106" trans="sinen">
+    <dipl id="t106_d1" trans="sinen" utf="sinen" />
+    <anno ascii="sinen" checked="n" id="t106_m1" trans="sinen" utf="sinen" />
+  </token>
+  <token id="t107" trans="echten">
+    <dipl id="t107_d1" trans="echten" utf="echten" />
+    <anno ascii="echten" checked="n" id="t107_m1" trans="echten" utf="echten" />
+  </token>
+  <token id="t108" trans="vrouwen">
+    <dipl id="t108_d1" trans="vrouwen" utf="vrouwen" />
+    <anno ascii="vrouwen" checked="n" id="t108_m1" trans="vrouwen" utf="vrouwen" />
+  </token>
+  <token id="t109" trans="vnd">
+    <dipl id="t109_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t109_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t110" trans="eren">
+    <dipl id="t110_d1" trans="eren" utf="eren" />
+    <anno ascii="eren" checked="n" id="t110_m1" trans="eren" utf="eren" />
+  </token>
+  <token id="t111" trans="eruen">
+    <dipl id="t111_d1" trans="eruen" utf="eruen" />
+    <anno ascii="eruen" checked="n" id="t111_m1" trans="eruen" utf="eruen" />
+  </token>
+  <token id="t112" trans="Erfflike">
+    <dipl id="t112_d1" trans="Erfflike" utf="Erfflike" />
+    <anno ascii="Erfflike" checked="n" id="t112_m1" trans="Erfflike" utf="Erfflike" />
+  </token>
+  <token id="t113" trans="jarlikes">
+    <dipl id="t113_d1" trans="jarlikes" utf="jarlikes" />
+    <anno ascii="jarlikes" checked="n" id="t113_m1" trans="jarlikes" utf="jarlikes" />
+  </token>
+  <token id="t114" trans="ren=te">
+    <dipl id="t114_d1" trans="ren=" utf="ren=" />
+    <dipl id="t114_d2" trans="te" utf="te" />
+    <anno ascii="rente" checked="n" id="t114_m1" trans="ren=te" utf="ren=te" />
+  </token>
+  <token id="t115" trans="na">
+    <dipl id="t115_d1" trans="na" utf="na" />
+    <anno ascii="na" checked="n" id="t115_m1" trans="na" utf="na" />
+  </token>
+  <token id="t116" trans="sate">
+    <dipl id="t116_d1" trans="sate" utf="sate" />
+    <anno ascii="sate" checked="n" id="t116_m1" trans="sate" utf="sate" />
+  </token>
+  <token id="t117" trans="der">
+    <dipl id="t117_d1" trans="der" utf="der" />
+    <anno ascii="der" checked="n" id="t117_m1" trans="der" utf="der" />
+  </token>
+  <token id="t118" trans="stades">
+    <dipl id="t118_d1" trans="stades" utf="stades" />
+    <anno ascii="stades" checked="n" id="t118_m1" trans="stades" utf="stades" />
+  </token>
+  <token id="t119" trans="van">
+    <dipl id="t119_d1" trans="van" utf="van" />
+    <anno ascii="van" checked="n" id="t119_m1" trans="van" utf="van" />
+  </token>
+  <token id="t120" trans="mu{R_n}ster">
+    <dipl id="t120_d1" trans="mu{R_n}ster" utf="munster" />
+    <anno ascii="munster" checked="n" id="t120_m1" trans="mu{R_n}ster" utf="munster" />
+  </token>
+  <token id="t121" trans="Twe">
+    <dipl id="t121_d1" trans="Twe" utf="Twe" />
+    <anno ascii="Twe" checked="n" id="t121_m1" trans="Twe" utf="Twe" />
+  </token>
+  <token id="t122" trans="gude">
+    <dipl id="t122_d1" trans="gude" utf="gude" />
+    <anno ascii="gude" checked="n" id="t122_m1" trans="gude" utf="gude" />
+  </token>
+  <token id="t123" trans="sware">
+    <dipl id="t123_d1" trans="sware" utf="sware" />
+    <anno ascii="sware" checked="n" id="t123_m1" trans="sware" utf="sware" />
+  </token>
+  <token id="t124" trans="ouerlendesche">
+    <dipl id="t124_d1" trans="ouerlendesche" utf="ouerlendesche" />
+    <anno ascii="ouerlendesche" checked="n" id="t124_m1" trans="ouerlendesche" utf="ouerlendesche" />
+  </token>
+  <token id="t125" trans="Rinsche">
+    <dipl id="t125_d1" trans="Rinsche" utf="Rinsche" />
+    <anno ascii="Rinsche" checked="n" id="t125_m1" trans="Rinsche" utf="Rinsche" />
+  </token>
+  <token id="t126" trans="guldene">
+    <dipl id="t126_d1" trans="guldene" utf="guldene" />
+    <anno ascii="guldene" checked="n" id="t126_m1" trans="guldene" utf="guldene" />
+  </token>
+  <token id="t127" trans="vor">
+    <dipl id="t127_d1" trans="vor" utf="vor" />
+    <anno ascii="vor" checked="n" id="t127_m1" trans="vor" utf="vor" />
+  </token>
+  <token id="t128" trans="zesse">
+    <dipl id="t128_d1" trans="zesse" utf="zesse" />
+    <anno ascii="zesse" checked="n" id="t128_m1" trans="zesse" utf="zesse" />
+  </token>
+  <token id="t129" trans="vnd">
+    <dipl id="t129_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t129_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t130" trans="dertich">
+    <dipl id="t130_d1" trans="dertich" utf="dertich" />
+    <anno ascii="dertich" checked="n" id="t130_m1" trans="dertich" utf="dertich" />
+  </token>
+  <token id="t131" trans="gulden">
+    <dipl id="t131_d1" trans="gulden" utf="gulden" />
+    <anno ascii="gulden" checked="n" id="t131_m1" trans="gulden" utf="gulden" />
+  </token>
+  <token id="t132" trans="der">
+    <dipl id="t132_d1" trans="der" utf="der" />
+    <anno ascii="der" checked="n" id="t132_m1" trans="der" utf="der" />
+  </token>
+  <token id="t133" trans="vorg{R_henomden}">
+    <dipl id="t133_d1" trans="vorg{R_henomden}" utf="vorghenomden" />
+    <anno ascii="vorghenomden" checked="n" id="t133_m1" trans="vorg{R_henomden}" utf="vorghenomden" />
+  </token>
+  <token id="t134" trans="mu{R_n}te">
+    <dipl id="t134_d1" trans="mu{R_n}te" utf="munte" />
+    <anno ascii="munte" checked="n" id="t134_m1" trans="mu{R_n}te" utf="munte">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t135" trans="de">
+    <dipl id="t135_d1" trans="de" utf="de" />
+    <anno ascii="de" checked="n" id="t135_m1" trans="de" utf="de" />
+  </token>
+  <token id="t136" trans="ze">
+    <dipl id="t136_d1" trans="ze" utf="ze" />
+    <anno ascii="ze" checked="n" id="t136_m1" trans="ze" utf="ze" />
+  </token>
+  <token id="t137" trans="sijck">
+    <dipl id="t137_d1" trans="sijck" utf="sijck" />
+    <anno ascii="sijck" checked="n" id="t137_m1" trans="sijck" utf="sijck" />
+  </token>
+  <token id="t138" trans="van">
+    <dipl id="t138_d1" trans="van" utf="van" />
+    <anno ascii="van" checked="n" id="t138_m1" trans="van" utf="van" />
+  </token>
+  <token id="t139" trans="eͤn">
+    <dipl id="t139_d1" trans="eͤn" utf="eͤn" />
+    <anno ascii="eͤn" checked="n" id="t139_m1" trans="eͤn" utf="eͤn" />
+  </token>
+  <token id="t140" trans="to">
+    <dipl id="t140_d1" trans="to" utf="to" />
+    <anno ascii="to" checked="n" id="t140_m1" trans="to" utf="to" />
+  </token>
+  <token id="t141" trans="willen">
+    <dipl id="t141_d1" trans="willen" utf="willen" />
+    <anno ascii="willen" checked="n" id="t141_m1" trans="willen" utf="willen" />
+  </token>
+  <token id="t142" trans="all">
+    <dipl id="t142_d1" trans="all" utf="all" />
+    <anno ascii="all" checked="n" id="t142_m1" trans="all" utf="all" />
+  </token>
+  <token id="t143" trans="wal">
+    <dipl id="t143_d1" trans="wal" utf="wal" />
+    <anno ascii="wal" checked="n" id="t143_m1" trans="wal" utf="wal" />
+  </token>
+  <token id="t144" trans="betalt">
+    <dipl id="t144_d1" trans="betalt" utf="betalt" />
+    <anno ascii="betalt" checked="n" id="t144_m1" trans="betalt" utf="betalt" />
+  </token>
+  <token id="t145" trans="bekanden">
+    <dipl id="t145_d1" trans="bekanden" utf="bekanden" />
+    <anno ascii="bekanden" checked="n" id="t145_m1" trans="bekanden" utf="bekanden">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t146" trans="vnd">
+    <dipl id="t146_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t146_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t147" trans="loueden">
+    <dipl id="t147_d1" trans="loueden" utf="loueden" />
+    <anno ascii="loueden" checked="n" id="t147_m1" trans="loueden" utf="loueden">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t148" trans="vnd">
+    <dipl id="t148_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t148_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t149" trans="wyseden">
+    <dipl id="t149_d1" trans="wyseden" utf="wyseden" />
+    <anno ascii="wyseden" checked="n" id="t149_m1" trans="wyseden" utf="wyseden" />
+  </token>
+  <token id="t150" trans="eͤn">
+    <dipl id="t150_d1" trans="eͤn" utf="eͤn" />
+    <anno ascii="eͤn" checked="n" id="t150_m1" trans="eͤn" utf="eͤn" />
+  </token>
+  <token id="t151" trans="dusse">
+    <dipl id="t151_d1" trans="dusse" utf="dusse" />
+    <anno ascii="dusse" checked="n" id="t151_m1" trans="dusse" utf="dusse" />
+  </token>
+  <token id="t152" trans="Rente">
+    <dipl id="t152_d1" trans="Rente" utf="Rente" />
+    <anno ascii="Rente" checked="n" id="t152_m1" trans="Rente" utf="Rente" />
+  </token>
+  <token id="t153" trans="vp#toborene">
+    <dipl id="t153_d1" trans="vp#" utf="vp" />
+    <dipl id="t153_d2" trans="toborene" utf="toborene" />
+    <anno ascii="vptoborene" checked="n" id="t153_m1" trans="vp#toborene" utf="vptoborene" />
+  </token>
+  <token id="t154" trans="to">
+    <dipl id="t154_d1" trans="to" utf="to" />
+    <anno ascii="to" checked="n" id="t154_m1" trans="to" utf="to" />
+  </token>
+  <token id="t155" trans="manene">
+    <dipl id="t155_d1" trans="manene" utf="manene" />
+    <anno ascii="manene" checked="n" id="t155_m1" trans="manene" utf="manene" />
+  </token>
+  <token id="t156" trans="vnd">
+    <dipl id="t156_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t156_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t157" trans="wal">
+    <dipl id="t157_d1" trans="wal" utf="wal" />
+    <anno ascii="wal" checked="n" id="t157_m1" trans="wal" utf="wal" />
+  </token>
+  <token id="t158" trans="to">
+    <dipl id="t158_d1" trans="to" utf="to" />
+    <anno ascii="to" checked="n" id="t158_m1" trans="to" utf="to" />
+  </token>
+  <token id="t159" trans="betalene">
+    <dipl id="t159_d1" trans="betalene" utf="betalene" />
+    <anno ascii="betalene" checked="n" id="t159_m1" trans="betalene" utf="betalene" />
+  </token>
+  <token id="t160" trans=",">
+    <dipl id="t160_d1" trans="," utf="," />
+    <anno ascii="," checked="n" id="t160_m1" trans="," utf=",">
+      <bound_sent tag="Satzteil_F" /></anno>
+  </token>
+  <token id="t161" trans="Vortmer">
+    <dipl id="t161_d1" trans="Vortmer" utf="Vortmer" />
+    <anno ascii="Vortmer" checked="n" id="t161_m1" trans="Vortmer" utf="Vortmer" />
+  </token>
+  <token id="t162" trans="an">
+    <dipl id="t162_d1" trans="an" utf="an" />
+    <anno ascii="an" checked="n" id="t162_m1" trans="an" utf="an" />
+  </token>
+  <token id="t163" trans="van">
+    <dipl id="t163_d1" trans="van" utf="van" />
+    <anno ascii="van" checked="n" id="t163_m1" trans="van" utf="van" />
+  </token>
+  <token id="t164" trans="dusses">
+    <dipl id="t164_d1" trans="dusses" utf="dusses" />
+    <anno ascii="dusses" checked="n" id="t164_m1" trans="dusses" utf="dusses" />
+  </token>
+  <token id="t165" trans="breues">
+    <dipl id="t165_d1" trans="breues" utf="breues" />
+    <anno ascii="breues" checked="n" id="t165_m1" trans="breues" utf="breues" />
+  </token>
+  <token id="t166" trans="data">
+    <dipl id="t166_d1" trans="data" utf="data" />
+    <anno ascii="data" checked="n" id="t166_m1" trans="data" utf="data" />
+  </token>
+  <token id="t167" trans="alle">
+    <dipl id="t167_d1" trans="alle" utf="alle" />
+    <anno ascii="alle" checked="n" id="t167_m1" trans="alle" utf="alle" />
+  </token>
+  <token id="t168" trans="jar">
+    <dipl id="t168_d1" trans="jar" utf="jar" />
+    <anno ascii="jar" checked="n" id="t168_m1" trans="jar" utf="jar" />
+  </token>
+  <token id="t169" trans="vp">
+    <dipl id="t169_d1" trans="vp" utf="vp" />
+    <anno ascii="vp" checked="n" id="t169_m1" trans="vp" utf="vp" />
+  </token>
+  <token id="t170" trans="de">
+    <dipl id="t170_d1" trans="de" utf="de" />
+    <anno ascii="de" checked="n" id="t170_m1" trans="de" utf="de" />
+  </token>
+  <token id="t171" trans="hochtid">
+    <dipl id="t171_d1" trans="hochtid" utf="hochtid" />
+    <anno ascii="hochtid" checked="n" id="t171_m1" trans="hochtid" utf="hochtid" />
+  </token>
+  <token id="t172" trans="to">
+    <dipl id="t172_d1" trans="to" utf="to" />
+    <anno ascii="to" checked="n" id="t172_m1" trans="to" utf="to" />
+  </token>
+  <token id="t173" trans="pa=schen">
+    <dipl id="t173_d1" trans="pa=" utf="pa=" />
+    <dipl id="t173_d2" trans="schen" utf="schen" />
+    <anno ascii="paschen" checked="n" id="t173_m1" trans="pa=schen" utf="pa=schen" />
+  </token>
+  <token id="t174" trans=",">
+    <dipl id="t174_d1" trans="," utf="," />
+    <anno ascii="," checked="n" id="t174_m1" trans="," utf="," />
+  </token>
+  <token id="t175" trans="vte">
+    <dipl id="t175_d1" trans="vte" utf="vte" />
+    <anno ascii="vte" checked="n" id="t175_m1" trans="vte" utf="vte" />
+  </token>
+  <token id="t176" trans="eren">
+    <dipl id="t176_d1" trans="eren" utf="eren" />
+    <anno ascii="eren" checked="n" id="t176_m1" trans="eren" utf="eren" />
+  </token>
+  <token id="t177" trans="hues">
+    <dipl id="t177_d1" trans="hues" utf="hues" />
+    <anno ascii="hues" checked="n" id="t177_m1" trans="hues" utf="hues" />
+  </token>
+  <token id="t178" trans=",">
+    <dipl id="t178_d1" trans="," utf="," />
+    <anno ascii="," checked="n" id="t178_m1" trans="," utf="," />
+  </token>
+  <token id="t179" trans="vnd">
+    <dipl id="t179_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t179_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t180" trans="ute">
+    <dipl id="t180_d1" trans="ute" utf="ute" />
+    <anno ascii="ute" checked="n" id="t180_m1" trans="ute" utf="ute" />
+  </token>
+  <token id="t181" trans="siner">
+    <dipl id="t181_d1" trans="siner" utf="siner" />
+    <anno ascii="siner" checked="n" id="t181_m1" trans="siner" utf="siner" />
+  </token>
+  <token id="t182" trans="alinge{R_n}">
+    <dipl id="t182_d1" trans="alinge{R_n}" utf="alingen" />
+    <anno ascii="alingen" checked="n" id="t182_m1" trans="alinge{R_n}" utf="alingen" />
+  </token>
+  <token id="t183" trans="tobehoringe">
+    <dipl id="t183_d1" trans="tobehoringe" utf="tobehoringe" />
+    <anno ascii="tobehoringe" checked="n" id="t183_m1" trans="tobehoringe" utf="tobehoringe" />
+  </token>
+  <token id="t184" trans="belege{R_n}">
+    <dipl id="t184_d1" trans="belege{R_n}" utf="belegen" />
+    <anno ascii="belegen" checked="n" id="t184_m1" trans="belege{R_n}" utf="belegen" />
+  </token>
+  <token id="t185" trans="van">
+    <dipl id="t185_d1" trans="van" utf="van" />
+    <anno ascii="van" checked="n" id="t185_m1" trans="van" utf="van" />
+  </token>
+  <token id="t186" trans="der">
+    <dipl id="t186_d1" trans="der" utf="der" />
+    <anno ascii="der" checked="n" id="t186_m1" trans="der" utf="der" />
+  </token>
+  <token id="t187" trans="Cruceporte{R_n}">
+    <dipl id="t187_d1" trans="Cruceporte{R_n}" utf="Cruceporten" />
+    <anno ascii="Cruceporten" checked="n" id="t187_m1" trans="Cruceporte{R_n}" utf="Cruceporten" />
+  </token>
+  <token id="t188" trans="bynnen">
+    <dipl id="t188_d1" trans="bynnen" utf="bynnen" />
+    <anno ascii="bynnen" checked="n" id="t188_m1" trans="bynnen" utf="bynnen" />
+  </token>
+  <token id="t189" trans="mu{R_n}ster">
+    <dipl id="t189_d1" trans="mu{R_n}ster" utf="munster" />
+    <anno ascii="munster" checked="n" id="t189_m1" trans="mu{R_n}ster" utf="munster" />
+  </token>
+  <token id="t190" trans="tussche{R_n}">
+    <dipl id="t190_d1" trans="tussche{R_n}" utf="tusschen" />
+    <anno ascii="tusschen" checked="n" id="t190_m1" trans="tussche{R_n}" utf="tusschen" />
+  </token>
+  <token id="t191" trans="der">
+    <dipl id="t191_d1" trans="der" utf="der" />
+    <anno ascii="der" checked="n" id="t191_m1" trans="der" utf="der" />
+  </token>
+  <token id="t192" trans="stades">
+    <dipl id="t192_d1" trans="stades" utf="stades" />
+    <anno ascii="stades" checked="n" id="t192_m1" trans="stades" utf="stades" />
+  </token>
+  <token id="t193" trans="grauen">
+    <dipl id="t193_d1" trans="grauen" utf="grauen" />
+    <anno ascii="grauen" checked="n" id="t193_m1" trans="grauen" utf="grauen" />
+  </token>
+  <token id="t194" trans="vnd">
+    <dipl id="t194_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t194_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t195" trans="herma{R_n}nes">
+    <dipl id="t195_d1" trans="herma{R_n}nes" utf="hermannes" />
+    <anno ascii="hermannes" checked="n" id="t195_m1" trans="herma{R_n}nes" utf="hermannes" />
+  </token>
+  <token id="t196" trans="hus">
+    <dipl id="t196_d1" trans="hus" utf="hus" />
+    <anno ascii="hus" checked="n" id="t196_m1" trans="hus" utf="hus" />
+  </token>
+  <token id="t197" trans="des">
+    <dipl id="t197_d1" trans="des" utf="des" />
+    <anno ascii="des" checked="n" id="t197_m1" trans="des" utf="des" />
+  </token>
+  <token id="t198" trans="horenseues">
+    <dipl id="t198_d1" trans="horenseues" utf="horenseues" />
+    <anno ascii="horenseues" checked="n" id="t198_m1" trans="horenseues" utf="horenseues" />
+  </token>
+  <token id="t199" trans="vnd">
+    <dipl id="t199_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t199_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t200" trans="vort">
+    <dipl id="t200_d1" trans="vort" utf="vort" />
+    <anno ascii="vort" checked="n" id="t200_m1" trans="vort" utf="vort" />
+  </token>
+  <token id="t201" trans="vte">
+    <dipl id="t201_d1" trans="vte" utf="vte" />
+    <anno ascii="vte" checked="n" id="t201_m1" trans="vte" utf="vte" />
+  </token>
+  <token id="t202" trans="ere{R_n}">
+    <dipl id="t202_d1" trans="ere{R_n}" utf="eren" />
+    <anno ascii="eren" checked="n" id="t202_m1" trans="ere{R_n}" utf="eren" />
+  </token>
+  <token id="t203" trans="alingen">
+    <dipl id="t203_d1" trans="alingen" utf="alingen" />
+    <anno ascii="alingen" checked="n" id="t203_m1" trans="alingen" utf="alingen" />
+  </token>
+  <token id="t204" trans="gude">
+    <dipl id="t204_d1" trans="gude" utf="gude" />
+    <anno ascii="gude" checked="n" id="t204_m1" trans="gude" utf="gude" />
+  </token>
+  <token id="t205" trans=",">
+    <dipl id="t205_d1" trans="," utf="," />
+    <anno ascii="," checked="n" id="t205_m1" trans="," utf=",">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t206" trans="dat">
+    <dipl id="t206_d1" trans="dat" utf="dat" />
+    <anno ascii="dat" checked="n" id="t206_m1" trans="dat" utf="dat" />
+  </token>
+  <token id="t207" trans="zeͤ">
+    <dipl id="t207_d1" trans="zeͤ" utf="zeͤ" />
+    <anno ascii="zeͤ" checked="n" id="t207_m1" trans="zeͤ" utf="zeͤ" />
+  </token>
+  <token id="t208" trans="nv">
+    <dipl id="t208_d1" trans="nv" utf="nv" />
+    <anno ascii="nv" checked="n" id="t208_m1" trans="nv" utf="nv" />
+  </token>
+  <token id="t209" trans="tor">
+    <dipl id="t209_d1" trans="tor" utf="tor" />
+    <anno ascii="tor" checked="n" id="t209_m1" trans="tor" utf="tor" />
+  </token>
+  <token id="t210" trans="tijt">
+    <dipl id="t210_d1" trans="tijt" utf="tijt" />
+    <anno ascii="tijt" checked="n" id="t210_m1" trans="tijt" utf="tijt" />
+  </token>
+  <token id="t211" trans="hebt">
+    <dipl id="t211_d1" trans="hebt" utf="hebt" />
+    <anno ascii="hebt" checked="n" id="t211_m1" trans="hebt" utf="hebt">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t212" trans="vnd">
+    <dipl id="t212_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t212_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t213" trans="hir">
+    <dipl id="t213_d1" trans="hir" utf="hir" />
+    <anno ascii="hir" checked="n" id="t213_m1" trans="hir" utf="hir" />
+  </token>
+  <token id="t214" trans="na">
+    <dipl id="t214_d1" trans="na" utf="na" />
+    <anno ascii="na" checked="n" id="t214_m1" trans="na" utf="na" />
+  </token>
+  <token id="t215" trans="krygen">
+    <dipl id="t215_d1" trans="krygen" utf="krygen" />
+    <anno ascii="krygen" checked="n" id="t215_m1" trans="krygen" utf="krygen">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t216" trans="vnd">
+    <dipl id="t216_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t216_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t217" trans="wynne{R_n}">
+    <dipl id="t217_d1" trans="wynne{R_n}" utf="wynnen" />
+    <anno ascii="wynnen" checked="n" id="t217_m1" trans="wynne{R_n}" utf="wynnen" />
+  </token>
+  <token id="t218" trans="mogen">
+    <dipl id="t218_d1" trans="mogen" utf="mogen" />
+    <anno ascii="mogen" checked="n" id="t218_m1" trans="mogen" utf="mogen" />
+  </token>
+  <token id="t219" trans=",">
+    <dipl id="t219_d1" trans="," utf="," />
+    <anno ascii="," checked="n" id="t219_m1" trans="," utf=",">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t220" trans="vnd">
+    <dipl id="t220_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t220_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t221" trans="dusse">
+    <dipl id="t221_d1" trans="dusse" utf="dusse" />
+    <anno ascii="dusse" checked="n" id="t221_m1" trans="dusse" utf="dusse" />
+  </token>
+  <token id="t222" trans="seluen">
+    <dipl id="t222_d1" trans="seluen" utf="seluen" />
+    <anno ascii="seluen" checked="n" id="t222_m1" trans="seluen" utf="seluen" />
+  </token>
+  <token id="t223" trans="Temme">
+    <dipl id="t223_d1" trans="Temme" utf="Temme" />
+    <anno ascii="Temme" checked="n" id="t223_m1" trans="Temme" utf="Temme" />
+  </token>
+  <token id="t224" trans="vnd">
+    <dipl id="t224_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t224_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t225" trans="Arnd">
+    <dipl id="t225_d1" trans="Arnd" utf="Arnd" />
+    <anno ascii="Arnd" checked="n" id="t225_m1" trans="Arnd" utf="Arnd" />
+  </token>
+  <token id="t226" trans="vnd">
+    <dipl id="t226_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t226_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t227" trans="Drude">
+    <dipl id="t227_d1" trans="Drude" utf="Drude" />
+    <anno ascii="Drude" checked="n" id="t227_m1" trans="Drude" utf="Drude" />
+  </token>
+  <token id="t228" trans="vorkopers">
+    <dipl id="t228_d1" trans="vorkopers" utf="vorkopers" />
+    <anno ascii="vorkopers" checked="n" id="t228_m1" trans="vorkopers" utf="vorkopers" />
+  </token>
+  <token id="t229" trans="vorg{R_henomd}">
+    <dipl id="t229_d1" trans="vorg{R_henomd}" utf="vorghenomd" />
+    <anno ascii="vorghenomd" checked="n" id="t229_m1" trans="vorg{R_henomd}" utf="vorghenomd" />
+  </token>
+  <token id="t230" trans="vnd">
+    <dipl id="t230_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t230_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t231" trans="myt">
+    <dipl id="t231_d1" trans="myt" utf="myt" />
+    <anno ascii="myt" checked="n" id="t231_m1" trans="myt" utf="myt" />
+  </token>
+  <token id="t232" trans="eͤn">
+    <dipl id="t232_d1" trans="eͤn" utf="eͤn" />
+    <anno ascii="eͤn" checked="n" id="t232_m1" trans="eͤn" utf="eͤn" />
+  </token>
+  <token id="t233" trans="herman">
+    <dipl id="t233_d1" trans="herman" utf="herman" />
+    <anno ascii="herman" checked="n" id="t233_m1" trans="herman" utf="herman" />
+  </token>
+  <token id="t234" trans="deyetuͤd">
+    <dipl id="t234_d1" trans="deyetuͤd" utf="deyetuͤd" />
+    <anno ascii="deyetuͤd" checked="n" id="t234_m1" trans="deyetuͤd" utf="deyetuͤd" />
+  </token>
+  <token id="t235" trans="vnd">
+    <dipl id="t235_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t235_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t236" trans="Johan">
+    <dipl id="t236_d1" trans="Johan" utf="Johan" />
+    <anno ascii="Johan" checked="n" id="t236_m1" trans="Johan" utf="Johan" />
+  </token>
+  <token id="t237" trans="Osthoff">
+    <dipl id="t237_d1" trans="Osthoff" utf="Osthoff" />
+    <anno ascii="Osthoff" checked="n" id="t237_m1" trans="Osthoff" utf="Osthoff" />
+  </token>
+  <token id="t238" trans="bekanden">
+    <dipl id="t238_d1" trans="bekanden" utf="bekanden" />
+    <anno ascii="bekanden" checked="n" id="t238_m1" trans="bekanden" utf="bekanden">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t239" trans="vnd">
+    <dipl id="t239_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t239_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t240" trans="loueden">
+    <dipl id="t240_d1" trans="loueden" utf="loueden" />
+    <anno ascii="loueden" checked="n" id="t240_m1" trans="loueden" utf="loueden" />
+  </token>
+  <token id="t241" trans="vort">
+    <dipl id="t241_d1" trans="vort" utf="vort" />
+    <anno ascii="vort" checked="n" id="t241_m1" trans="vort" utf="vort" />
+  </token>
+  <token id="t242" trans="hir">
+    <dipl id="t242_d1" trans="hir" utf="hir" />
+    <anno ascii="hir" checked="n" id="t242_m1" trans="hir" utf="hir" />
+  </token>
+  <token id="t243" trans="to">
+    <dipl id="t243_d1" trans="to" utf="to" />
+    <anno ascii="to" checked="n" id="t243_m1" trans="to" utf="to" />
+  </token>
+  <token id="t244" trans="myt">
+    <dipl id="t244_d1" trans="myt" utf="myt" />
+    <anno ascii="myt" checked="n" id="t244_m1" trans="myt" utf="myt" />
+  </token>
+  <token id="t245" trans="samender§hant">
+    <dipl id="t245_d1" trans="samender§hant" utf="samenderhant" />
+    <anno ascii="samender" checked="n" id="t245_m1" trans="samender§" utf="samender" />
+    <anno ascii="hant" checked="n" id="t245_m2" trans="hant" utf="hant" />
+  </token>
+  <token id="t246" trans="alse">
+    <dipl id="t246_d1" trans="alse" utf="alse" />
+    <anno ascii="alse" checked="n" id="t246_m1" trans="alse" utf="alse" />
+  </token>
+  <token id="t247" trans="rechte">
+    <dipl id="t247_d1" trans="rechte" utf="rechte" />
+    <anno ascii="rechte" checked="n" id="t247_m1" trans="rechte" utf="rechte" />
+  </token>
+  <token id="t248" trans="sakewolden">
+    <dipl id="t248_d1" trans="sakewolden" utf="sakewolden" />
+    <anno ascii="sakewolden" checked="n" id="t248_m1" trans="sakewolden" utf="sakewolden" />
+  </token>
+  <token id="t249" trans="vnd">
+    <dipl id="t249_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t249_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t250" trans="erer">
+    <dipl id="t250_d1" trans="erer" utf="erer" />
+    <anno ascii="erer" checked="n" id="t250_m1" trans="erer" utf="erer" />
+  </token>
+  <token id="t251" trans="itlijck">
+    <dipl id="t251_d1" trans="itlijck" utf="itlijck" />
+    <anno ascii="itlijck" checked="n" id="t251_m1" trans="itlijck" utf="itlijck" />
+  </token>
+  <token id="t252" trans="eyn">
+    <dipl id="t252_d1" trans="eyn" utf="eyn" />
+    <anno ascii="eyn" checked="n" id="t252_m1" trans="eyn" utf="eyn" />
+  </token>
+  <token id="t253" trans="vor">
+    <dipl id="t253_d1" trans="vor" utf="vor" />
+    <anno ascii="vor" checked="n" id="t253_m1" trans="vor" utf="vor" />
+  </token>
+  <token id="t254" trans="al">
+    <dipl id="t254_d1" trans="al" utf="al" />
+    <anno ascii="al" checked="n" id="t254_m1" trans="al" utf="al" />
+  </token>
+  <token id="t255" trans="vor">
+    <dipl id="t255_d1" trans="vor" utf="vor" />
+    <anno ascii="vor" checked="n" id="t255_m1" trans="vor" utf="vor" />
+  </token>
+  <token id="t256" trans="sijck">
+    <dipl id="t256_d1" trans="sijck" utf="sijck" />
+    <anno ascii="sijck" checked="n" id="t256_m1" trans="sijck" utf="sijck" />
+  </token>
+  <token id="t257" trans="vnd">
+    <dipl id="t257_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t257_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t258" trans="vor">
+    <dipl id="t258_d1" trans="vor" utf="vor" />
+    <anno ascii="vor" checked="n" id="t258_m1" trans="vor" utf="vor" />
+  </token>
+  <token id="t259" trans="Johanne">
+    <dipl id="t259_d1" trans="Johanne" utf="Johanne" />
+    <anno ascii="Johanne" checked="n" id="t259_m1" trans="Johanne" utf="Johanne" />
+  </token>
+  <token id="t260" trans="vorg{R_enomd}">
+    <dipl id="t260_d1" trans="vorg{R_enomd}" utf="vorgenomd" />
+    <anno ascii="vorgenomd" checked="n" id="t260_m1" trans="vorg{R_enomd}" utf="vorgenomd">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t261" trans="de">
+    <dipl id="t261_d1" trans="de" utf="de" />
+    <anno ascii="de" checked="n" id="t261_m1" trans="de" utf="de" />
+  </token>
+  <token id="t262" trans="buten">
+    <dipl id="t262_d1" trans="buten" utf="buten" />
+    <anno ascii="buten" checked="n" id="t262_m1" trans="buten" utf="buten" />
+  </token>
+  <token id="t263" trans="landes">
+    <dipl id="t263_d1" trans="landes" utf="landes" />
+    <anno ascii="landes" checked="n" id="t263_m1" trans="landes" utf="landes" />
+  </token>
+  <token id="t264" trans="ys">
+    <dipl id="t264_d1" trans="ys" utf="ys" />
+    <anno ascii="ys" checked="n" id="t264_m1" trans="ys" utf="ys" />
+  </token>
+  <token id="t265" trans=".">
+    <dipl id="t265_d1" trans="." utf="." />
+    <anno ascii="." checked="n" id="t265_m1" trans="." utf=".">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t266" trans="vnd">
+    <dipl id="t266_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t266_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t267" trans="vor">
+    <dipl id="t267_d1" trans="vor" utf="vor" />
+    <anno ascii="vor" checked="n" id="t267_m1" trans="vor" utf="vor" />
+  </token>
+  <token id="t268" trans="all">
+    <dipl id="t268_d1" trans="all" utf="all" />
+    <anno ascii="all" checked="n" id="t268_m1" trans="all" utf="all" />
+  </token>
+  <token id="t269" trans="ere">
+    <dipl id="t269_d1" trans="ere" utf="ere" />
+    <anno ascii="ere" checked="n" id="t269_m1" trans="ere" utf="ere" />
+  </token>
+  <token id="t270" trans="eruen">
+    <dipl id="t270_d1" trans="eruen" utf="eruen" />
+    <anno ascii="eruen" checked="n" id="t270_m1" trans="eruen" utf="eruen" />
+  </token>
+  <token id="t271" trans="hinrik">
+    <dipl id="t271_d1" trans="hinrik" utf="hinrik" />
+    <anno ascii="hinrik" checked="n" id="t271_m1" trans="hinrik" utf="hinrik" />
+  </token>
+  <token id="t272" trans="holthuse">
+    <dipl id="t272_d1" trans="holthuse" utf="holthuse" />
+    <anno ascii="holthuse" checked="n" id="t272_m1" trans="holthuse" utf="holthuse" />
+  </token>
+  <token id="t273" trans="de{R_m}">
+    <dipl id="t273_d1" trans="de{R_m}" utf="dem" />
+    <anno ascii="dem" checked="n" id="t273_m1" trans="de{R_m}" utf="dem" />
+  </token>
+  <token id="t274" trans="scroder">
+    <dipl id="t274_d1" trans="scroder" utf="scroder" />
+    <anno ascii="scroder" checked="n" id="t274_m1" trans="scroder" utf="scroder" />
+  </token>
+  <token id="t275" trans="vnd">
+    <dipl id="t275_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t275_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t276" trans="Elzeken">
+    <dipl id="t276_d1" trans="Elzeken" utf="Elzeken" />
+    <anno ascii="Elzeken" checked="n" id="t276_m1" trans="Elzeken" utf="Elzeken" />
+  </token>
+  <token id="t277" trans="sir">
+    <dipl id="t277_d1" trans="sir" utf="sir" />
+    <anno ascii="sir" checked="n" id="t277_m1" trans="sir" utf="sir" />
+  </token>
+  <token id="t278" trans="echte{R_n}">
+    <dipl id="t278_d1" trans="echte{R_n}" utf="echten" />
+    <anno ascii="echten" checked="n" id="t278_m1" trans="echte{R_n}" utf="echten" />
+  </token>
+  <token id="t279" trans="vrouwen">
+    <dipl id="t279_d1" trans="vrouwen" utf="vrouwen" />
+    <anno ascii="vrouwen" checked="n" id="t279_m1" trans="vrouwen" utf="vrouwen" />
+  </token>
+  <token id="t280" trans="vorg{R_enomd}">
+    <dipl id="t280_d1" trans="vorg{R_enomd}" utf="vorgenomd" />
+    <anno ascii="vorgenomd" checked="n" id="t280_m1" trans="vorg{R_enomd}" utf="vorgenomd" />
+  </token>
+  <token id="t281" trans="vnd">
+    <dipl id="t281_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t281_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t282" trans="eren">
+    <dipl id="t282_d1" trans="eren" utf="eren" />
+    <anno ascii="eren" checked="n" id="t282_m1" trans="eren" utf="eren" />
+  </token>
+  <token id="t283" trans="eruen">
+    <dipl id="t283_d1" trans="eruen" utf="eruen" />
+    <anno ascii="eruen" checked="n" id="t283_m1" trans="eruen" utf="eruen" />
+  </token>
+  <token id="t284" trans=",">
+    <dipl id="t284_d1" trans="," utf="," />
+    <anno ascii="," checked="n" id="t284_m1" trans="," utf="," />
+  </token>
+  <token id="t285" trans="gude">
+    <dipl id="t285_d1" trans="gude" utf="gude" />
+    <anno ascii="gude" checked="n" id="t285_m1" trans="gude" utf="gude" />
+  </token>
+  <token id="t286" trans="rede">
+    <dipl id="t286_d1" trans="rede" utf="rede" />
+    <anno ascii="rede" checked="n" id="t286_m1" trans="rede" utf="rede" />
+  </token>
+  <token id="t287" trans="vnuorto=gede">
+    <dipl id="t287_d1" trans="vnuorto=" utf="vnuorto=" />
+    <dipl id="t287_d2" trans="gede" utf="gede" />
+    <anno ascii="vnuortogede" checked="n" id="t287_m1" trans="vnuorto=gede" utf="vnuorto=gede" />
+  </token>
+  <token id="t288" trans="betalinge">
+    <dipl id="t288_d1" trans="betalinge" utf="betalinge" />
+    <anno ascii="betalinge" checked="n" id="t288_m1" trans="betalinge" utf="betalinge" />
+  </token>
+  <token id="t289" trans="alle">
+    <dipl id="t289_d1" trans="alle" utf="alle" />
+    <anno ascii="alle" checked="n" id="t289_m1" trans="alle" utf="alle" />
+  </token>
+  <token id="t290" trans="wege">
+    <dipl id="t290_d1" trans="wege" utf="wege" />
+    <anno ascii="wege" checked="n" id="t290_m1" trans="wege" utf="wege" />
+  </token>
+  <token id="t291" trans="vp">
+    <dipl id="t291_d1" trans="vp" utf="vp" />
+    <anno ascii="vp" checked="n" id="t291_m1" trans="vp" utf="vp" />
+  </token>
+  <token id="t292" trans="paschen">
+    <dipl id="t292_d1" trans="paschen" utf="paschen" />
+    <anno ascii="paschen" checked="n" id="t292_m1" trans="paschen" utf="paschen" />
+  </token>
+  <token id="t293" trans=",">
+    <dipl id="t293_d1" trans="," utf="," />
+    <anno ascii="," checked="n" id="t293_m1" trans="," utf="," />
+  </token>
+  <token id="t294" trans="vnd">
+    <dipl id="t294_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t294_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t295" trans="Rechte">
+    <dipl id="t295_d1" trans="Rechte" utf="Rechte" />
+    <anno ascii="Rechte" checked="n" id="t295_m1" trans="Rechte" utf="Rechte" />
+  </token>
+  <token id="t296" trans="warscap">
+    <dipl id="t296_d1" trans="warscap" utf="warscap" />
+    <anno ascii="warscap" checked="n" id="t296_m1" trans="warscap" utf="warscap" />
+  </token>
+  <token id="t297" trans="to">
+    <dipl id="t297_d1" trans="to" utf="to" />
+    <anno ascii="to" checked="n" id="t297_m1" trans="to" utf="to" />
+  </token>
+  <token id="t298" trans="done">
+    <dipl id="t298_d1" trans="done" utf="done" />
+    <anno ascii="done" checked="n" id="t298_m1" trans="done" utf="done" />
+  </token>
+  <token id="t299" trans="dusser">
+    <dipl id="t299_d1" trans="dusser" utf="dusser" />
+    <anno ascii="dusser" checked="n" id="t299_m1" trans="dusser" utf="dusser" />
+  </token>
+  <token id="t300" trans="vorg{R_enomden}">
+    <dipl id="t300_d1" trans="vorg{R_enomden}" utf="vorgenomden" />
+    <anno ascii="vorgenomden" checked="n" id="t300_m1" trans="vorg{R_enomden}" utf="vorgenomden" />
+  </token>
+  <token id="t301" trans="rente">
+    <dipl id="t301_d1" trans="rente" utf="rente" />
+    <anno ascii="rente" checked="n" id="t301_m1" trans="rente" utf="rente" />
+  </token>
+  <token id="t302" trans=",">
+    <dipl id="t302_d1" trans="," utf="," />
+    <anno ascii="," checked="n" id="t302_m1" trans="," utf="," />
+  </token>
+  <token id="t303" trans="vte">
+    <dipl id="t303_d1" trans="vte" utf="vte" />
+    <anno ascii="vte" checked="n" id="t303_m1" trans="vte" utf="vte" />
+  </token>
+  <token id="t304" trans="dussen">
+    <dipl id="t304_d1" trans="dussen" utf="dussen" />
+    <anno ascii="dussen" checked="n" id="t304_m1" trans="dussen" utf="dussen" />
+  </token>
+  <token id="t305" trans="hus">
+    <dipl id="t305_d1" trans="hus" utf="hus" />
+    <anno ascii="hus" checked="n" id="t305_m1" trans="hus" utf="hus" />
+  </token>
+  <token id="t306" trans="vnd">
+    <dipl id="t306_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t306_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t307" trans="siner">
+    <dipl id="t307_d1" trans="siner" utf="siner" />
+    <anno ascii="siner" checked="n" id="t307_m1" trans="siner" utf="siner" />
+  </token>
+  <token id="t308" trans="tobehoringe">
+    <dipl id="t308_d1" trans="tobehoringe" utf="tobehoringe" />
+    <anno ascii="tobehoringe" checked="n" id="t308_m1" trans="tobehoringe" utf="tobehoringe" />
+  </token>
+  <token id="t309" trans="vnd">
+    <dipl id="t309_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t309_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t310" trans="alingen">
+    <dipl id="t310_d1" trans="alingen" utf="alingen" />
+    <anno ascii="alingen" checked="n" id="t310_m1" trans="alingen" utf="alingen" />
+  </token>
+  <token id="t311" trans="gude">
+    <dipl id="t311_d1" trans="gude" utf="gude" />
+    <anno ascii="gude" checked="n" id="t311_m1" trans="gude" utf="gude">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t312" trans="vnd">
+    <dipl id="t312_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t312_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t313" trans="dat">
+    <dipl id="t313_d1" trans="dat" utf="dat" />
+    <anno ascii="dat" checked="n" id="t313_m1" trans="dat" utf="dat" />
+  </token>
+  <token id="t314" trans="dar">
+    <dipl id="t314_d1" trans="dar" utf="dar" />
+    <anno ascii="dar" checked="n" id="t314_m1" trans="dar" utf="dar" />
+  </token>
+  <token id="t315" trans="voͤr">
+    <dipl id="t315_d1" trans="voͤr" utf="voͤr" />
+    <anno ascii="voͤr" checked="n" id="t315_m1" trans="voͤr" utf="voͤr" />
+  </token>
+  <token id="t316" trans="de">
+    <dipl id="t316_d1" trans="de" utf="de" />
+    <anno ascii="de" checked="n" id="t316_m1" trans="de" utf="de" />
+  </token>
+  <token id="t317" trans="halue">
+    <dipl id="t317_d1" trans="halue" utf="halue" />
+    <anno ascii="halue" checked="n" id="t317_m1" trans="halue" utf="halue" />
+  </token>
+  <token id="t318" trans="mark">
+    <dipl id="t318_d1" trans="mark" utf="mark" />
+    <anno ascii="mark" checked="n" id="t318_m1" trans="mark" utf="mark" />
+  </token>
+  <token id="t319" trans="geldes">
+    <dipl id="t319_d1" trans="geldes" utf="geldes" />
+    <anno ascii="geldes" checked="n" id="t319_m1" trans="geldes" utf="geldes" />
+  </token>
+  <token id="t320" trans="yarlix">
+    <dipl id="t320_d1" trans="yarlix" utf="yarlix" />
+    <anno ascii="yarlix" checked="n" id="t320_m1" trans="yarlix" utf="yarlix" />
+  </token>
+  <token id="t321" trans="to">
+    <dipl id="t321_d1" trans="to" utf="to" />
+    <anno ascii="to" checked="n" id="t321_m1" trans="to" utf="to" />
+  </token>
+  <token id="t322" trans="voren">
+    <dipl id="t322_d1" trans="voren" utf="voren" />
+    <anno ascii="voren" checked="n" id="t322_m1" trans="voren" utf="voren" />
+  </token>
+  <token id="t323" trans="vtgaet">
+    <dipl id="t323_d1" trans="vtgaet" utf="vtgaet" />
+    <anno ascii="vtgaet" checked="n" id="t323_m1" trans="vtgaet" utf="vtgaet">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t324" trans="vnd">
+    <dipl id="t324_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t324_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t325" trans="anders">
+    <dipl id="t325_d1" trans="anders" utf="anders" />
+    <anno ascii="anders" checked="n" id="t325_m1" trans="anders" utf="anders" />
+  </token>
+  <token id="t326" trans="myt">
+    <dipl id="t326_d1" trans="myt" utf="myt" />
+    <anno ascii="myt" checked="n" id="t326_m1" trans="myt" utf="myt" />
+  </token>
+  <token id="t327" trans="nijne{R_n}">
+    <dipl id="t327_d1" trans="nijne{R_n}" utf="nijnen" />
+    <anno ascii="nijnen" checked="n" id="t327_m1" trans="nijne{R_n}" utf="nijnen" />
+  </token>
+  <token id="t328" trans="schulden">
+    <dipl id="t328_d1" trans="schulden" utf="schulden" />
+    <anno ascii="schulden" checked="n" id="t328_m1" trans="schulden" utf="schulden" />
+  </token>
+  <token id="t329" trans="en">
+    <dipl id="t329_d1" trans="en" utf="en" />
+    <anno ascii="en" checked="n" id="t329_m1" trans="en" utf="en" />
+  </token>
+  <token id="t330" trans="sal">
+    <dipl id="t330_d1" trans="sal" utf="sal" />
+    <anno ascii="sal" checked="n" id="t330_m1" trans="sal" utf="sal" />
+  </token>
+  <token id="t331" trans="vorder">
+    <dipl id="t331_d1" trans="vorder" utf="vorder" />
+    <anno ascii="vorder" checked="n" id="t331_m1" trans="vorder" utf="vorder" />
+  </token>
+  <token id="t332" trans="beswert">
+    <dipl id="t332_d1" trans="beswert" utf="beswert" />
+    <anno ascii="beswert" checked="n" id="t332_m1" trans="beswert" utf="beswert" />
+  </token>
+  <token id="t333" trans="wese{R_n}">
+    <dipl id="t333_d1" trans="wese{R_n}" utf="wesen" />
+    <anno ascii="wesen" checked="n" id="t333_m1" trans="wese{R_n}" utf="wesen" />
+  </token>
+  <token id="t334" trans=".">
+    <dipl id="t334_d1" trans="." utf="." />
+    <anno ascii="." checked="n" id="t334_m1" trans="." utf=".">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t335" trans="vnd">
+    <dipl id="t335_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t335_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t336" trans="loueden">
+    <dipl id="t336_d1" trans="loueden" utf="loueden" />
+    <anno ascii="loueden" checked="n" id="t336_m1" trans="loueden" utf="loueden" />
+  </token>
+  <token id="t337" trans="vort">
+    <dipl id="t337_d1" trans="vort" utf="vort" />
+    <anno ascii="vort" checked="n" id="t337_m1" trans="vort" utf="vort" />
+  </token>
+  <token id="t338" trans="alle">
+    <dipl id="t338_d1" trans="alle" utf="alle" />
+    <anno ascii="alle" checked="n" id="t338_m1" trans="alle" utf="alle" />
+  </token>
+  <token id="t339" trans="gebreck">
+    <dipl id="t339_d1" trans="gebreck" utf="gebreck" />
+    <anno ascii="gebreck" checked="n" id="t339_m1" trans="gebreck" utf="gebreck" />
+  </token>
+  <token id="t340" trans="to">
+    <dipl id="t340_d1" trans="to" utf="to" />
+    <anno ascii="to" checked="n" id="t340_m1" trans="to" utf="to" />
+  </token>
+  <token id="t341" trans="vorrichtene">
+    <dipl id="t341_d1" trans="vorrichtene" utf="vorrichtene" />
+    <anno ascii="vorrichtene" checked="n" id="t341_m1" trans="vorrichtene" utf="vorrichtene">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t342" trans="dat">
+    <dipl id="t342_d1" trans="dat" utf="dat" />
+    <anno ascii="dat" checked="n" id="t342_m1" trans="dat" utf="dat" />
+  </token>
+  <token id="t343" trans="eͤn">
+    <dipl id="t343_d1" trans="eͤn" utf="eͤn" />
+    <anno ascii="eͤn" checked="n" id="t343_m1" trans="eͤn" utf="eͤn" />
+  </token>
+  <token id="t344" trans="hir">
+    <dipl id="t344_d1" trans="hir" utf="hir" />
+    <anno ascii="hir" checked="n" id="t344_m1" trans="hir" utf="hir" />
+  </token>
+  <token id="t345" trans="va{R_n}">
+    <dipl id="t345_d1" trans="va{R_n}" utf="van" />
+    <anno ascii="van" checked="n" id="t345_m1" trans="va{R_n}" utf="van" />
+  </token>
+  <token id="t346" trans="gescheyn">
+    <dipl id="t346_d1" trans="gescheyn" utf="gescheyn" />
+    <anno ascii="gescheyn" checked="n" id="t346_m1" trans="gescheyn" utf="gescheyn" />
+  </token>
+  <token id="t347" trans="mochte">
+    <dipl id="t347_d1" trans="mochte" utf="mochte" />
+    <anno ascii="mochte" checked="n" id="t347_m1" trans="mochte" utf="mochte">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t348" trans="wo">
+    <dipl id="t348_d1" trans="wo" utf="wo" />
+    <anno ascii="wo" checked="n" id="t348_m1" trans="wo" utf="wo" />
+  </token>
+  <token id="t349" trans="vake">
+    <dipl id="t349_d1" trans="vake" utf="vake" />
+    <anno ascii="vake" checked="n" id="t349_m1" trans="vake" utf="vake" />
+  </token>
+  <token id="t350" trans="eͤn">
+    <dipl id="t350_d1" trans="eͤn" utf="eͤn" />
+    <anno ascii="eͤn" checked="n" id="t350_m1" trans="eͤn" utf="eͤn" />
+  </token>
+  <token id="t351" trans="des">
+    <dipl id="t351_d1" trans="des" utf="des" />
+    <anno ascii="des" checked="n" id="t351_m1" trans="des" utf="des" />
+  </token>
+  <token id="t352" trans="not">
+    <dipl id="t352_d1" trans="not" utf="not" />
+    <anno ascii="not" checked="n" id="t352_m1" trans="not" utf="not" />
+  </token>
+  <token id="t353" trans="were§{R_t}">
+    <dipl id="t353_d1" trans="were§{R_t}" utf="weret" />
+    <anno ascii="were" checked="n" id="t353_m1" trans="were§" utf="were" />
+    <anno ascii="t" checked="n" id="t353_m2" trans="{R_t}" utf="t">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t354" trans="vnd">
+    <dipl id="t354_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t354_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t355" trans="moge{R_n}">
+    <dipl id="t355_d1" trans="moge{R_n}" utf="mogen" />
+    <anno ascii="mogen" checked="n" id="t355_m1" trans="moge{R_n}" utf="mogen" />
+  </token>
+  <token id="t356" trans="dusse">
+    <dipl id="t356_d1" trans="dusse" utf="dusse" />
+    <anno ascii="dusse" checked="n" id="t356_m1" trans="dusse" utf="dusse" />
+  </token>
+  <token id="t357" trans="vorg{R_enomde}">
+    <dipl id="t357_d1" trans="vorg{R_enomde}" utf="vorgenomde" />
+    <anno ascii="vorgenomde" checked="n" id="t357_m1" trans="vorg{R_enomde}" utf="vorgenomde" />
+  </token>
+  <token id="t358" trans="Rente">
+    <dipl id="t358_d1" trans="Rente" utf="Rente" />
+    <anno ascii="Rente" checked="n" id="t358_m1" trans="Rente" utf="Rente" />
+  </token>
+  <token id="t359" trans="to">
+    <dipl id="t359_d1" trans="to" utf="to" />
+    <anno ascii="to" checked="n" id="t359_m1" trans="to" utf="to" />
+  </token>
+  <token id="t360" trans="twen">
+    <dipl id="t360_d1" trans="twen" utf="twen" />
+    <anno ascii="twen" checked="n" id="t360_m1" trans="twen" utf="twen" />
+  </token>
+  <token id="t361" trans="tiden">
+    <dipl id="t361_d1" trans="tiden" utf="tiden" />
+    <anno ascii="tiden" checked="n" id="t361_m1" trans="tiden" utf="tiden" />
+  </token>
+  <token id="t362" trans="quijt">
+    <dipl id="t362_d1" trans="quijt" utf="quijt" />
+    <anno ascii="quijt" checked="n" id="t362_m1" trans="quijt" utf="quijt" />
+  </token>
+  <token id="t363" trans="kopen">
+    <dipl id="t363_d1" trans="kopen" utf="kopen" />
+    <anno ascii="kopen" checked="n" id="t363_m1" trans="kopen" utf="kopen" />
+  </token>
+  <token id="t364" trans=".">
+    <dipl id="t364_d1" trans="." utf="." />
+    <anno ascii="." checked="n" id="t364_m1" trans="." utf="." />
+  </token>
+  <token id="t365" trans="so">
+    <dipl id="t365_d1" trans="so" utf="so" />
+    <anno ascii="so" checked="n" id="t365_m1" trans="so" utf="so" />
+  </token>
+  <token id="t366" trans="myt">
+    <dipl id="t366_d1" trans="myt" utf="myt" />
+    <anno ascii="myt" checked="n" id="t366_m1" trans="myt" utf="myt" />
+  </token>
+  <token id="t367" trans="Achteyn">
+    <dipl id="t367_d1" trans="Achteyn" utf="Achteyn" />
+    <anno ascii="Achteyn" checked="n" id="t367_m1" trans="Achteyn" utf="Achteyn" />
+  </token>
+  <token id="t368" trans="guldene{R_n}">
+    <dipl id="t368_d1" trans="guldene{R_n}" utf="guldenen" />
+    <anno ascii="guldenen" checked="n" id="t368_m1" trans="guldene{R_n}" utf="guldenen" />
+  </token>
+  <token id="t369" trans="eynen">
+    <dipl id="t369_d1" trans="eynen" utf="eynen" />
+    <anno ascii="eynen" checked="n" id="t369_m1" trans="eynen" utf="eynen" />
+  </token>
+  <token id="t370" trans="gulden">
+    <dipl id="t370_d1" trans="gulden" utf="gulden" />
+    <anno ascii="gulden" checked="n" id="t370_m1" trans="gulden" utf="gulden" />
+  </token>
+  <token id="t371" trans="der">
+    <dipl id="t371_d1" trans="der" utf="der" />
+    <anno ascii="der" checked="n" id="t371_m1" trans="der" utf="der" />
+  </token>
+  <token id="t372" trans="vorg{R_enomden}">
+    <dipl id="t372_d1" trans="vorg{R_enomden}" utf="vorgenomden" />
+    <anno ascii="vorgenomden" checked="n" id="t372_m1" trans="vorg{R_enomden}" utf="vorgenomden" />
+  </token>
+  <token id="t373" trans="mu{R_n}te">
+    <dipl id="t373_d1" trans="mu{R_n}te" utf="munte" />
+    <anno ascii="munte" checked="n" id="t373_m1" trans="mu{R_n}te" utf="munte" />
+  </token>
+  <token id="t374" trans="vnd">
+    <dipl id="t374_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t374_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t375" trans="myt">
+    <dipl id="t375_d1" trans="myt" utf="myt" />
+    <anno ascii="myt" checked="n" id="t375_m1" trans="myt" utf="myt" />
+  </token>
+  <token id="t376" trans="der">
+    <dipl id="t376_d1" trans="der" utf="der" />
+    <anno ascii="der" checked="n" id="t376_m1" trans="der" utf="der" />
+  </token>
+  <token id="t377" trans="alinge{R_n}">
+    <dipl id="t377_d1" trans="alinge{R_n}" utf="alingen" />
+    <anno ascii="alingen" checked="n" id="t377_m1" trans="alinge{R_n}" utf="alingen" />
+  </token>
+  <token id="t378" trans="rente">
+    <dipl id="t378_d1" trans="rente" utf="rente" />
+    <anno ascii="rente" checked="n" id="t378_m1" trans="rente" utf="rente" />
+  </token>
+  <token id="t379" trans="dan">
+    <dipl id="t379_d1" trans="dan" utf="dan" />
+    <anno ascii="dan" checked="n" id="t379_m1" trans="dan" utf="dan" />
+  </token>
+  <token id="t380" trans="vorscheue{R_n}">
+    <dipl id="t380_d1" trans="vorscheue{R_n}" utf="vorscheuen" />
+    <anno ascii="vorscheuen" checked="n" id="t380_m1" trans="vorscheue{R_n}" utf="vorscheuen">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t381" trans="vnd">
+    <dipl id="t381_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t381_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t382" trans="vorscetten">
+    <dipl id="t382_d1" trans="vorscetten" utf="vorscetten" />
+    <anno ascii="vorscetten" checked="n" id="t382_m1" trans="vorscetten" utf="vorscetten" />
+  </token>
+  <token id="t383" trans=",">
+    <dipl id="t383_d1" trans="," utf="," />
+    <anno ascii="," checked="n" id="t383_m1" trans="," utf="," />
+  </token>
+  <token id="t384" trans="alse">
+    <dipl id="t384_d1" trans="alse" utf="alse" />
+    <anno ascii="alse" checked="n" id="t384_m1" trans="alse" utf="alse" />
+  </token>
+  <token id="t385" trans="eͤn">
+    <dipl id="t385_d1" trans="eͤn" utf="eͤn" />
+    <anno ascii="eͤn" checked="n" id="t385_m1" trans="eͤn" utf="eͤn" />
+  </token>
+  <token id="t386" trans=",">
+    <dipl id="t386_d1" trans="," utf="," />
+    <anno ascii="," checked="n" id="t386_m1" trans="," utf="," />
+  </token>
+  <token id="t387" trans="de">
+    <dipl id="t387_d1" trans="de" utf="de" />
+    <anno ascii="de" checked="n" id="t387_m1" trans="de" utf="de" />
+  </token>
+  <token id="t388" trans="vorg{R_enomde}">
+    <dipl id="t388_d1" trans="vorg{R_enomde}" utf="vorgenomde" />
+    <anno ascii="vorgenomde" checked="n" id="t388_m1" trans="vorg{R_enomde}" utf="vorgenomde" />
+  </token>
+  <token id="t389" trans="hinrich">
+    <dipl id="t389_d1" trans="hinrich" utf="hinrich" />
+    <anno ascii="hinrich" checked="n" id="t389_m1" trans="hinrich" utf="hinrich" />
+  </token>
+  <token id="t390" trans="holthus">
+    <dipl id="t390_d1" trans="holthus" utf="holthus" />
+    <anno ascii="holthus" checked="n" id="t390_m1" trans="holthus" utf="holthus" />
+  </token>
+  <token id="t391" trans="al">
+    <dipl id="t391_d1" trans="al" utf="al" />
+    <anno ascii="al" checked="n" id="t391_m1" trans="al" utf="al" />
+  </token>
+  <token id="t392" trans="dar">
+    <dipl id="t392_d1" trans="dar" utf="dar" />
+    <anno ascii="dar" checked="n" id="t392_m1" trans="dar" utf="dar" />
+  </token>
+  <token id="t393" trans="louede">
+    <dipl id="t393_d1" trans="louede" utf="louede" />
+    <anno ascii="louede" checked="n" id="t393_m1" trans="louede" utf="louede">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t394" trans="vnd">
+    <dipl id="t394_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t394_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t395" trans="enkande">
+    <dipl id="t395_d1" trans="enkande" utf="enkande" />
+    <anno ascii="enkande" checked="n" id="t395_m1" trans="enkande" utf="enkande" />
+  </token>
+  <token id="t396" trans="sunder">
+    <dipl id="t396_d1" trans="sunder" utf="sunder" />
+    <anno ascii="sunder" checked="n" id="t396_m1" trans="sunder" utf="sunder" />
+  </token>
+  <token id="t397" trans="al">
+    <dipl id="t397_d1" trans="al" utf="al" />
+    <anno ascii="al" checked="n" id="t397_m1" trans="al" utf="al" />
+  </token>
+  <token id="t398" trans="argelist">
+    <dipl id="t398_d1" trans="argelist" utf="argelist" />
+    <anno ascii="argelist" checked="n" id="t398_m1" trans="argelist" utf="argelist" />
+  </token>
+  <token id="t399" trans=".">
+    <dipl id="t399_d1" trans="." utf="." />
+    <anno ascii="." checked="n" id="t399_m1" trans="." utf=".">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t400" trans="wante">
+    <dipl id="t400_d1" trans="wante" utf="wante" />
+    <anno ascii="wante" checked="n" id="t400_m1" trans="wante" utf="wante" />
+  </token>
+  <token id="t401" trans="dyt">
+    <dipl id="t401_d1" trans="dyt" utf="dyt" />
+    <anno ascii="dyt" checked="n" id="t401_m1" trans="dyt" utf="dyt" />
+  </token>
+  <token id="t402" trans="al#dus">
+    <dipl id="t402_d1" trans="al#" utf="al" />
+    <dipl id="t402_d2" trans="dus" utf="dus" />
+    <anno ascii="aldus" checked="n" id="t402_m1" trans="al#dus" utf="aldus" />
+  </token>
+  <token id="t403" trans="vor">
+    <dipl id="t403_d1" trans="vor" utf="vor" />
+    <anno ascii="vor" checked="n" id="t403_m1" trans="vor" utf="vor" />
+  </token>
+  <token id="t404" trans="vns">
+    <dipl id="t404_d1" trans="vns" utf="vns" />
+    <anno ascii="vns" checked="n" id="t404_m1" trans="vns" utf="vns" />
+  </token>
+  <token id="t405" trans="Bertolde">
+    <dipl id="t405_d1" trans="Bertolde" utf="Bertolde" />
+    <anno ascii="Bertolde" checked="n" id="t405_m1" trans="Bertolde" utf="Bertolde" />
+  </token>
+  <token id="t406" trans="Richter">
+    <dipl id="t406_d1" trans="Richter" utf="Richter" />
+    <anno ascii="Richter" checked="n" id="t406_m1" trans="Richter" utf="Richter" />
+  </token>
+  <token id="t407" trans="vorg{R_henomd}">
+    <dipl id="t407_d1" trans="vorg{R_henomd}" utf="vorghenomd" />
+    <anno ascii="vorghenomd" checked="n" id="t407_m1" trans="vorg{R_henomd}" utf="vorghenomd" />
+  </token>
+  <token id="t408" trans="gescheyn">
+    <dipl id="t408_d1" trans="gescheyn" utf="gescheyn" />
+    <anno ascii="gescheyn" checked="n" id="t408_m1" trans="gescheyn" utf="gescheyn" />
+  </token>
+  <token id="t409" trans="is">
+    <dipl id="t409_d1" trans="is" utf="is" />
+    <anno ascii="is" checked="n" id="t409_m1" trans="is" utf="is" />
+  </token>
+  <token id="t410" trans=".">
+    <dipl id="t410_d1" trans="." utf="." />
+    <anno ascii="." checked="n" id="t410_m1" trans="." utf=".">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t411" trans="zo">
+    <dipl id="t411_d1" trans="zo" utf="zo" />
+    <anno ascii="zo" checked="n" id="t411_m1" trans="zo" utf="zo" />
+  </token>
+  <token id="t412" trans="hebbe">
+    <dipl id="t412_d1" trans="hebbe" utf="hebbe" />
+    <anno ascii="hebbe" checked="n" id="t412_m1" trans="hebbe" utf="hebbe" />
+  </token>
+  <token id="t413" trans="wy">
+    <dipl id="t413_d1" trans="wy" utf="wy" />
+    <anno ascii="wy" checked="n" id="t413_m1" trans="wy" utf="wy" />
+  </token>
+  <token id="t414" trans="des">
+    <dipl id="t414_d1" trans="des" utf="des" />
+    <anno ascii="des" checked="n" id="t414_m1" trans="des" utf="des" />
+  </token>
+  <token id="t415" trans="to">
+    <dipl id="t415_d1" trans="to" utf="to" />
+    <anno ascii="to" checked="n" id="t415_m1" trans="to" utf="to" />
+  </token>
+  <token id="t416" trans="tuͦge">
+    <dipl id="t416_d1" trans="tuͦge" utf="tuͦge" />
+    <anno ascii="tuͦge" checked="n" id="t416_m1" trans="tuͦge" utf="tuͦge" />
+  </token>
+  <token id="t417" trans="vnse">
+    <dipl id="t417_d1" trans="vnse" utf="vnse" />
+    <anno ascii="vnse" checked="n" id="t417_m1" trans="vnse" utf="vnse" />
+  </token>
+  <token id="t418" trans="Ingesegel">
+    <dipl id="t418_d1" trans="Ingesegel" utf="Ingesegel" />
+    <anno ascii="Ingesegel" checked="n" id="t418_m1" trans="Ingesegel" utf="Ingesegel" />
+  </token>
+  <token id="t419" trans="v{R_m}me">
+    <dipl id="t419_d1" trans="v{R_m}me" utf="vmme" />
+    <anno ascii="vmme" checked="n" id="t419_m1" trans="v{R_m}me" utf="vmme" />
+  </token>
+  <token id="t420" trans="bede">
+    <dipl id="t420_d1" trans="bede" utf="bede" />
+    <anno ascii="bede" checked="n" id="t420_m1" trans="bede" utf="bede" />
+  </token>
+  <token id="t421" trans="willen">
+    <dipl id="t421_d1" trans="willen" utf="willen" />
+    <anno ascii="willen" checked="n" id="t421_m1" trans="willen" utf="willen" />
+  </token>
+  <token id="t422" trans="beyder">
+    <dipl id="t422_d1" trans="beyder" utf="beyder" />
+    <anno ascii="beyder" checked="n" id="t422_m1" trans="beyder" utf="beyder" />
+  </token>
+  <token id="t423" trans="partye">
+    <dipl id="t423_d1" trans="partye" utf="partye" />
+    <anno ascii="partye" checked="n" id="t423_m1" trans="partye" utf="partye" />
+  </token>
+  <token id="t424" trans="an">
+    <dipl id="t424_d1" trans="an" utf="an" />
+    <anno ascii="an" checked="n" id="t424_m1" trans="an" utf="an" />
+  </token>
+  <token id="t425" trans="dussen">
+    <dipl id="t425_d1" trans="dussen" utf="dussen" />
+    <anno ascii="dussen" checked="n" id="t425_m1" trans="dussen" utf="dussen" />
+  </token>
+  <token id="t426" trans="breff">
+    <dipl id="t426_d1" trans="breff" utf="breff" />
+    <anno ascii="breff" checked="n" id="t426_m1" trans="breff" utf="breff" />
+  </token>
+  <token id="t427" trans="gehange{R_n}">
+    <dipl id="t427_d1" trans="gehange{R_n}" utf="gehangen" />
+    <anno ascii="gehangen" checked="n" id="t427_m1" trans="gehange{R_n}" utf="gehangen" />
+  </token>
+  <token id="t428" trans=",">
+    <dipl id="t428_d1" trans="," utf="," />
+    <anno ascii="," checked="n" id="t428_m1" trans="," utf=",">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t429" trans="hir">
+    <dipl id="t429_d1" trans="hir" utf="hir" />
+    <anno ascii="hir" checked="n" id="t429_m1" trans="hir" utf="hir" />
+  </token>
+  <token id="t430" trans="were{R_n}">
+    <dipl id="t430_d1" trans="were{R_n}" utf="weren" />
+    <anno ascii="weren" checked="n" id="t430_m1" trans="were{R_n}" utf="weren" />
+  </token>
+  <token id="t431" trans="an">
+    <dipl id="t431_d1" trans="an" utf="an" />
+    <anno ascii="an" checked="n" id="t431_m1" trans="an" utf="an" />
+  </token>
+  <token id="t432" trans="vnd">
+    <dipl id="t432_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t432_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t433" trans="ouer">
+    <dipl id="t433_d1" trans="ouer" utf="ouer" />
+    <anno ascii="ouer" checked="n" id="t433_m1" trans="ouer" utf="ouer" />
+  </token>
+  <token id="t434" trans="to">
+    <dipl id="t434_d1" trans="to" utf="to" />
+    <anno ascii="to" checked="n" id="t434_m1" trans="to" utf="to" />
+  </token>
+  <token id="t435" trans="rechte{R_n}">
+    <dipl id="t435_d1" trans="rechte{R_n}" utf="rechten" />
+    <anno ascii="rechten" checked="n" id="t435_m1" trans="rechte{R_n}" utf="rechten" />
+  </token>
+  <token id="t436" trans="tuchluden">
+    <dipl id="t436_d1" trans="tuchluden" utf="tuchluden" />
+    <anno ascii="tuchluden" checked="n" id="t436_m1" trans="tuchluden" utf="tuchluden" />
+  </token>
+  <token id="t437" trans="gebeden">
+    <dipl id="t437_d1" trans="gebeden" utf="gebeden" />
+    <anno ascii="gebeden" checked="n" id="t437_m1" trans="gebeden" utf="gebeden" />
+  </token>
+  <token id="t438" trans="van">
+    <dipl id="t438_d1" trans="van" utf="van" />
+    <anno ascii="van" checked="n" id="t438_m1" trans="van" utf="van" />
+  </token>
+  <token id="t439" trans="beyden">
+    <dipl id="t439_d1" trans="beyden" utf="beyden" />
+    <anno ascii="beyden" checked="n" id="t439_m1" trans="beyden" utf="beyden" />
+  </token>
+  <token id="t440" trans="syden">
+    <dipl id="t440_d1" trans="syden" utf="syden" />
+    <anno ascii="syden" checked="n" id="t440_m1" trans="syden" utf="syden" />
+  </token>
+  <token id="t441" trans="Bernd">
+    <dipl id="t441_d1" trans="Bernd" utf="Bernd" />
+    <anno ascii="Bernd" checked="n" id="t441_m1" trans="Bernd" utf="Bernd" />
+  </token>
+  <token id="t442" trans="Remen">
+    <dipl id="t442_d1" trans="Remen" utf="Remen" />
+    <anno ascii="Remen" checked="n" id="t442_m1" trans="Remen" utf="Remen" />
+  </token>
+  <token id="t443" trans="de">
+    <dipl id="t443_d1" trans="de" utf="de" />
+    <anno ascii="de" checked="n" id="t443_m1" trans="de" utf="de" />
+  </token>
+  <token id="t444" trans="becker">
+    <dipl id="t444_d1" trans="becker" utf="becker" />
+    <anno ascii="becker" checked="n" id="t444_m1" trans="becker" utf="becker" />
+  </token>
+  <token id="t445" trans="vnd">
+    <dipl id="t445_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t445_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t446" trans="Bernd">
+    <dipl id="t446_d1" trans="Bernd" utf="Bernd" />
+    <anno ascii="Bernd" checked="n" id="t446_m1" trans="Bernd" utf="Bernd" />
+  </token>
+  <token id="t447" trans="kerstien">
+    <dipl id="t447_d1" trans="kerstien" utf="kerstien" />
+    <anno ascii="kerstien" checked="n" id="t447_m1" trans="kerstien" utf="kerstien" />
+  </token>
+  <token id="t448" trans="de">
+    <dipl id="t448_d1" trans="de" utf="de" />
+    <anno ascii="de" checked="n" id="t448_m1" trans="de" utf="de" />
+  </token>
+  <token id="t449" trans="becker">
+    <dipl id="t449_d1" trans="becker" utf="becker" />
+    <anno ascii="becker" checked="n" id="t449_m1" trans="becker" utf="becker" />
+  </token>
+  <token id="t450" trans="vnd">
+    <dipl id="t450_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t450_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t451" trans="mer">
+    <dipl id="t451_d1" trans="mer" utf="mer" />
+    <anno ascii="mer" checked="n" id="t451_m1" trans="mer" utf="mer" />
+  </token>
+  <token id="t452" trans="guder">
+    <dipl id="t452_d1" trans="guder" utf="guder" />
+    <anno ascii="guder" checked="n" id="t452_m1" trans="guder" utf="guder" />
+  </token>
+  <token id="t453" trans="lude">
+    <dipl id="t453_d1" trans="lude" utf="lude" />
+    <anno ascii="lude" checked="n" id="t453_m1" trans="lude" utf="lude" />
+  </token>
+  <token id="t454" trans="genoch">
+    <dipl id="t454_d1" trans="genoch" utf="genoch" />
+    <anno ascii="genoch" checked="n" id="t454_m1" trans="genoch" utf="genoch" />
+  </token>
+  <token id="t455" trans=".">
+    <dipl id="t455_d1" trans="." utf="." />
+    <anno ascii="." checked="n" id="t455_m1" trans="." utf=".">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t456" trans="Datu{R_m}">
+    <dipl id="t456_d1" trans="Datu{R_m}" utf="Datum" />
+    <anno ascii="Datum" checked="n" id="t456_m1" trans="Datu{R_m}" utf="Datum" />
+  </token>
+  <token id="t457" trans="anno">
+    <dipl id="t457_d1" trans="anno" utf="anno" />
+    <anno ascii="anno" checked="n" id="t457_m1" trans="anno" utf="anno" />
+  </token>
+  <token id="t458" trans="D{R_omi}ni">
+    <dipl id="t458_d1" trans="D{R_omi}ni" utf="Domini" />
+    <anno ascii="Domini" checked="n" id="t458_m1" trans="D{R_omi}ni" utf="Domini" />
+  </token>
+  <token id="t459" trans="Moccccolx">
+    <dipl id="t459_d1" trans="Moccccolx" utf="Moccccolx" />
+    <anno ascii="Moccccolx" checked="n" id="t459_m1" trans="Moccccolx" utf="Moccccolx" />
+  </token>
+  <token id="t460" trans="septimo">
+    <dipl id="t460_d1" trans="septimo" utf="septimo" />
+    <anno ascii="septimo" checked="n" id="t460_m1" trans="septimo" utf="septimo" />
+  </token>
+  <token id="t461" trans="In">
+    <dipl id="t461_d1" trans="In" utf="In" />
+    <anno ascii="In" checked="n" id="t461_m1" trans="In" utf="In" />
+  </token>
+  <token id="t462" trans="profesto">
+    <dipl id="t462_d1" trans="profesto" utf="profesto" />
+    <anno ascii="profesto" checked="n" id="t462_m1" trans="profesto" utf="profesto" />
+  </token>
+  <token id="t463" trans="Pauli">
+    <dipl id="t463_d1" trans="Pauli" utf="Pauli" />
+    <anno ascii="Pauli" checked="n" id="t463_m1" trans="Pauli" utf="Pauli" />
+  </token>
+  <token id="t464" trans="primi">
+    <dipl id="t464_d1" trans="primi" utf="primi" />
+    <anno ascii="primi" checked="n" id="t464_m1" trans="primi" utf="primi" />
+  </token>
+  <token id="t465" trans="h{R_er}emite">
+    <dipl id="t465_d1" trans="h{R_er}emite" utf="heremite" />
+    <anno ascii="heremite" checked="n" id="t465_m1" trans="h{R_er}emite" utf="heremite" />
+  </token>
+  <token id="t466" trans=".">
+    <dipl id="t466_d1" trans="." utf="." />
+    <anno ascii="." checked="n" id="t466_m1" trans="." utf="." />
+  </token>
+  <comment type="K">ASnA Ortspunkt-Corpus Münster Mst 1449c</comment>
+  <token id="t467" trans="Wij">
+    <dipl id="t467_d1" trans="Wij" utf="Wij" />
+    <anno ascii="Wij" checked="n" id="t467_m1" trans="Wij" utf="Wij">
+      </anno>
+  </token>
+  <token id="t468" trans="Ghiselbert">
+    <dipl id="t468_d1" trans="Ghiselbert" utf="Ghiselbert" />
+    <anno ascii="Ghiselbert" checked="n" id="t468_m1" trans="Ghiselbert" utf="Ghiselbert" />
+  </token>
+  <token id="t469" trans="van">
+    <dipl id="t469_d1" trans="van" utf="van" />
+    <anno ascii="van" checked="n" id="t469_m1" trans="van" utf="van" />
+  </token>
+  <token id="t470" trans="hofften">
+    <dipl id="t470_d1" trans="hofften" utf="hofften" />
+    <anno ascii="hofften" checked="n" id="t470_m1" trans="hofften" utf="hofften" />
+  </token>
+  <token id="t471" trans="vrijgreue">
+    <dipl id="t471_d1" trans="vrijgreue" utf="vrijgreue" />
+    <anno ascii="vrijgreue" checked="n" id="t471_m1" trans="vrijgreue" utf="vrijgreue" />
+  </token>
+  <token id="t472" trans="der">
+    <dipl id="t472_d1" trans="der" utf="der" />
+    <anno ascii="der" checked="n" id="t472_m1" trans="der" utf="der" />
+  </token>
+  <token id="t473" trans="Stad">
+    <dipl id="t473_d1" trans="Stad" utf="Stad" />
+    <anno ascii="Stad" checked="n" id="t473_m1" trans="Stad" utf="Stad" />
+  </token>
+  <token id="t474" trans="Munster">
+    <dipl id="t474_d1" trans="Munster" utf="Munster" />
+    <anno ascii="Munster" checked="n" id="t474_m1" trans="Munster" utf="Munster" />
+  </token>
+  <token id="t475" trans="dot">
+    <dipl id="t475_d1" trans="dot" utf="dot" />
+    <anno ascii="dot" checked="n" id="t475_m1" trans="dot" utf="dot" />
+  </token>
+  <token id="t476" trans="kundich">
+    <dipl id="t476_d1" trans="kundich" utf="kundich" />
+    <anno ascii="kundich" checked="n" id="t476_m1" trans="kundich" utf="kundich" />
+  </token>
+  <token id="t477" trans="allen">
+    <dipl id="t477_d1" trans="allen" utf="allen" />
+    <anno ascii="allen" checked="n" id="t477_m1" trans="allen" utf="allen" />
+  </token>
+  <token id="t478" trans="luden">
+    <dipl id="t478_d1" trans="luden" utf="luden" />
+    <anno ascii="luden" checked="n" id="t478_m1" trans="luden" utf="luden">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t479" trans="Bekennet">
+    <dipl id="t479_d1" trans="Bekennet" utf="Bekennet" />
+    <anno ascii="Bekennet" checked="n" id="t479_m1" trans="Bekennet" utf="Bekennet">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t480" trans="vnd">
+    <dipl id="t480_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t480_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t481" trans="betuget">
+    <dipl id="t481_d1" trans="betuget" utf="betuget" />
+    <anno ascii="betuget" checked="n" id="t481_m1" trans="betuget" utf="betuget" />
+  </token>
+  <token id="t482" trans="openbar">
+    <dipl id="t482_d1" trans="openbar" utf="openbar" />
+    <anno ascii="openbar" checked="n" id="t482_m1" trans="openbar" utf="openbar" />
+  </token>
+  <token id="t483" trans="in">
+    <dipl id="t483_d1" trans="in" utf="in" />
+    <anno ascii="in" checked="n" id="t483_m1" trans="in" utf="in" />
+  </token>
+  <token id="t484" trans="dussen">
+    <dipl id="t484_d1" trans="dussen" utf="dussen" />
+    <anno ascii="dussen" checked="n" id="t484_m1" trans="dussen" utf="dussen" />
+  </token>
+  <token id="t485" trans="breue">
+    <dipl id="t485_d1" trans="breue" utf="breue" />
+    <anno ascii="breue" checked="n" id="t485_m1" trans="breue" utf="breue" />
+  </token>
+  <token id="t486" trans=",">
+    <dipl id="t486_d1" trans="," utf="," />
+    <anno ascii="," checked="n" id="t486_m1" trans="," utf=",">
+      <bound_sent tag="Satzteil_I" /></anno>
+  </token>
+  <token id="t487" trans="dat">
+    <dipl id="t487_d1" trans="dat" utf="dat" />
+    <anno ascii="dat" checked="n" id="t487_m1" trans="dat" utf="dat" />
+  </token>
+  <token id="t488" trans="vor">
+    <dipl id="t488_d1" trans="vor" utf="vor" />
+    <anno ascii="vor" checked="n" id="t488_m1" trans="vor" utf="vor" />
+  </token>
+  <token id="t489" trans="vns">
+    <dipl id="t489_d1" trans="vns" utf="vns" />
+    <anno ascii="vns" checked="n" id="t489_m1" trans="vns" utf="vns" />
+  </token>
+  <token id="t490" trans="in">
+    <dipl id="t490_d1" trans="in" utf="in" />
+    <anno ascii="in" checked="n" id="t490_m1" trans="in" utf="in" />
+  </token>
+  <token id="t491" trans="eyn">
+    <dipl id="t491_d1" trans="eyn" utf="eyn" />
+    <anno ascii="eyn" checked="n" id="t491_m1" trans="eyn" utf="eyn" />
+  </token>
+  <token id="t492" trans="geheget">
+    <dipl id="t492_d1" trans="geheget" utf="geheget" />
+    <anno ascii="geheget" checked="n" id="t492_m1" trans="geheget" utf="geheget" />
+  </token>
+  <token id="t493" trans="gerichte">
+    <dipl id="t493_d1" trans="gerichte" utf="gerichte" />
+    <anno ascii="gerichte" checked="n" id="t493_m1" trans="gerichte" utf="gerichte">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t494" trans="dar">
+    <dipl id="t494_d1" trans="dar" utf="dar" />
+    <anno ascii="dar" checked="n" id="t494_m1" trans="dar" utf="dar" />
+  </token>
+  <token id="t495" trans="wij">
+    <dipl id="t495_d1" trans="wij" utf="wij" />
+    <anno ascii="wij" checked="n" id="t495_m1" trans="wij" utf="wij" />
+  </token>
+  <token id="t496" trans="stede">
+    <dipl id="t496_d1" trans="stede" utf="stede" />
+    <anno ascii="stede" checked="n" id="t496_m1" trans="stede" utf="stede" />
+  </token>
+  <token id="t497" trans="vnd">
+    <dipl id="t497_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t497_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t498" trans="stol">
+    <dipl id="t498_d1" trans="stol" utf="stol" />
+    <anno ascii="stol" checked="n" id="t498_m1" trans="stol" utf="stol" />
+  </token>
+  <token id="t499" trans="myt">
+    <dipl id="t499_d1" trans="myt" utf="myt" />
+    <anno ascii="myt" checked="n" id="t499_m1" trans="myt" utf="myt" />
+  </token>
+  <token id="t500" trans="ordele">
+    <dipl id="t500_d1" trans="ordele" utf="ordele" />
+    <anno ascii="ordele" checked="n" id="t500_m1" trans="ordele" utf="ordele" />
+  </token>
+  <token id="t501" trans="vnd">
+    <dipl id="t501_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t501_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t502" trans="myt">
+    <dipl id="t502_d1" trans="myt" utf="myt" />
+    <anno ascii="myt" checked="n" id="t502_m1" trans="myt" utf="myt" />
+  </token>
+  <token id="t503" trans="rechte">
+    <dipl id="t503_d1" trans="rechte" utf="rechte" />
+    <anno ascii="rechte" checked="n" id="t503_m1" trans="rechte" utf="rechte" />
+  </token>
+  <token id="t504" trans="besetten">
+    <dipl id="t504_d1" trans="besetten" utf="besetten" />
+    <anno ascii="besetten" checked="n" id="t504_m1" trans="besetten" utf="besetten" />
+  </token>
+  <token id="t505" trans="hadden">
+    <dipl id="t505_d1" trans="hadden" utf="hadden" />
+    <anno ascii="hadden" checked="n" id="t505_m1" trans="hadden" utf="hadden">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t506" trans="antworde">
+    <dipl id="t506_d1" trans="antworde" utf="antworde" />
+    <anno ascii="antworde" checked="n" id="t506_m1" trans="antworde" utf="antworde" />
+  </token>
+  <token id="t507" trans="guder">
+    <dipl id="t507_d1" trans="guder" utf="guder" />
+    <anno ascii="guder" checked="n" id="t507_m1" trans="guder" utf="guder" />
+  </token>
+  <token id="t508" trans="lude">
+    <dipl id="t508_d1" trans="lude" utf="lude" />
+    <anno ascii="lude" checked="n" id="t508_m1" trans="lude" utf="lude" />
+  </token>
+  <token id="t509" trans="hir">
+    <dipl id="t509_d1" trans="hir" utf="hir" />
+    <anno ascii="hir" checked="n" id="t509_m1" trans="hir" utf="hir" />
+  </token>
+  <token id="t510" trans="na">
+    <dipl id="t510_d1" trans="na" utf="na" />
+    <anno ascii="na" checked="n" id="t510_m1" trans="na" utf="na" />
+  </token>
+  <token id="t511" trans="bescreuen">
+    <dipl id="t511_d1" trans="bescreuen" utf="bescreuen" />
+    <anno ascii="bescreuen" checked="n" id="t511_m1" trans="bescreuen" utf="bescreuen" />
+  </token>
+  <token id="t512" trans=",">
+    <dipl id="t512_d1" trans="," utf="," />
+    <anno ascii="," checked="n" id="t512_m1" trans="," utf="," />
+  </token>
+  <token id="t513" trans="gekomen">
+    <dipl id="t513_d1" trans="gekomen" utf="gekomen" />
+    <anno ascii="gekomen" checked="n" id="t513_m1" trans="gekomen" utf="gekomen" />
+  </token>
+  <token id="t514" trans="sijnt">
+    <dipl id="t514_d1" trans="sijnt" utf="sijnt" />
+    <anno ascii="sijnt" checked="n" id="t514_m1" trans="sijnt" utf="sijnt" />
+  </token>
+  <token id="t515" trans="Johan">
+    <dipl id="t515_d1" trans="Johan" utf="Johan" />
+    <anno ascii="Johan" checked="n" id="t515_m1" trans="Johan" utf="Johan" />
+  </token>
+  <token id="t516" trans="de">
+    <dipl id="t516_d1" trans="de" utf="de" />
+    <anno ascii="de" checked="n" id="t516_m1" trans="de" utf="de" />
+  </token>
+  <token id="t517" trans="Pyper">
+    <dipl id="t517_d1" trans="Pyper" utf="Pyper" />
+    <anno ascii="Pyper" checked="n" id="t517_m1" trans="Pyper" utf="Pyper" />
+  </token>
+  <token id="t518" trans="vnd">
+    <dipl id="t518_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t518_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t519" trans="Aleke">
+    <dipl id="t519_d1" trans="Aleke" utf="Aleke" />
+    <anno ascii="Aleke" checked="n" id="t519_m1" trans="Aleke" utf="Aleke" />
+  </token>
+  <token id="t520" trans="sijn">
+    <dipl id="t520_d1" trans="sijn" utf="sijn" />
+    <anno ascii="sijn" checked="n" id="t520_m1" trans="sijn" utf="sijn" />
+  </token>
+  <token id="t521" trans="echte">
+    <dipl id="t521_d1" trans="echte" utf="echte" />
+    <anno ascii="echte" checked="n" id="t521_m1" trans="echte" utf="echte" />
+  </token>
+  <token id="t522" trans="vrouwe">
+    <dipl id="t522_d1" trans="vrouwe" utf="vrouwe" />
+    <anno ascii="vrouwe" checked="n" id="t522_m1" trans="vrouwe" utf="vrouwe">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t523" trans="vnd">
+    <dipl id="t523_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t523_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t524" trans="vorkofften">
+    <dipl id="t524_d1" trans="vorkofften" utf="vorkofften" />
+    <anno ascii="vorkofften" checked="n" id="t524_m1" trans="vorkofften" utf="vorkofften">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t525" trans="vnd">
+    <dipl id="t525_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t525_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t526" trans="vpleten">
+    <dipl id="t526_d1" trans="vpleten" utf="vpleten" />
+    <anno ascii="vpleten" checked="n" id="t526_m1" trans="vpleten" utf="vpleten" />
+  </token>
+  <token id="t527" trans="al">
+    <dipl id="t527_d1" trans="al" utf="al" />
+    <anno ascii="al" checked="n" id="t527_m1" trans="al" utf="al" />
+  </token>
+  <token id="t528" trans="dar">
+    <dipl id="t528_d1" trans="dar" utf="dar" />
+    <anno ascii="dar" checked="n" id="t528_m1" trans="dar" utf="dar" />
+  </token>
+  <token id="t529" trans="myt">
+    <dipl id="t529_d1" trans="myt" utf="myt" />
+    <anno ascii="myt" checked="n" id="t529_m1" trans="myt" utf="myt" />
+  </token>
+  <token id="t530" trans="handen">
+    <dipl id="t530_d1" trans="handen" utf="handen" />
+    <anno ascii="handen" checked="n" id="t530_m1" trans="handen" utf="handen" />
+  </token>
+  <token id="t531" trans="vnd">
+    <dipl id="t531_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t531_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t532" trans="myt">
+    <dipl id="t532_d1" trans="myt" utf="myt" />
+    <anno ascii="myt" checked="n" id="t532_m1" trans="myt" utf="myt" />
+  </token>
+  <token id="t533" trans="mu{R_n}de">
+    <dipl id="t533_d1" trans="mu{R_n}de" utf="munde" />
+    <anno ascii="munde" checked="n" id="t533_m1" trans="mu{R_n}de" utf="munde" />
+  </token>
+  <token id="t534" trans="eyndrechtliken">
+    <dipl id="t534_d1" trans="eyndrechtliken" utf="eyndrechtliken" />
+    <anno ascii="eyndrechtliken" checked="n" id="t534_m1" trans="eyndrechtliken" utf="eyndrechtliken" />
+  </token>
+  <token id="t535" trans="vor">
+    <dipl id="t535_d1" trans="vor" utf="vor" />
+    <anno ascii="vor" checked="n" id="t535_m1" trans="vor" utf="vor" />
+  </token>
+  <token id="t536" trans="sijck">
+    <dipl id="t536_d1" trans="sijck" utf="sijck" />
+    <anno ascii="sijck" checked="n" id="t536_m1" trans="sijck" utf="sijck" />
+  </token>
+  <token id="t537" trans=".">
+    <dipl id="t537_d1" trans="." utf="." />
+    <anno ascii="." checked="n" id="t537_m1" trans="." utf="." />
+  </token>
+  <token id="t538" trans="vnd">
+    <dipl id="t538_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t538_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t539" trans="vor">
+    <dipl id="t539_d1" trans="vor" utf="vor" />
+    <anno ascii="vor" checked="n" id="t539_m1" trans="vor" utf="vor" />
+  </token>
+  <token id="t540" trans="all">
+    <dipl id="t540_d1" trans="all" utf="all" />
+    <anno ascii="all" checked="n" id="t540_m1" trans="all" utf="all" />
+  </token>
+  <token id="t541" trans="ere">
+    <dipl id="t541_d1" trans="ere" utf="ere" />
+    <anno ascii="ere" checked="n" id="t541_m1" trans="ere" utf="ere" />
+  </token>
+  <token id="t542" trans="eruen">
+    <dipl id="t542_d1" trans="eruen" utf="eruen" />
+    <anno ascii="eruen" checked="n" id="t542_m1" trans="eruen" utf="eruen" />
+  </token>
+  <token id="t543" trans="Jo=hanne">
+    <dipl id="t543_d1" trans="Jo=" utf="Jo=" />
+    <dipl id="t543_d2" trans="hanne" utf="hanne" />
+    <anno ascii="Johanne" checked="n" id="t543_m1" trans="Jo=hanne" utf="Jo=hanne" />
+  </token>
+  <token id="t544" trans="gozebrincke">
+    <dipl id="t544_d1" trans="gozebrincke" utf="gozebrincke" />
+    <anno ascii="gozebrincke" checked="n" id="t544_m1" trans="gozebrincke" utf="gozebrincke" />
+  </token>
+  <token id="t545" trans="vnd">
+    <dipl id="t545_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t545_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t546" trans="paschen">
+    <dipl id="t546_d1" trans="paschen" utf="paschen" />
+    <anno ascii="paschen" checked="n" id="t546_m1" trans="paschen" utf="paschen" />
+  </token>
+  <token id="t547" trans="van">
+    <dipl id="t547_d1" trans="van" utf="van" />
+    <anno ascii="van" checked="n" id="t547_m1" trans="van" utf="van" />
+  </token>
+  <token id="t548" trans="Buͤlren">
+    <dipl id="t548_d1" trans="Buͤlren" utf="Buͤlren" />
+    <anno ascii="Buͤlren" checked="n" id="t548_m1" trans="Buͤlren" utf="Buͤlren" />
+  </token>
+  <token id="t549" trans="nv">
+    <dipl id="t549_d1" trans="nv" utf="nv" />
+    <anno ascii="nv" checked="n" id="t549_m1" trans="nv" utf="nv" />
+  </token>
+  <token id="t550" trans="tor">
+    <dipl id="t550_d1" trans="tor" utf="tor" />
+    <anno ascii="tor" checked="n" id="t550_m1" trans="tor" utf="tor" />
+  </token>
+  <token id="t551" trans="tid">
+    <dipl id="t551_d1" trans="tid" utf="tid" />
+    <anno ascii="tid" checked="n" id="t551_m1" trans="tid" utf="tid" />
+  </token>
+  <token id="t552" trans="verwarre">
+    <dipl id="t552_d1" trans="verwarre" utf="verwarre" />
+    <anno ascii="verwarre" checked="n" id="t552_m1" trans="verwarre" utf="verwarre" />
+  </token>
+  <token id="t553" trans="der">
+    <dipl id="t553_d1" trans="der" utf="der" />
+    <anno ascii="der" checked="n" id="t553_m1" trans="der" utf="der" />
+  </token>
+  <token id="t554" trans="meynen">
+    <dipl id="t554_d1" trans="meynen" utf="meynen" />
+    <anno ascii="meynen" checked="n" id="t554_m1" trans="meynen" utf="meynen" />
+  </token>
+  <token id="t555" trans="almissen">
+    <dipl id="t555_d1" trans="almissen" utf="almissen" />
+    <anno ascii="almissen" checked="n" id="t555_m1" trans="almissen" utf="almissen" />
+  </token>
+  <token id="t556" trans="der">
+    <dipl id="t556_d1" trans="der" utf="der" />
+    <anno ascii="der" checked="n" id="t556_m1" trans="der" utf="der" />
+  </token>
+  <token id="t557" trans="kerken">
+    <dipl id="t557_d1" trans="kerken" utf="kerken" />
+    <anno ascii="kerken" checked="n" id="t557_m1" trans="kerken" utf="kerken" />
+  </token>
+  <token id="t558" trans="to">
+    <dipl id="t558_d1" trans="to" utf="to" />
+    <anno ascii="to" checked="n" id="t558_m1" trans="to" utf="to" />
+  </token>
+  <token id="t559" trans="sunte">
+    <dipl id="t559_d1" trans="sunte" utf="sunte" />
+    <anno ascii="sunte" checked="n" id="t559_m1" trans="sunte" utf="sunte" />
+  </token>
+  <token id="t560" trans="Egidius">
+    <dipl id="t560_d1" trans="Egidius" utf="Egidius" />
+    <anno ascii="Egidius" checked="n" id="t560_m1" trans="Egidius" utf="Egidius" />
+  </token>
+  <token id="t561" trans="bynnen">
+    <dipl id="t561_d1" trans="bynnen" utf="bynnen" />
+    <anno ascii="bynnen" checked="n" id="t561_m1" trans="bynnen" utf="bynnen" />
+  </token>
+  <token id="t562" trans="mu{R_n}ster">
+    <dipl id="t562_d1" trans="mu{R_n}ster" utf="munster" />
+    <anno ascii="munster" checked="n" id="t562_m1" trans="mu{R_n}ster" utf="munster" />
+  </token>
+  <token id="t563" trans="vnd">
+    <dipl id="t563_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t563_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t564" trans="eren">
+    <dipl id="t564_d1" trans="eren" utf="eren" />
+    <anno ascii="eren" checked="n" id="t564_m1" trans="eren" utf="eren" />
+  </token>
+  <token id="t565" trans="nakomelinge">
+    <dipl id="t565_d1" trans="nakomelinge" utf="nakomelinge" />
+    <anno ascii="nakomelinge" checked="n" id="t565_m1" trans="nakomelinge" utf="nakomelinge" />
+  </token>
+  <token id="t566" trans="to">
+    <dipl id="t566_d1" trans="to" utf="to" />
+    <anno ascii="to" checked="n" id="t566_m1" trans="to" utf="to" />
+  </token>
+  <token id="t567" trans="nuͤt">
+    <dipl id="t567_d1" trans="nuͤt" utf="nuͤt" />
+    <anno ascii="nuͤt" checked="n" id="t567_m1" trans="nuͤt" utf="nuͤt" />
+  </token>
+  <token id="t568" trans="vnd">
+    <dipl id="t568_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t568_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t569" trans="behoff">
+    <dipl id="t569_d1" trans="behoff" utf="behoff" />
+    <anno ascii="behoff" checked="n" id="t569_m1" trans="behoff" utf="behoff" />
+  </token>
+  <token id="t570" trans="der">
+    <dipl id="t570_d1" trans="der" utf="der" />
+    <anno ascii="der" checked="n" id="t570_m1" trans="der" utf="der" />
+  </token>
+  <token id="t571" trans="seluen">
+    <dipl id="t571_d1" trans="seluen" utf="seluen" />
+    <anno ascii="seluen" checked="n" id="t571_m1" trans="seluen" utf="seluen" />
+  </token>
+  <token id="t572" trans="almissen">
+    <dipl id="t572_d1" trans="almissen" utf="almissen" />
+    <anno ascii="almissen" checked="n" id="t572_m1" trans="almissen" utf="almissen" />
+  </token>
+  <token id="t573" trans="Erfflike">
+    <dipl id="t573_d1" trans="Erfflike" utf="Erfflike" />
+    <anno ascii="Erfflike" checked="n" id="t573_m1" trans="Erfflike" utf="Erfflike" />
+  </token>
+  <token id="t574" trans="yarlikes">
+    <dipl id="t574_d1" trans="yarlikes" utf="yarlikes" />
+    <anno ascii="yarlikes" checked="n" id="t574_m1" trans="yarlikes" utf="yarlikes" />
+  </token>
+  <token id="t575" trans="Rente">
+    <dipl id="t575_d1" trans="Rente" utf="Rente" />
+    <anno ascii="Rente" checked="n" id="t575_m1" trans="Rente" utf="Rente" />
+  </token>
+  <token id="t576" trans="na">
+    <dipl id="t576_d1" trans="na" utf="na" />
+    <anno ascii="na" checked="n" id="t576_m1" trans="na" utf="na" />
+  </token>
+  <token id="t577" trans="sate">
+    <dipl id="t577_d1" trans="sate" utf="sate" />
+    <anno ascii="sate" checked="n" id="t577_m1" trans="sate" utf="sate" />
+  </token>
+  <token id="t578" trans="der">
+    <dipl id="t578_d1" trans="der" utf="der" />
+    <anno ascii="der" checked="n" id="t578_m1" trans="der" utf="der" />
+  </token>
+  <token id="t579" trans="stades">
+    <dipl id="t579_d1" trans="stades" utf="stades" />
+    <anno ascii="stades" checked="n" id="t579_m1" trans="stades" utf="stades" />
+  </token>
+  <token id="t580" trans="van">
+    <dipl id="t580_d1" trans="van" utf="van" />
+    <anno ascii="van" checked="n" id="t580_m1" trans="van" utf="van" />
+  </token>
+  <token id="t581" trans="mu{R_n}ster">
+    <dipl id="t581_d1" trans="mu{R_n}ster" utf="munster" />
+    <anno ascii="munster" checked="n" id="t581_m1" trans="mu{R_n}ster" utf="munster" />
+  </token>
+  <token id="t582" trans="Eyne">
+    <dipl id="t582_d1" trans="Eyne" utf="Eyne" />
+    <anno ascii="Eyne" checked="n" id="t582_m1" trans="Eyne" utf="Eyne" />
+  </token>
+  <token id="t583" trans="mark§geldes">
+    <dipl id="t583_d1" trans="mark§geldes" utf="markgeldes" />
+    <anno ascii="mark" checked="n" id="t583_m1" trans="mark§" utf="mark" />
+    <anno ascii="geldes" checked="n" id="t583_m2" trans="geldes" utf="geldes" />
+  </token>
+  <token id="t584" trans="pennynge">
+    <dipl id="t584_d1" trans="pennynge" utf="pennynge" />
+    <anno ascii="pennynge" checked="n" id="t584_m1" trans="pennynge" utf="pennynge" />
+  </token>
+  <token id="t585" trans="to">
+    <dipl id="t585_d1" trans="to" utf="to" />
+    <anno ascii="to" checked="n" id="t585_m1" trans="to" utf="to" />
+  </token>
+  <token id="t586" trans="mu{R_n}ster">
+    <dipl id="t586_d1" trans="mu{R_n}ster" utf="munster" />
+    <anno ascii="munster" checked="n" id="t586_m1" trans="mu{R_n}ster" utf="munster" />
+  </token>
+  <token id="t587" trans="genge">
+    <dipl id="t587_d1" trans="genge" utf="genge" />
+    <anno ascii="genge" checked="n" id="t587_m1" trans="genge" utf="genge" />
+  </token>
+  <token id="t588" trans="vnd">
+    <dipl id="t588_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t588_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t589" trans="geüe">
+    <dipl id="t589_d1" trans="geüe" utf="geüe" />
+    <anno ascii="geüe" checked="n" id="t589_m1" trans="geüe" utf="geüe" />
+  </token>
+  <token id="t590" trans=",">
+    <dipl id="t590_d1" trans="," utf="," />
+    <anno ascii="," checked="n" id="t590_m1" trans="," utf="," />
+  </token>
+  <token id="t591" trans="vor">
+    <dipl id="t591_d1" trans="vor" utf="vor" />
+    <anno ascii="vor" checked="n" id="t591_m1" trans="vor" utf="vor" />
+  </token>
+  <token id="t592" trans="Achteyn">
+    <dipl id="t592_d1" trans="Achteyn" utf="Achteyn" />
+    <anno ascii="Achteyn" checked="n" id="t592_m1" trans="Achteyn" utf="Achteyn" />
+  </token>
+  <token id="t593" trans="mark">
+    <dipl id="t593_d1" trans="mark" utf="mark" />
+    <anno ascii="mark" checked="n" id="t593_m1" trans="mark" utf="mark" />
+  </token>
+  <token id="t594" trans="der">
+    <dipl id="t594_d1" trans="der" utf="der" />
+    <anno ascii="der" checked="n" id="t594_m1" trans="der" utf="der" />
+  </token>
+  <token id="t595" trans="seluen">
+    <dipl id="t595_d1" trans="seluen" utf="seluen" />
+    <anno ascii="seluen" checked="n" id="t595_m1" trans="seluen" utf="seluen" />
+  </token>
+  <token id="t596" trans="pennynge">
+    <dipl id="t596_d1" trans="pennynge" utf="pennynge" />
+    <anno ascii="pennynge" checked="n" id="t596_m1" trans="pennynge" utf="pennynge" />
+  </token>
+  <token id="t597" trans=".">
+    <dipl id="t597_d1" trans="." utf="." />
+    <anno ascii="." checked="n" id="t597_m1" trans="." utf=".">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t598" trans="de">
+    <dipl id="t598_d1" trans="de" utf="de" />
+    <anno ascii="de" checked="n" id="t598_m1" trans="de" utf="de" />
+  </token>
+  <token id="t599" trans="zeͤ">
+    <dipl id="t599_d1" trans="zeͤ" utf="zeͤ" />
+    <anno ascii="zeͤ" checked="n" id="t599_m1" trans="zeͤ" utf="zeͤ" />
+  </token>
+  <token id="t600" trans=",">
+    <dipl id="t600_d1" trans="," utf="," />
+    <anno ascii="," checked="n" id="t600_m1" trans="," utf="," />
+  </token>
+  <token id="t601" trans="sijck">
+    <dipl id="t601_d1" trans="sijck" utf="sijck" />
+    <anno ascii="sijck" checked="n" id="t601_m1" trans="sijck" utf="sijck" />
+  </token>
+  <token id="t602" trans="van">
+    <dipl id="t602_d1" trans="van" utf="van" />
+    <anno ascii="van" checked="n" id="t602_m1" trans="van" utf="van" />
+  </token>
+  <token id="t603" trans="eͤn">
+    <dipl id="t603_d1" trans="eͤn" utf="eͤn" />
+    <anno ascii="eͤn" checked="n" id="t603_m1" trans="eͤn" utf="eͤn" />
+  </token>
+  <token id="t604" trans=",">
+    <dipl id="t604_d1" trans="," utf="," />
+    <anno ascii="," checked="n" id="t604_m1" trans="," utf="," />
+  </token>
+  <token id="t605" trans="to">
+    <dipl id="t605_d1" trans="to" utf="to" />
+    <anno ascii="to" checked="n" id="t605_m1" trans="to" utf="to" />
+  </token>
+  <token id="t606" trans="willen">
+    <dipl id="t606_d1" trans="willen" utf="willen" />
+    <anno ascii="willen" checked="n" id="t606_m1" trans="willen" utf="willen" />
+  </token>
+  <token id="t607" trans="al">
+    <dipl id="t607_d1" trans="al" utf="al" />
+    <anno ascii="al" checked="n" id="t607_m1" trans="al" utf="al" />
+  </token>
+  <token id="t608" trans="wol">
+    <dipl id="t608_d1" trans="wol" utf="wol" />
+    <anno ascii="wol" checked="n" id="t608_m1" trans="wol" utf="wol" />
+  </token>
+  <token id="t609" trans="betalt">
+    <dipl id="t609_d1" trans="betalt" utf="betalt" />
+    <anno ascii="betalt" checked="n" id="t609_m1" trans="betalt" utf="betalt" />
+  </token>
+  <token id="t610" trans="bekanden">
+    <dipl id="t610_d1" trans="bekanden" utf="bekanden" />
+    <anno ascii="bekanden" checked="n" id="t610_m1" trans="bekanden" utf="bekanden" />
+  </token>
+  <token id="t611" trans=",">
+    <dipl id="t611_d1" trans="," utf="," />
+    <anno ascii="," checked="n" id="t611_m1" trans="," utf=",">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t612" trans="vnd">
+    <dipl id="t612_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t612_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t613" trans="louͤeden">
+    <dipl id="t613_d1" trans="louͤeden" utf="louͤeden" />
+    <anno ascii="louͤeden" checked="n" id="t613_m1" trans="louͤeden" utf="louͤeden">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t614" trans="vnd">
+    <dipl id="t614_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t614_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t615" trans="wyseden">
+    <dipl id="t615_d1" trans="wyseden" utf="wyseden" />
+    <anno ascii="wyseden" checked="n" id="t615_m1" trans="wyseden" utf="wyseden" />
+  </token>
+  <token id="t616" trans="eͤn">
+    <dipl id="t616_d1" trans="eͤn" utf="eͤn" />
+    <anno ascii="eͤn" checked="n" id="t616_m1" trans="eͤn" utf="eͤn" />
+  </token>
+  <token id="t617" trans=",">
+    <dipl id="t617_d1" trans="," utf="," />
+    <anno ascii="," checked="n" id="t617_m1" trans="," utf="," />
+  </token>
+  <token id="t618" trans="dusse">
+    <dipl id="t618_d1" trans="dusse" utf="dusse" />
+    <anno ascii="dusse" checked="n" id="t618_m1" trans="dusse" utf="dusse" />
+  </token>
+  <token id="t619" trans="vptoborene">
+    <dipl id="t619_d1" trans="vptoborene" utf="vptoborene" />
+    <anno ascii="vptoborene" checked="n" id="t619_m1" trans="vptoborene" utf="vptoborene" />
+  </token>
+  <token id="t620" trans="to">
+    <dipl id="t620_d1" trans="to" utf="to" />
+    <anno ascii="to" checked="n" id="t620_m1" trans="to" utf="to" />
+  </token>
+  <token id="t621" trans="manene">
+    <dipl id="t621_d1" trans="manene" utf="manene" />
+    <anno ascii="manene" checked="n" id="t621_m1" trans="manene" utf="manene" />
+  </token>
+  <token id="t622" trans="vnd">
+    <dipl id="t622_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t622_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t623" trans="wol">
+    <dipl id="t623_d1" trans="wol" utf="wol" />
+    <anno ascii="wol" checked="n" id="t623_m1" trans="wol" utf="wol" />
+  </token>
+  <token id="t624" trans="to">
+    <dipl id="t624_d1" trans="to" utf="to" />
+    <anno ascii="to" checked="n" id="t624_m1" trans="to" utf="to" />
+  </token>
+  <token id="t625" trans="betalene">
+    <dipl id="t625_d1" trans="betalene" utf="betalene" />
+    <anno ascii="betalene" checked="n" id="t625_m1" trans="betalene" utf="betalene">
+      <bound_sent tag="Satzteil_F" /></anno>
+  </token>
+  <token id="t626" trans="vortmer">
+    <dipl id="t626_d1" trans="vortmer" utf="vortmer" />
+    <anno ascii="vortmer" checked="n" id="t626_m1" trans="vortmer" utf="vortmer" />
+  </token>
+  <token id="t627" trans="an">
+    <dipl id="t627_d1" trans="an" utf="an" />
+    <anno ascii="an" checked="n" id="t627_m1" trans="an" utf="an" />
+  </token>
+  <token id="t628" trans="van">
+    <dipl id="t628_d1" trans="van" utf="van" />
+    <anno ascii="van" checked="n" id="t628_m1" trans="van" utf="van" />
+  </token>
+  <token id="t629" trans="dusses">
+    <dipl id="t629_d1" trans="dusses" utf="dusses" />
+    <anno ascii="dusses" checked="n" id="t629_m1" trans="dusses" utf="dusses" />
+  </token>
+  <token id="t630" trans="breues">
+    <dipl id="t630_d1" trans="breues" utf="breues" />
+    <anno ascii="breues" checked="n" id="t630_m1" trans="breues" utf="breues" />
+  </token>
+  <token id="t631" trans="data">
+    <dipl id="t631_d1" trans="data" utf="data" />
+    <anno ascii="data" checked="n" id="t631_m1" trans="data" utf="data" />
+  </token>
+  <token id="t632" trans="alle">
+    <dipl id="t632_d1" trans="alle" utf="alle" />
+    <anno ascii="alle" checked="n" id="t632_m1" trans="alle" utf="alle" />
+  </token>
+  <token id="t633" trans="Jar">
+    <dipl id="t633_d1" trans="Jar" utf="Jar" />
+    <anno ascii="Jar" checked="n" id="t633_m1" trans="Jar" utf="Jar" />
+  </token>
+  <token id="t634" trans="to">
+    <dipl id="t634_d1" trans="to" utf="to" />
+    <anno ascii="to" checked="n" id="t634_m1" trans="to" utf="to" />
+  </token>
+  <token id="t635" trans="twen">
+    <dipl id="t635_d1" trans="twen" utf="twen" />
+    <anno ascii="twen" checked="n" id="t635_m1" trans="twen" utf="twen" />
+  </token>
+  <token id="t636" trans="huͤrtiden">
+    <dipl id="t636_d1" trans="huͤrtiden" utf="huͤrtiden" />
+    <anno ascii="huͤrtiden" checked="n" id="t636_m1" trans="huͤrtiden" utf="huͤrtiden" />
+  </token>
+  <token id="t637" trans=".">
+    <dipl id="t637_d1" trans="." utf="." />
+    <anno ascii="." checked="n" id="t637_m1" trans="." utf="." />
+  </token>
+  <token id="t638" trans="alse">
+    <dipl id="t638_d1" trans="alse" utf="alse" />
+    <anno ascii="alse" checked="n" id="t638_m1" trans="alse" utf="alse" />
+  </token>
+  <token id="t639" trans="vp">
+    <dipl id="t639_d1" trans="vp" utf="vp" />
+    <anno ascii="vp" checked="n" id="t639_m1" trans="vp" utf="vp" />
+  </token>
+  <token id="t640" trans="Sunte">
+    <dipl id="t640_d1" trans="Sunte" utf="Sunte" />
+    <anno ascii="Sunte" checked="n" id="t640_m1" trans="Sunte" utf="Sunte" />
+  </token>
+  <token id="t641" trans="Mychaelis">
+    <dipl id="t641_d1" trans="Mychaelis" utf="Mychaelis" />
+    <anno ascii="Mychaelis" checked="n" id="t641_m1" trans="Mychaelis" utf="Mychaelis" />
+  </token>
+  <token id="t642" trans="dach">
+    <dipl id="t642_d1" trans="dach" utf="dach" />
+    <anno ascii="dach" checked="n" id="t642_m1" trans="dach" utf="dach" />
+  </token>
+  <token id="t643" trans="vnd">
+    <dipl id="t643_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t643_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t644" trans="vp">
+    <dipl id="t644_d1" trans="vp" utf="vp" />
+    <anno ascii="vp" checked="n" id="t644_m1" trans="vp" utf="vp" />
+  </token>
+  <token id="t645" trans="de">
+    <dipl id="t645_d1" trans="de" utf="de" />
+    <anno ascii="de" checked="n" id="t645_m1" trans="de" utf="de" />
+  </token>
+  <token id="t646" trans="hochtid">
+    <dipl id="t646_d1" trans="hochtid" utf="hochtid" />
+    <anno ascii="hochtid" checked="n" id="t646_m1" trans="hochtid" utf="hochtid" />
+  </token>
+  <token id="t647" trans="to">
+    <dipl id="t647_d1" trans="to" utf="to" />
+    <anno ascii="to" checked="n" id="t647_m1" trans="to" utf="to" />
+  </token>
+  <token id="t648" trans="paschen">
+    <dipl id="t648_d1" trans="paschen" utf="paschen" />
+    <anno ascii="paschen" checked="n" id="t648_m1" trans="paschen" utf="paschen" />
+  </token>
+  <token id="t649" trans="to">
+    <dipl id="t649_d1" trans="to" utf="to" />
+    <anno ascii="to" checked="n" id="t649_m1" trans="to" utf="to" />
+  </token>
+  <token id="t650" trans="icliker">
+    <dipl id="t650_d1" trans="icliker" utf="icliker" />
+    <anno ascii="icliker" checked="n" id="t650_m1" trans="icliker" utf="icliker" />
+  </token>
+  <token id="t651" trans="tijd">
+    <dipl id="t651_d1" trans="tijd" utf="tijd" />
+    <anno ascii="tijd" checked="n" id="t651_m1" trans="tijd" utf="tijd" />
+  </token>
+  <token id="t652" trans="eyne">
+    <dipl id="t652_d1" trans="eyne" utf="eyne" />
+    <anno ascii="eyne" checked="n" id="t652_m1" trans="eyne" utf="eyne" />
+  </token>
+  <token id="t653" trans="halue">
+    <dipl id="t653_d1" trans="halue" utf="halue" />
+    <anno ascii="halue" checked="n" id="t653_m1" trans="halue" utf="halue" />
+  </token>
+  <token id="t654" trans="mark">
+    <dipl id="t654_d1" trans="mark" utf="mark" />
+    <anno ascii="mark" checked="n" id="t654_m1" trans="mark" utf="mark" />
+  </token>
+  <token id="t655" trans=",">
+    <dipl id="t655_d1" trans="," utf="," />
+    <anno ascii="," checked="n" id="t655_m1" trans="," utf="," />
+  </token>
+  <token id="t656" trans="vte">
+    <dipl id="t656_d1" trans="vte" utf="vte" />
+    <anno ascii="vte" checked="n" id="t656_m1" trans="vte" utf="vte" />
+  </token>
+  <token id="t657" trans="eren">
+    <dipl id="t657_d1" trans="eren" utf="eren" />
+    <anno ascii="eren" checked="n" id="t657_m1" trans="eren" utf="eren" />
+  </token>
+  <token id="t658" trans="vijff">
+    <dipl id="t658_d1" trans="vijff" utf="vijff" />
+    <anno ascii="vijff" checked="n" id="t658_m1" trans="vijff" utf="vijff" />
+  </token>
+  <token id="t659" trans="schepelsede">
+    <dipl id="t659_d1" trans="schepelsede" utf="schepelsede" />
+    <anno ascii="schepelsede" checked="n" id="t659_m1" trans="schepelsede" utf="schepelsede" />
+  </token>
+  <token id="t660" trans="landes">
+    <dipl id="t660_d1" trans="landes" utf="landes" />
+    <anno ascii="landes" checked="n" id="t660_m1" trans="landes" utf="landes" />
+  </token>
+  <token id="t661" trans="belegen">
+    <dipl id="t661_d1" trans="belegen" utf="belegen" />
+    <anno ascii="belegen" checked="n" id="t661_m1" trans="belegen" utf="belegen" />
+  </token>
+  <token id="t662" trans="buten">
+    <dipl id="t662_d1" trans="buten" utf="buten" />
+    <anno ascii="buten" checked="n" id="t662_m1" trans="buten" utf="buten" />
+  </token>
+  <token id="t663" trans="sunte">
+    <dipl id="t663_d1" trans="sunte" utf="sunte" />
+    <anno ascii="sunte" checked="n" id="t663_m1" trans="sunte" utf="sunte" />
+  </token>
+  <token id="t664" trans="ludgers">
+    <dipl id="t664_d1" trans="ludgers" utf="ludgers" />
+    <anno ascii="ludgers" checked="n" id="t664_m1" trans="ludgers" utf="ludgers" />
+  </token>
+  <token id="t665" trans="porten">
+    <dipl id="t665_d1" trans="porten" utf="porten" />
+    <anno ascii="porten" checked="n" id="t665_m1" trans="porten" utf="porten" />
+  </token>
+  <token id="t666" trans=".">
+    <dipl id="t666_d1" trans="." utf="." />
+    <anno ascii="." checked="n" id="t666_m1" trans="." utf="." />
+  </token>
+  <token id="t667" trans="by">
+    <dipl id="t667_d1" trans="by" utf="by" />
+    <anno ascii="by" checked="n" id="t667_m1" trans="by" utf="by" />
+  </token>
+  <token id="t668" trans="den">
+    <dipl id="t668_d1" trans="den" utf="den" />
+    <anno ascii="den" checked="n" id="t668_m1" trans="den" utf="den" />
+  </token>
+  <token id="t669" trans="gronen">
+    <dipl id="t669_d1" trans="gronen" utf="gronen" />
+    <anno ascii="gronen" checked="n" id="t669_m1" trans="gronen" utf="gronen" />
+  </token>
+  <token id="t670" trans="wege">
+    <dipl id="t670_d1" trans="wege" utf="wege" />
+    <anno ascii="wege" checked="n" id="t670_m1" trans="wege" utf="wege" />
+  </token>
+  <token id="t671" trans="vor">
+    <dipl id="t671_d1" trans="vor" utf="vor" />
+    <anno ascii="vor" checked="n" id="t671_m1" trans="vor" utf="vor" />
+  </token>
+  <token id="t672" trans="mu{R_n}s#ter">
+    <dipl id="t672_d1" trans="mu{R_n}s#" utf="muns" />
+    <dipl id="t672_d2" trans="ter" utf="ter" />
+    <anno ascii="munster" checked="n" id="t672_m1" trans="mu{R_n}s#ter" utf="munster" />
+  </token>
+  <token id="t673" trans="tusschen">
+    <dipl id="t673_d1" trans="tusschen" utf="tusschen" />
+    <anno ascii="tusschen" checked="n" id="t673_m1" trans="tusschen" utf="tusschen" />
+  </token>
+  <token id="t674" trans="lande">
+    <dipl id="t674_d1" trans="lande" utf="lande" />
+    <anno ascii="lande" checked="n" id="t674_m1" trans="lande" utf="lande" />
+  </token>
+  <token id="t675" trans="Johans">
+    <dipl id="t675_d1" trans="Johans" utf="Johans" />
+    <anno ascii="Johans" checked="n" id="t675_m1" trans="Johans" utf="Johans" />
+  </token>
+  <token id="t676" trans="pruͤmenboem">
+    <dipl id="t676_d1" trans="pruͤmenboem" utf="pruͤmenboem" />
+    <anno ascii="pruͤmenboem" checked="n" id="t676_m1" trans="pruͤmenboem" utf="pruͤmenboem" />
+  </token>
+  <token id="t677" trans="horachtich">
+    <dipl id="t677_d1" trans="horachtich" utf="horachtich" />
+    <anno ascii="horachtich" checked="n" id="t677_m1" trans="horachtich" utf="horachtich" />
+  </token>
+  <token id="t678" trans="in">
+    <dipl id="t678_d1" trans="in" utf="in" />
+    <anno ascii="in" checked="n" id="t678_m1" trans="in" utf="in" />
+  </token>
+  <token id="t679" trans="den">
+    <dipl id="t679_d1" trans="den" utf="den" />
+    <anno ascii="den" checked="n" id="t679_m1" trans="den" utf="den" />
+  </token>
+  <token id="t680" trans="valtkotten">
+    <dipl id="t680_d1" trans="valtkotten" utf="valtkotten" />
+    <anno ascii="valtkotten" checked="n" id="t680_m1" trans="valtkotten" utf="valtkotten" />
+  </token>
+  <token id="t681" trans="vnd">
+    <dipl id="t681_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t681_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t682" trans="dem{R_e}">
+    <dipl id="t682_d1" trans="dem{R_e}" utf="deme" />
+    <anno ascii="deme" checked="n" id="t682_m1" trans="dem{R_e}" utf="deme" />
+  </token>
+  <token id="t683" trans="gronen">
+    <dipl id="t683_d1" trans="gronen" utf="gronen" />
+    <anno ascii="gronen" checked="n" id="t683_m1" trans="gronen" utf="gronen" />
+  </token>
+  <token id="t684" trans="wege">
+    <dipl id="t684_d1" trans="wege" utf="wege" />
+    <anno ascii="wege" checked="n" id="t684_m1" trans="wege" utf="wege" />
+  </token>
+  <token id="t685" trans="..,">
+    <dipl id="t685_d1" trans="..," utf="..," />
+    <anno ascii="..," checked="n" id="t685_m1" trans="..," utf="..," />
+  </token>
+  <token id="t686" trans="Vnd">
+    <dipl id="t686_d1" trans="Vnd" utf="Vnd" />
+    <anno ascii="Vnd" checked="n" id="t686_m1" trans="Vnd" utf="Vnd" />
+  </token>
+  <token id="t687" trans="dusse">
+    <dipl id="t687_d1" trans="dusse" utf="dusse" />
+    <anno ascii="dusse" checked="n" id="t687_m1" trans="dusse" utf="dusse" />
+  </token>
+  <token id="t688" trans="seluen">
+    <dipl id="t688_d1" trans="seluen" utf="seluen" />
+    <anno ascii="seluen" checked="n" id="t688_m1" trans="seluen" utf="seluen" />
+  </token>
+  <token id="t689" trans="Johan">
+    <dipl id="t689_d1" trans="Johan" utf="Johan" />
+    <anno ascii="Johan" checked="n" id="t689_m1" trans="Johan" utf="Johan" />
+  </token>
+  <token id="t690" trans="de">
+    <dipl id="t690_d1" trans="de" utf="de" />
+    <anno ascii="de" checked="n" id="t690_m1" trans="de" utf="de" />
+  </token>
+  <token id="t691" trans="pyper">
+    <dipl id="t691_d1" trans="pyper" utf="pyper" />
+    <anno ascii="pyper" checked="n" id="t691_m1" trans="pyper" utf="pyper" />
+  </token>
+  <token id="t692" trans="vnd">
+    <dipl id="t692_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t692_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t693" trans="Aleke">
+    <dipl id="t693_d1" trans="Aleke" utf="Aleke" />
+    <anno ascii="Aleke" checked="n" id="t693_m1" trans="Aleke" utf="Aleke" />
+  </token>
+  <token id="t694" trans="sijn">
+    <dipl id="t694_d1" trans="sijn" utf="sijn" />
+    <anno ascii="sijn" checked="n" id="t694_m1" trans="sijn" utf="sijn" />
+  </token>
+  <token id="t695" trans="echte">
+    <dipl id="t695_d1" trans="echte" utf="echte" />
+    <anno ascii="echte" checked="n" id="t695_m1" trans="echte" utf="echte" />
+  </token>
+  <token id="t696" trans="vrouwe">
+    <dipl id="t696_d1" trans="vrouwe" utf="vrouwe" />
+    <anno ascii="vrouwe" checked="n" id="t696_m1" trans="vrouwe" utf="vrouwe" />
+  </token>
+  <token id="t697" trans="vorkopere">
+    <dipl id="t697_d1" trans="vorkopere" utf="vorkopere" />
+    <anno ascii="vorkopere" checked="n" id="t697_m1" trans="vorkopere" utf="vorkopere" />
+  </token>
+  <token id="t698" trans="vorg{R_enompt}">
+    <dipl id="t698_d1" trans="vorg{R_enompt}" utf="vorgenompt" />
+    <anno ascii="vorgenompt" checked="n" id="t698_m1" trans="vorg{R_enompt}" utf="vorgenompt" />
+  </token>
+  <token id="t699" trans="loueden">
+    <dipl id="t699_d1" trans="loueden" utf="loueden" />
+    <anno ascii="loueden" checked="n" id="t699_m1" trans="loueden" utf="loueden" />
+  </token>
+  <token id="t700" trans="vort">
+    <dipl id="t700_d1" trans="vort" utf="vort" />
+    <anno ascii="vort" checked="n" id="t700_m1" trans="vort" utf="vort" />
+  </token>
+  <token id="t701" trans="hir">
+    <dipl id="t701_d1" trans="hir" utf="hir" />
+    <anno ascii="hir" checked="n" id="t701_m1" trans="hir" utf="hir" />
+  </token>
+  <token id="t702" trans="to">
+    <dipl id="t702_d1" trans="to" utf="to" />
+    <anno ascii="to" checked="n" id="t702_m1" trans="to" utf="to" />
+  </token>
+  <token id="t703" trans="myt">
+    <dipl id="t703_d1" trans="myt" utf="myt" />
+    <anno ascii="myt" checked="n" id="t703_m1" trans="myt" utf="myt" />
+  </token>
+  <token id="t704" trans="samender§hant">
+    <dipl id="t704_d1" trans="samender§hant" utf="samenderhant" />
+    <anno ascii="samender" checked="n" id="t704_m1" trans="samender§" utf="samender" />
+    <anno ascii="hant" checked="n" id="t704_m2" trans="hant" utf="hant" />
+  </token>
+  <token id="t705" trans="vor">
+    <dipl id="t705_d1" trans="vor" utf="vor" />
+    <anno ascii="vor" checked="n" id="t705_m1" trans="vor" utf="vor" />
+  </token>
+  <token id="t706" trans="sijck">
+    <dipl id="t706_d1" trans="sijck" utf="sijck" />
+    <anno ascii="sijck" checked="n" id="t706_m1" trans="sijck" utf="sijck" />
+  </token>
+  <token id="t707" trans="vnd">
+    <dipl id="t707_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t707_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t708" trans="vor">
+    <dipl id="t708_d1" trans="vor" utf="vor" />
+    <anno ascii="vor" checked="n" id="t708_m1" trans="vor" utf="vor" />
+  </token>
+  <token id="t709" trans="al">
+    <dipl id="t709_d1" trans="al" utf="al" />
+    <anno ascii="al" checked="n" id="t709_m1" trans="al" utf="al" />
+  </token>
+  <token id="t710" trans="ere">
+    <dipl id="t710_d1" trans="ere" utf="ere" />
+    <anno ascii="ere" checked="n" id="t710_m1" trans="ere" utf="ere" />
+  </token>
+  <token id="t711" trans="eruen">
+    <dipl id="t711_d1" trans="eruen" utf="eruen" />
+    <anno ascii="eruen" checked="n" id="t711_m1" trans="eruen" utf="eruen" />
+  </token>
+  <token id="t712" trans="Johanne">
+    <dipl id="t712_d1" trans="Johanne" utf="Johanne" />
+    <anno ascii="Johanne" checked="n" id="t712_m1" trans="Johanne" utf="Johanne" />
+  </token>
+  <token id="t713" trans="gosebryncke">
+    <dipl id="t713_d1" trans="gosebryncke" utf="gosebryncke" />
+    <anno ascii="gosebryncke" checked="n" id="t713_m1" trans="gosebryncke" utf="gosebryncke" />
+  </token>
+  <token id="t714" trans="vnd">
+    <dipl id="t714_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t714_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t715" trans="pa=schen">
+    <dipl id="t715_d1" trans="pa=" utf="pa=" />
+    <dipl id="t715_d2" trans="schen" utf="schen" />
+    <anno ascii="paschen" checked="n" id="t715_m1" trans="pa=schen" utf="pa=schen" />
+  </token>
+  <token id="t716" trans="van">
+    <dipl id="t716_d1" trans="van" utf="van" />
+    <anno ascii="van" checked="n" id="t716_m1" trans="van" utf="van" />
+  </token>
+  <token id="t717" trans="Buͤlren">
+    <dipl id="t717_d1" trans="Buͤlren" utf="Buͤlren" />
+    <anno ascii="Buͤlren" checked="n" id="t717_m1" trans="Buͤlren" utf="Buͤlren" />
+  </token>
+  <token id="t718" trans="verwarre">
+    <dipl id="t718_d1" trans="verwarre" utf="verwarre" />
+    <anno ascii="verwarre" checked="n" id="t718_m1" trans="verwarre" utf="verwarre" />
+  </token>
+  <token id="t719" trans="der">
+    <dipl id="t719_d1" trans="der" utf="der" />
+    <anno ascii="der" checked="n" id="t719_m1" trans="der" utf="der" />
+  </token>
+  <token id="t720" trans="meynen">
+    <dipl id="t720_d1" trans="meynen" utf="meynen" />
+    <anno ascii="meynen" checked="n" id="t720_m1" trans="meynen" utf="meynen" />
+  </token>
+  <token id="t721" trans="almissen">
+    <dipl id="t721_d1" trans="almissen" utf="almissen" />
+    <anno ascii="almissen" checked="n" id="t721_m1" trans="almissen" utf="almissen" />
+  </token>
+  <token id="t722" trans="vorg{R_enompt}">
+    <dipl id="t722_d1" trans="vorg{R_enompt}" utf="vorgenompt" />
+    <anno ascii="vorgenompt" checked="n" id="t722_m1" trans="vorg{R_enompt}" utf="vorgenompt" />
+  </token>
+  <token id="t723" trans="vnd">
+    <dipl id="t723_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t723_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t724" trans="eren">
+    <dipl id="t724_d1" trans="eren" utf="eren" />
+    <anno ascii="eren" checked="n" id="t724_m1" trans="eren" utf="eren" />
+  </token>
+  <token id="t725" trans="nakomelingen">
+    <dipl id="t725_d1" trans="nakomelingen" utf="nakomelingen" />
+    <anno ascii="nakomelingen" checked="n" id="t725_m1" trans="nakomelingen" utf="nakomelingen" />
+  </token>
+  <token id="t726" trans="gude">
+    <dipl id="t726_d1" trans="gude" utf="gude" />
+    <anno ascii="gude" checked="n" id="t726_m1" trans="gude" utf="gude" />
+  </token>
+  <token id="t727" trans="rede">
+    <dipl id="t727_d1" trans="rede" utf="rede" />
+    <anno ascii="rede" checked="n" id="t727_m1" trans="rede" utf="rede" />
+  </token>
+  <token id="t728" trans="vnuͦrtogede">
+    <dipl id="t728_d1" trans="vnuͦrtogede" utf="vnuͦrtogede" />
+    <anno ascii="vnuͦrtogede" checked="n" id="t728_m1" trans="vnuͦrtogede" utf="vnuͦrtogede" />
+  </token>
+  <token id="t729" trans="betalinge">
+    <dipl id="t729_d1" trans="betalinge" utf="betalinge" />
+    <anno ascii="betalinge" checked="n" id="t729_m1" trans="betalinge" utf="betalinge" />
+  </token>
+  <token id="t730" trans="alle">
+    <dipl id="t730_d1" trans="alle" utf="alle" />
+    <anno ascii="alle" checked="n" id="t730_m1" trans="alle" utf="alle" />
+  </token>
+  <token id="t731" trans="wege">
+    <dipl id="t731_d1" trans="wege" utf="wege" />
+    <anno ascii="wege" checked="n" id="t731_m1" trans="wege" utf="wege" />
+  </token>
+  <token id="t732" trans="vp">
+    <dipl id="t732_d1" trans="vp" utf="vp" />
+    <anno ascii="vp" checked="n" id="t732_m1" trans="vp" utf="vp" />
+  </token>
+  <token id="t733" trans="de">
+    <dipl id="t733_d1" trans="de" utf="de" />
+    <anno ascii="de" checked="n" id="t733_m1" trans="de" utf="de" />
+  </token>
+  <token id="t734" trans="vorg{R_enompte}">
+    <dipl id="t734_d1" trans="vorg{R_enompte}" utf="vorgenompte" />
+    <anno ascii="vorgenompte" checked="n" id="t734_m1" trans="vorg{R_enompte}" utf="vorgenompte" />
+  </token>
+  <token id="t735" trans="huͤrtide">
+    <dipl id="t735_d1" trans="huͤrtide" utf="huͤrtide" />
+    <anno ascii="huͤrtide" checked="n" id="t735_m1" trans="huͤrtide" utf="huͤrtide" />
+  </token>
+  <token id="t736" trans="vnd">
+    <dipl id="t736_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t736_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t737" trans="Rechte">
+    <dipl id="t737_d1" trans="Rechte" utf="Rechte" />
+    <anno ascii="Rechte" checked="n" id="t737_m1" trans="Rechte" utf="Rechte" />
+  </token>
+  <token id="t738" trans="warschap">
+    <dipl id="t738_d1" trans="warschap" utf="warschap" />
+    <anno ascii="warschap" checked="n" id="t738_m1" trans="warschap" utf="warschap" />
+  </token>
+  <token id="t739" trans="to">
+    <dipl id="t739_d1" trans="to" utf="to" />
+    <anno ascii="to" checked="n" id="t739_m1" trans="to" utf="to" />
+  </token>
+  <token id="t740" trans="done">
+    <dipl id="t740_d1" trans="done" utf="done" />
+    <anno ascii="done" checked="n" id="t740_m1" trans="done" utf="done" />
+  </token>
+  <token id="t741" trans=",">
+    <dipl id="t741_d1" trans="," utf="," />
+    <anno ascii="," checked="n" id="t741_m1" trans="," utf="," />
+  </token>
+  <token id="t742" trans="dusser">
+    <dipl id="t742_d1" trans="dusser" utf="dusser" />
+    <anno ascii="dusser" checked="n" id="t742_m1" trans="dusser" utf="dusser" />
+  </token>
+  <token id="t743" trans="vorg{R_enompten}">
+    <dipl id="t743_d1" trans="vorg{R_enompten}" utf="vorgenompten" />
+    <anno ascii="vorgenompten" checked="n" id="t743_m1" trans="vorg{R_enompten}" utf="vorgenompten" />
+  </token>
+  <token id="t744" trans="Rente">
+    <dipl id="t744_d1" trans="Rente" utf="Rente" />
+    <anno ascii="Rente" checked="n" id="t744_m1" trans="Rente" utf="Rente" />
+  </token>
+  <token id="t745" trans=".">
+    <dipl id="t745_d1" trans="." utf="." />
+    <anno ascii="." checked="n" id="t745_m1" trans="." utf="." />
+  </token>
+  <token id="t746" trans="vte">
+    <dipl id="t746_d1" trans="vte" utf="vte" />
+    <anno ascii="vte" checked="n" id="t746_m1" trans="vte" utf="vte" />
+  </token>
+  <token id="t747" trans="dussen">
+    <dipl id="t747_d1" trans="dussen" utf="dussen" />
+    <anno ascii="dussen" checked="n" id="t747_m1" trans="dussen" utf="dussen" />
+  </token>
+  <token id="t748" trans="vorg{R_enompten}">
+    <dipl id="t748_d1" trans="vorg{R_enompten}" utf="vorgenompten" />
+    <anno ascii="vorgenompten" checked="n" id="t748_m1" trans="vorg{R_enompten}" utf="vorgenompten" />
+  </token>
+  <token id="t749" trans="vijff">
+    <dipl id="t749_d1" trans="vijff" utf="vijff" />
+    <anno ascii="vijff" checked="n" id="t749_m1" trans="vijff" utf="vijff" />
+  </token>
+  <token id="t750" trans="schepelsede">
+    <dipl id="t750_d1" trans="schepelsede" utf="schepelsede" />
+    <anno ascii="schepelsede" checked="n" id="t750_m1" trans="schepelsede" utf="schepelsede" />
+  </token>
+  <token id="t751" trans="landes">
+    <dipl id="t751_d1" trans="landes" utf="landes" />
+    <anno ascii="landes" checked="n" id="t751_m1" trans="landes" utf="landes" />
+  </token>
+  <token id="t752" trans=",">
+    <dipl id="t752_d1" trans="," utf="," />
+    <anno ascii="," checked="n" id="t752_m1" trans="," utf=",">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t753" trans="vnd">
+    <dipl id="t753_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t753_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t754" trans="waren">
+    <dipl id="t754_d1" trans="waren" utf="waren" />
+    <anno ascii="waren" checked="n" id="t754_m1" trans="waren" utf="waren" />
+  </token>
+  <token id="t755" trans="dat">
+    <dipl id="t755_d1" trans="dat" utf="dat" />
+    <anno ascii="dat" checked="n" id="t755_m1" trans="dat" utf="dat" />
+  </token>
+  <token id="t756" trans="selue">
+    <dipl id="t756_d1" trans="selue" utf="selue" />
+    <anno ascii="selue" checked="n" id="t756_m1" trans="selue" utf="selue" />
+  </token>
+  <token id="t757" trans="land">
+    <dipl id="t757_d1" trans="land" utf="land" />
+    <anno ascii="land" checked="n" id="t757_m1" trans="land" utf="land" />
+  </token>
+  <token id="t758" trans="vrij">
+    <dipl id="t758_d1" trans="vrij" utf="vrij" />
+    <anno ascii="vrij" checked="n" id="t758_m1" trans="vrij" utf="vrij" />
+  </token>
+  <token id="t759" trans="dor=slachtich">
+    <dipl id="t759_d1" trans="dor=" utf="dor=" />
+    <dipl id="t759_d2" trans="slachtich" utf="slachtich" />
+    <anno ascii="dorslachtich" checked="n" id="t759_m1" trans="dor=slachtich" utf="dor=slachtich" />
+  </token>
+  <token id="t760" trans="egen">
+    <dipl id="t760_d1" trans="egen" utf="egen" />
+    <anno ascii="egen" checked="n" id="t760_m1" trans="egen" utf="egen" />
+  </token>
+  <token id="t761" trans=",">
+    <dipl id="t761_d1" trans="," utf="," />
+    <anno ascii="," checked="n" id="t761_m1" trans="," utf="," />
+  </token>
+  <token id="t762" trans="vnd">
+    <dipl id="t762_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t762_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t763" trans="vnbetinset">
+    <dipl id="t763_d1" trans="vnbetinset" utf="vnbetinset" />
+    <anno ascii="vnbetinset" checked="n" id="t763_m1" trans="vnbetinset" utf="vnbetinset" />
+  </token>
+  <token id="t764" trans="myt">
+    <dipl id="t764_d1" trans="myt" utf="myt" />
+    <anno ascii="myt" checked="n" id="t764_m1" trans="myt" utf="myt" />
+  </token>
+  <token id="t765" trans="yenigen">
+    <dipl id="t765_d1" trans="yenigen" utf="yenigen" />
+    <anno ascii="yenigen" checked="n" id="t765_m1" trans="yenigen" utf="yenigen" />
+  </token>
+  <token id="t766" trans="schulden">
+    <dipl id="t766_d1" trans="schulden" utf="schulden" />
+    <anno ascii="schulden" checked="n" id="t766_m1" trans="schulden" utf="schulden" />
+  </token>
+  <token id="t767" trans=".">
+    <dipl id="t767_d1" trans="." utf="." />
+    <anno ascii="." checked="n" id="t767_m1" trans="." utf=".">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t768" trans="vnd">
+    <dipl id="t768_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t768_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t769" trans="louͤeden">
+    <dipl id="t769_d1" trans="louͤeden" utf="louͤeden" />
+    <anno ascii="louͤeden" checked="n" id="t769_m1" trans="louͤeden" utf="louͤeden" />
+  </token>
+  <token id="t770" trans="vort">
+    <dipl id="t770_d1" trans="vort" utf="vort" />
+    <anno ascii="vort" checked="n" id="t770_m1" trans="vort" utf="vort" />
+  </token>
+  <token id="t771" trans="alle">
+    <dipl id="t771_d1" trans="alle" utf="alle" />
+    <anno ascii="alle" checked="n" id="t771_m1" trans="alle" utf="alle" />
+  </token>
+  <token id="t772" trans="gebreck">
+    <dipl id="t772_d1" trans="gebreck" utf="gebreck" />
+    <anno ascii="gebreck" checked="n" id="t772_m1" trans="gebreck" utf="gebreck" />
+  </token>
+  <token id="t773" trans="to">
+    <dipl id="t773_d1" trans="to" utf="to" />
+    <anno ascii="to" checked="n" id="t773_m1" trans="to" utf="to" />
+  </token>
+  <token id="t774" trans="vorrichtene">
+    <dipl id="t774_d1" trans="vorrichtene" utf="vorrichtene" />
+    <anno ascii="vorrichtene" checked="n" id="t774_m1" trans="vorrichtene" utf="vorrichtene" />
+  </token>
+  <token id="t775" trans=",">
+    <dipl id="t775_d1" trans="," utf="," />
+    <anno ascii="," checked="n" id="t775_m1" trans="," utf=",">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t776" trans="dat">
+    <dipl id="t776_d1" trans="dat" utf="dat" />
+    <anno ascii="dat" checked="n" id="t776_m1" trans="dat" utf="dat" />
+  </token>
+  <token id="t777" trans="der">
+    <dipl id="t777_d1" trans="der" utf="der" />
+    <anno ascii="der" checked="n" id="t777_m1" trans="der" utf="der" />
+  </token>
+  <token id="t778" trans="vorg{R_enompten}">
+    <dipl id="t778_d1" trans="vorg{R_enompten}" utf="vorgenompten" />
+    <anno ascii="vorgenompten" checked="n" id="t778_m1" trans="vorg{R_enompten}" utf="vorgenompten" />
+  </token>
+  <token id="t779" trans="almissen">
+    <dipl id="t779_d1" trans="almissen" utf="almissen" />
+    <anno ascii="almissen" checked="n" id="t779_m1" trans="almissen" utf="almissen" />
+  </token>
+  <token id="t780" trans="hir">
+    <dipl id="t780_d1" trans="hir" utf="hir" />
+    <anno ascii="hir" checked="n" id="t780_m1" trans="hir" utf="hir" />
+  </token>
+  <token id="t781" trans="va{R_n}">
+    <dipl id="t781_d1" trans="va{R_n}" utf="van" />
+    <anno ascii="van" checked="n" id="t781_m1" trans="va{R_n}" utf="van" />
+  </token>
+  <token id="t782" trans="ghescheyn">
+    <dipl id="t782_d1" trans="ghescheyn" utf="ghescheyn" />
+    <anno ascii="ghescheyn" checked="n" id="t782_m1" trans="ghescheyn" utf="ghescheyn" />
+  </token>
+  <token id="t783" trans="mochte">
+    <dipl id="t783_d1" trans="mochte" utf="mochte" />
+    <anno ascii="mochte" checked="n" id="t783_m1" trans="mochte" utf="mochte">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t784" trans="wo">
+    <dipl id="t784_d1" trans="wo" utf="wo" />
+    <anno ascii="wo" checked="n" id="t784_m1" trans="wo" utf="wo" />
+  </token>
+  <token id="t785" trans="vake">
+    <dipl id="t785_d1" trans="vake" utf="vake" />
+    <anno ascii="vake" checked="n" id="t785_m1" trans="vake" utf="vake" />
+  </token>
+  <token id="t786" trans="des">
+    <dipl id="t786_d1" trans="des" utf="des" />
+    <anno ascii="des" checked="n" id="t786_m1" trans="des" utf="des" />
+  </token>
+  <token id="t787" trans="noͤt">
+    <dipl id="t787_d1" trans="noͤt" utf="noͤt" />
+    <anno ascii="noͤt" checked="n" id="t787_m1" trans="noͤt" utf="noͤt" />
+  </token>
+  <token id="t788" trans="were">
+    <dipl id="t788_d1" trans="were" utf="were" />
+    <anno ascii="were" checked="n" id="t788_m1" trans="were" utf="were" />
+  </token>
+  <token id="t789" trans="sunder">
+    <dipl id="t789_d1" trans="sunder" utf="sunder" />
+    <anno ascii="sunder" checked="n" id="t789_m1" trans="sunder" utf="sunder" />
+  </token>
+  <token id="t790" trans="argelist">
+    <dipl id="t790_d1" trans="argelist" utf="argelist" />
+    <anno ascii="argelist" checked="n" id="t790_m1" trans="argelist" utf="argelist" />
+  </token>
+  <token id="t791" trans=",">
+    <dipl id="t791_d1" trans="," utf="," />
+    <anno ascii="," checked="n" id="t791_m1" trans="," utf=",">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t792" trans="Vort">
+    <dipl id="t792_d1" trans="Vort" utf="Vort" />
+    <anno ascii="Vort" checked="n" id="t792_m1" trans="Vort" utf="Vort" />
+  </token>
+  <token id="t793" trans="so">
+    <dipl id="t793_d1" trans="so" utf="so" />
+    <anno ascii="so" checked="n" id="t793_m1" trans="so" utf="so" />
+  </token>
+  <token id="t794" trans="deden">
+    <dipl id="t794_d1" trans="deden" utf="deden" />
+    <anno ascii="deden" checked="n" id="t794_m1" trans="deden" utf="deden" />
+  </token>
+  <token id="t795" trans="de">
+    <dipl id="t795_d1" trans="de" utf="de" />
+    <anno ascii="de" checked="n" id="t795_m1" trans="de" utf="de" />
+  </token>
+  <token id="t796" trans="vorg{R_enompten}">
+    <dipl id="t796_d1" trans="vorg{R_enompten}" utf="vorgenompten" />
+    <anno ascii="vorgenompten" checked="n" id="t796_m1" trans="vorg{R_enompten}" utf="vorgenompten" />
+  </token>
+  <token id="t797" trans="Johan">
+    <dipl id="t797_d1" trans="Johan" utf="Johan" />
+    <anno ascii="Johan" checked="n" id="t797_m1" trans="Johan" utf="Johan" />
+  </token>
+  <token id="t798" trans="de">
+    <dipl id="t798_d1" trans="de" utf="de" />
+    <anno ascii="de" checked="n" id="t798_m1" trans="de" utf="de" />
+  </token>
+  <token id="t799" trans="pyper">
+    <dipl id="t799_d1" trans="pyper" utf="pyper" />
+    <anno ascii="pyper" checked="n" id="t799_m1" trans="pyper" utf="pyper" />
+  </token>
+  <token id="t800" trans="vnd">
+    <dipl id="t800_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t800_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t801" trans="Aleke">
+    <dipl id="t801_d1" trans="Aleke" utf="Aleke" />
+    <anno ascii="Aleke" checked="n" id="t801_m1" trans="Aleke" utf="Aleke" />
+  </token>
+  <token id="t802" trans="echte">
+    <dipl id="t802_d1" trans="echte" utf="echte" />
+    <anno ascii="echte" checked="n" id="t802_m1" trans="echte" utf="echte" />
+  </token>
+  <token id="t803" trans="lude">
+    <dipl id="t803_d1" trans="lude" utf="lude" />
+    <anno ascii="lude" checked="n" id="t803_m1" trans="lude" utf="lude" />
+  </token>
+  <token id="t804" trans="eyne">
+    <dipl id="t804_d1" trans="eyne" utf="eyne" />
+    <anno ascii="eyne" checked="n" id="t804_m1" trans="eyne" utf="eyne" />
+  </token>
+  <token id="t805" trans="ghijffte">
+    <dipl id="t805_d1" trans="ghijffte" utf="ghijffte" />
+    <anno ascii="ghijffte" checked="n" id="t805_m1" trans="ghijffte" utf="ghijffte" />
+  </token>
+  <token id="t806" trans=",">
+    <dipl id="t806_d1" trans="," utf="," />
+    <anno ascii="," checked="n" id="t806_m1" trans="," utf=",">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t807" trans="vnd">
+    <dipl id="t807_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t807_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t808" trans="ghijfftede{R_n}">
+    <dipl id="t808_d1" trans="ghijfftede{R_n}" utf="ghijffteden" />
+    <anno ascii="ghijffteden" checked="n" id="t808_m1" trans="ghijfftede{R_n}" utf="ghijffteden" />
+  </token>
+  <token id="t809" trans="al">
+    <dipl id="t809_d1" trans="al" utf="al" />
+    <anno ascii="al" checked="n" id="t809_m1" trans="al" utf="al" />
+  </token>
+  <token id="t810" trans="dar">
+    <dipl id="t810_d1" trans="dar" utf="dar" />
+    <anno ascii="dar" checked="n" id="t810_m1" trans="dar" utf="dar" />
+  </token>
+  <token id="t811" trans="vor">
+    <dipl id="t811_d1" trans="vor" utf="vor" />
+    <anno ascii="vor" checked="n" id="t811_m1" trans="vor" utf="vor" />
+  </token>
+  <token id="t812" trans="vns">
+    <dipl id="t812_d1" trans="vns" utf="vns" />
+    <anno ascii="vns" checked="n" id="t812_m1" trans="vns" utf="vns" />
+  </token>
+  <token id="t813" trans="vrijgreue">
+    <dipl id="t813_d1" trans="vrijgreue" utf="vrijgreue" />
+    <anno ascii="vrijgreue" checked="n" id="t813_m1" trans="vrijgreue" utf="vrijgreue" />
+  </token>
+  <token id="t814" trans="vorg{R_enompt}">
+    <dipl id="t814_d1" trans="vorg{R_enompt}" utf="vorgenompt" />
+    <anno ascii="vorgenompt" checked="n" id="t814_m1" trans="vorg{R_enompt}" utf="vorgenompt" />
+  </token>
+  <token id="t815" trans="in">
+    <dipl id="t815_d1" trans="in" utf="in" />
+    <anno ascii="in" checked="n" id="t815_m1" trans="in" utf="in" />
+  </token>
+  <token id="t816" trans="de{R_n}">
+    <dipl id="t816_d1" trans="de{R_n}" utf="den" />
+    <anno ascii="den" checked="n" id="t816_m1" trans="de{R_n}" utf="den" />
+  </token>
+  <token id="t817" trans="seluen">
+    <dipl id="t817_d1" trans="seluen" utf="seluen" />
+    <anno ascii="seluen" checked="n" id="t817_m1" trans="seluen" utf="seluen" />
+  </token>
+  <token id="t818" trans="gehegeden">
+    <dipl id="t818_d1" trans="gehegeden" utf="gehegeden" />
+    <anno ascii="gehegeden" checked="n" id="t818_m1" trans="gehegeden" utf="gehegeden" />
+  </token>
+  <token id="t819" trans="gerichte">
+    <dipl id="t819_d1" trans="gerichte" utf="gerichte" />
+    <anno ascii="gerichte" checked="n" id="t819_m1" trans="gerichte" utf="gerichte" />
+  </token>
+  <token id="t820" trans=",">
+    <dipl id="t820_d1" trans="," utf="," />
+    <anno ascii="," checked="n" id="t820_m1" trans="," utf="," />
+  </token>
+  <token id="t821" trans="vor">
+    <dipl id="t821_d1" trans="vor" utf="vor" />
+    <anno ascii="vor" checked="n" id="t821_m1" trans="vor" utf="vor" />
+  </token>
+  <token id="t822" trans="sijck">
+    <dipl id="t822_d1" trans="sijck" utf="sijck" />
+    <anno ascii="sijck" checked="n" id="t822_m1" trans="sijck" utf="sijck" />
+  </token>
+  <token id="t823" trans="vnd">
+    <dipl id="t823_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t823_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t824" trans="vor">
+    <dipl id="t824_d1" trans="vor" utf="vor" />
+    <anno ascii="vor" checked="n" id="t824_m1" trans="vor" utf="vor" />
+  </token>
+  <token id="t825" trans="al">
+    <dipl id="t825_d1" trans="al" utf="al" />
+    <anno ascii="al" checked="n" id="t825_m1" trans="al" utf="al" />
+  </token>
+  <token id="t826" trans="ere">
+    <dipl id="t826_d1" trans="ere" utf="ere" />
+    <anno ascii="ere" checked="n" id="t826_m1" trans="ere" utf="ere" />
+  </token>
+  <token id="t827" trans="eruen">
+    <dipl id="t827_d1" trans="eruen" utf="eruen" />
+    <anno ascii="eruen" checked="n" id="t827_m1" trans="eruen" utf="eruen" />
+  </token>
+  <token id="t828" trans="de">
+    <dipl id="t828_d1" trans="de" utf="de" />
+    <anno ascii="de" checked="n" id="t828_m1" trans="de" utf="de" />
+  </token>
+  <token id="t829" trans="vorg{R_enompten}">
+    <dipl id="t829_d1" trans="vorg{R_enompten}" utf="vorgenompten" />
+    <anno ascii="vorgenompten" checked="n" id="t829_m1" trans="vorg{R_enompten}" utf="vorgenompten" />
+  </token>
+  <token id="t830" trans="vijff">
+    <dipl id="t830_d1" trans="vijff" utf="vijff" />
+    <anno ascii="vijff" checked="n" id="t830_m1" trans="vijff" utf="vijff" />
+  </token>
+  <token id="t831" trans="schepelsede">
+    <dipl id="t831_d1" trans="schepelsede" utf="schepelsede" />
+    <anno ascii="schepelsede" checked="n" id="t831_m1" trans="schepelsede" utf="schepelsede" />
+  </token>
+  <token id="t832" trans="landes">
+    <dipl id="t832_d1" trans="landes" utf="landes" />
+    <anno ascii="landes" checked="n" id="t832_m1" trans="landes" utf="landes" />
+  </token>
+  <token id="t833" trans="na">
+    <dipl id="t833_d1" trans="na" utf="na" />
+    <anno ascii="na" checked="n" id="t833_m1" trans="na" utf="na" />
+  </token>
+  <token id="t834" trans="des">
+    <dipl id="t834_d1" trans="des" utf="des" />
+    <anno ascii="des" checked="n" id="t834_m1" trans="des" utf="des" />
+  </token>
+  <token id="t835" trans="vorg{R_enompten}">
+    <dipl id="t835_d1" trans="vorg{R_enompten}" utf="vorgenompten" />
+    <anno ascii="vorgenompten" checked="n" id="t835_m1" trans="vorg{R_enompten}" utf="vorgenompten" />
+  </token>
+  <token id="t836" trans="Johans">
+    <dipl id="t836_d1" trans="Johans" utf="Johans" />
+    <anno ascii="Johans" checked="n" id="t836_m1" trans="Johans" utf="Johans" />
+  </token>
+  <token id="t837" trans="des">
+    <dipl id="t837_d1" trans="des" utf="des" />
+    <anno ascii="des" checked="n" id="t837_m1" trans="des" utf="des" />
+  </token>
+  <token id="t838" trans="pypers">
+    <dipl id="t838_d1" trans="pypers" utf="pypers" />
+    <anno ascii="pypers" checked="n" id="t838_m1" trans="pypers" utf="pypers" />
+  </token>
+  <token id="t839" trans="dode">
+    <dipl id="t839_d1" trans="dode" utf="dode" />
+    <anno ascii="dode" checked="n" id="t839_m1" trans="dode" utf="dode" />
+  </token>
+  <token id="t840" trans=",">
+    <dipl id="t840_d1" trans="," utf="," />
+    <anno ascii="," checked="n" id="t840_m1" trans="," utf="," />
+  </token>
+  <token id="t841" trans="vp">
+    <dipl id="t841_d1" trans="vp" utf="vp" />
+    <anno ascii="vp" checked="n" id="t841_m1" trans="vp" utf="vp" />
+  </token>
+  <token id="t842" trans="de">
+    <dipl id="t842_d1" trans="de" utf="de" />
+    <anno ascii="de" checked="n" id="t842_m1" trans="de" utf="de" />
+  </token>
+  <token id="t843" trans="vorg{R_enompte}">
+    <dipl id="t843_d1" trans="vorg{R_enompte}" utf="vorgenompte" />
+    <anno ascii="vorgenompte" checked="n" id="t843_m1" trans="vorg{R_enompte}" utf="vorgenompte" />
+  </token>
+  <token id="t844" trans="Eyne">
+    <dipl id="t844_d1" trans="Eyne" utf="Eyne" />
+    <anno ascii="Eyne" checked="n" id="t844_m1" trans="Eyne" utf="Eyne" />
+  </token>
+  <token id="t845" trans="mark§geldes">
+    <dipl id="t845_d1" trans="mark§geldes" utf="markgeldes" />
+    <anno ascii="mark" checked="n" id="t845_m1" trans="mark§" utf="mark" />
+    <anno ascii="geldes" checked="n" id="t845_m2" trans="geldes" utf="geldes" />
+  </token>
+  <token id="t846" trans="Jarlix">
+    <dipl id="t846_d1" trans="Jarlix" utf="Jarlix" />
+    <anno ascii="Jarlix" checked="n" id="t846_m1" trans="Jarlix" utf="Jarlix" />
+  </token>
+  <token id="t847" trans="Rente">
+    <dipl id="t847_d1" trans="Rente" utf="Rente" />
+    <anno ascii="Rente" checked="n" id="t847_m1" trans="Rente" utf="Rente" />
+  </token>
+  <token id="t848" trans=",">
+    <dipl id="t848_d1" trans="," utf="," />
+    <anno ascii="," checked="n" id="t848_m1" trans="," utf="," />
+  </token>
+  <token id="t849" trans="Jn">
+    <dipl id="t849_d1" trans="Jn" utf="Jn" />
+    <anno ascii="Jn" checked="n" id="t849_m1" trans="Jn" utf="Jn" />
+  </token>
+  <token id="t850" trans="de">
+    <dipl id="t850_d1" trans="de" utf="de" />
+    <anno ascii="de" checked="n" id="t850_m1" trans="de" utf="de" />
+  </token>
+  <token id="t851" trans="kerken">
+    <dipl id="t851_d1" trans="kerken" utf="kerken" />
+    <anno ascii="kerken" checked="n" id="t851_m1" trans="kerken" utf="kerken" />
+  </token>
+  <token id="t852" trans="to">
+    <dipl id="t852_d1" trans="to" utf="to" />
+    <anno ascii="to" checked="n" id="t852_m1" trans="to" utf="to" />
+  </token>
+  <token id="t853" trans="sunte">
+    <dipl id="t853_d1" trans="sunte" utf="sunte" />
+    <anno ascii="sunte" checked="n" id="t853_m1" trans="sunte" utf="sunte" />
+  </token>
+  <token id="t854" trans="Egidius">
+    <dipl id="t854_d1" trans="Egidius" utf="Egidius" />
+    <anno ascii="Egidius" checked="n" id="t854_m1" trans="Egidius" utf="Egidius" />
+  </token>
+  <token id="t855" trans="bynnen">
+    <dipl id="t855_d1" trans="bynnen" utf="bynnen" />
+    <anno ascii="bynnen" checked="n" id="t855_m1" trans="bynnen" utf="bynnen" />
+  </token>
+  <token id="t856" trans="mu{R_n}ster">
+    <dipl id="t856_d1" trans="mu{R_n}ster" utf="munster" />
+    <anno ascii="munster" checked="n" id="t856_m1" trans="mu{R_n}ster" utf="munster" />
+  </token>
+  <token id="t857" trans="to">
+    <dipl id="t857_d1" trans="to" utf="to" />
+    <anno ascii="to" checked="n" id="t857_m1" trans="to" utf="to" />
+  </token>
+  <token id="t858" trans="behoff">
+    <dipl id="t858_d1" trans="behoff" utf="behoff" />
+    <anno ascii="behoff" checked="n" id="t858_m1" trans="behoff" utf="behoff" />
+  </token>
+  <token id="t859" trans="des">
+    <dipl id="t859_d1" trans="des" utf="des" />
+    <anno ascii="des" checked="n" id="t859_m1" trans="des" utf="des" />
+  </token>
+  <token id="t860" trans="wijns">
+    <dipl id="t860_d1" trans="wijns" utf="wijns" />
+    <anno ascii="wijns" checked="n" id="t860_m1" trans="wijns" utf="wijns" />
+  </token>
+  <token id="t861" trans="tor">
+    <dipl id="t861_d1" trans="tor" utf="tor" />
+    <anno ascii="tor" checked="n" id="t861_m1" trans="tor" utf="tor" />
+  </token>
+  <token id="t862" trans="spolynge">
+    <dipl id="t862_d1" trans="spolynge" utf="spolynge" />
+    <anno ascii="spolynge" checked="n" id="t862_m1" trans="spolynge" utf="spolynge" />
+  </token>
+  <token id="t863" trans="in">
+    <dipl id="t863_d1" trans="in" utf="in" />
+    <anno ascii="in" checked="n" id="t863_m1" trans="in" utf="in" />
+  </token>
+  <token id="t864" trans="der">
+    <dipl id="t864_d1" trans="der" utf="der" />
+    <anno ascii="der" checked="n" id="t864_m1" trans="der" utf="der" />
+  </token>
+  <token id="t865" trans="seluen">
+    <dipl id="t865_d1" trans="seluen" utf="seluen" />
+    <anno ascii="seluen" checked="n" id="t865_m1" trans="seluen" utf="seluen" />
+  </token>
+  <token id="t866" trans="kerken">
+    <dipl id="t866_d1" trans="kerken" utf="kerken" />
+    <anno ascii="kerken" checked="n" id="t866_m1" trans="kerken" utf="kerken" />
+  </token>
+  <token id="t867" trans="Mid">
+    <dipl id="t867_d1" trans="Mid" utf="Mid" />
+    <anno ascii="Mid" checked="n" id="t867_m1" trans="Mid" utf="Mid" />
+  </token>
+  <token id="t868" trans="alsodanen">
+    <dipl id="t868_d1" trans="alsodanen" utf="alsodanen" />
+    <anno ascii="alsodanen" checked="n" id="t868_m1" trans="alsodanen" utf="alsodanen" />
+  </token>
+  <token id="t869" trans="vorworden">
+    <dipl id="t869_d1" trans="vorworden" utf="vorworden" />
+    <anno ascii="vorworden" checked="n" id="t869_m1" trans="vorworden" utf="vorworden" />
+  </token>
+  <token id="t870" trans=",">
+    <dipl id="t870_d1" trans="," utf="," />
+    <anno ascii="," checked="n" id="t870_m1" trans="," utf=",">
+      <bound_sent tag="Satzteil_I" /></anno>
+  </token>
+  <token id="t871" trans="dat">
+    <dipl id="t871_d1" trans="dat" utf="dat" />
+    <anno ascii="dat" checked="n" id="t871_m1" trans="dat" utf="dat" />
+  </token>
+  <token id="t872" trans="de">
+    <dipl id="t872_d1" trans="de" utf="de" />
+    <anno ascii="de" checked="n" id="t872_m1" trans="de" utf="de" />
+  </token>
+  <token id="t873" trans="Raetlude">
+    <dipl id="t873_d1" trans="Raetlude" utf="Raetlude" />
+    <anno ascii="Raetlude" checked="n" id="t873_m1" trans="Raetlude" utf="Raetlude" />
+  </token>
+  <token id="t874" trans="der">
+    <dipl id="t874_d1" trans="der" utf="der" />
+    <anno ascii="der" checked="n" id="t874_m1" trans="der" utf="der" />
+  </token>
+  <token id="t875" trans="seluen">
+    <dipl id="t875_d1" trans="seluen" utf="seluen" />
+    <anno ascii="seluen" checked="n" id="t875_m1" trans="seluen" utf="seluen" />
+  </token>
+  <token id="t876" trans="kerken">
+    <dipl id="t876_d1" trans="kerken" utf="kerken" />
+    <anno ascii="kerken" checked="n" id="t876_m1" trans="kerken" utf="kerken" />
+  </token>
+  <token id="t877" trans=",">
+    <dipl id="t877_d1" trans="," utf="," />
+    <anno ascii="," checked="n" id="t877_m1" trans="," utf=",">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t878" trans="we">
+    <dipl id="t878_d1" trans="we" utf="we" />
+    <anno ascii="we" checked="n" id="t878_m1" trans="we" utf="we" />
+  </token>
+  <token id="t879" trans="de">
+    <dipl id="t879_d1" trans="de" utf="de" />
+    <anno ascii="de" checked="n" id="t879_m1" trans="de" utf="de" />
+  </token>
+  <token id="t880" trans="dan">
+    <dipl id="t880_d1" trans="dan" utf="dan" />
+    <anno ascii="dan" checked="n" id="t880_m1" trans="dan" utf="dan" />
+  </token>
+  <token id="t881" trans="sijnt">
+    <dipl id="t881_d1" trans="sijnt" utf="sijnt" />
+    <anno ascii="sijnt" checked="n" id="t881_m1" trans="sijnt" utf="sijnt" />
+  </token>
+  <token id="t882" trans="in">
+    <dipl id="t882_d1" trans="in" utf="in" />
+    <anno ascii="in" checked="n" id="t882_m1" trans="in" utf="in" />
+  </token>
+  <token id="t883" trans="der">
+    <dipl id="t883_d1" trans="der" utf="der" />
+    <anno ascii="der" checked="n" id="t883_m1" trans="der" utf="der" />
+  </token>
+  <token id="t884" trans="tijd">
+    <dipl id="t884_d1" trans="tijd" utf="tijd" />
+    <anno ascii="tijd" checked="n" id="t884_m1" trans="tijd" utf="tijd">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t885" trans="dan">
+    <dipl id="t885_d1" trans="dan" utf="dan" />
+    <anno ascii="dan" checked="n" id="t885_m1" trans="dan" utf="dan" />
+  </token>
+  <token id="t886" trans="dar">
+    <dipl id="t886_d1" trans="dar" utf="dar" />
+    <anno ascii="dar" checked="n" id="t886_m1" trans="dar" utf="dar" />
+  </token>
+  <token id="t887" trans="vor">
+    <dipl id="t887_d1" trans="vor" utf="vor" />
+    <anno ascii="vor" checked="n" id="t887_m1" trans="vor" utf="vor" />
+  </token>
+  <token id="t888" trans="solen">
+    <dipl id="t888_d1" trans="solen" utf="solen" />
+    <anno ascii="solen" checked="n" id="t888_m1" trans="solen" utf="solen" />
+  </token>
+  <token id="t889" trans="maken">
+    <dipl id="t889_d1" trans="maken" utf="maken" />
+    <anno ascii="maken" checked="n" id="t889_m1" trans="maken" utf="maken" />
+  </token>
+  <token id="t890" trans="twe">
+    <dipl id="t890_d1" trans="twe" utf="twe" />
+    <anno ascii="twe" checked="n" id="t890_m1" trans="twe" utf="twe" />
+  </token>
+  <token id="t891" trans="memorien">
+    <dipl id="t891_d1" trans="memorien" utf="memorien" />
+    <anno ascii="memorien" checked="n" id="t891_m1" trans="memorien" utf="memorien" />
+  </token>
+  <token id="t892" trans="alse">
+    <dipl id="t892_d1" trans="alse" utf="alse" />
+    <anno ascii="alse" checked="n" id="t892_m1" trans="alse" utf="alse" />
+  </token>
+  <token id="t893" trans="vor">
+    <dipl id="t893_d1" trans="vor" utf="vor" />
+    <anno ascii="vor" checked="n" id="t893_m1" trans="vor" utf="vor" />
+  </token>
+  <token id="t894" trans="den">
+    <dipl id="t894_d1" trans="den" utf="den" />
+    <anno ascii="den" checked="n" id="t894_m1" trans="den" utf="den" />
+  </token>
+  <token id="t895" trans="vorg{R_enompten}">
+    <dipl id="t895_d1" trans="vorg{R_enompten}" utf="vorgenompten" />
+    <anno ascii="vorgenompten" checked="n" id="t895_m1" trans="vorg{R_enompten}" utf="vorgenompten" />
+  </token>
+  <token id="t896" trans="Johanne">
+    <dipl id="t896_d1" trans="Johanne" utf="Johanne" />
+    <anno ascii="Johanne" checked="n" id="t896_m1" trans="Johanne" utf="Johanne" />
+  </token>
+  <token id="t897" trans="den">
+    <dipl id="t897_d1" trans="den" utf="den" />
+    <anno ascii="den" checked="n" id="t897_m1" trans="den" utf="den" />
+  </token>
+  <token id="t898" trans="pyper">
+    <dipl id="t898_d1" trans="pyper" utf="pyper" />
+    <anno ascii="pyper" checked="n" id="t898_m1" trans="pyper" utf="pyper" />
+  </token>
+  <token id="t899" trans="vnd">
+    <dipl id="t899_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t899_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t900" trans="Aleken">
+    <dipl id="t900_d1" trans="Aleken" utf="Aleken" />
+    <anno ascii="Aleken" checked="n" id="t900_m1" trans="Aleken" utf="Aleken" />
+  </token>
+  <token id="t901" trans="nv">
+    <dipl id="t901_d1" trans="nv" utf="nv" />
+    <anno ascii="nv" checked="n" id="t901_m1" trans="nv" utf="nv" />
+  </token>
+  <token id="t902" trans="tor">
+    <dipl id="t902_d1" trans="tor" utf="tor" />
+    <anno ascii="tor" checked="n" id="t902_m1" trans="tor" utf="tor" />
+  </token>
+  <token id="t903" trans="tid">
+    <dipl id="t903_d1" trans="tid" utf="tid" />
+    <anno ascii="tid" checked="n" id="t903_m1" trans="tid" utf="tid" />
+  </token>
+  <token id="t904" trans="sijn">
+    <dipl id="t904_d1" trans="sijn" utf="sijn" />
+    <anno ascii="sijn" checked="n" id="t904_m1" trans="sijn" utf="sijn" />
+  </token>
+  <token id="t905" trans="echte">
+    <dipl id="t905_d1" trans="echte" utf="echte" />
+    <anno ascii="echte" checked="n" id="t905_m1" trans="echte" utf="echte" />
+  </token>
+  <token id="t906" trans="vrouwe">
+    <dipl id="t906_d1" trans="vrouwe" utf="vrouwe" />
+    <anno ascii="vrouwe" checked="n" id="t906_m1" trans="vrouwe" utf="vrouwe" />
+  </token>
+  <token id="t907" trans="vnd">
+    <dipl id="t907_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t907_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t908" trans="vor">
+    <dipl id="t908_d1" trans="vor" utf="vor" />
+    <anno ascii="vor" checked="n" id="t908_m1" trans="vor" utf="vor" />
+  </token>
+  <token id="t909" trans="selige{R_n}">
+    <dipl id="t909_d1" trans="selige{R_n}" utf="seligen" />
+    <anno ascii="seligen" checked="n" id="t909_m1" trans="selige{R_n}" utf="seligen" />
+  </token>
+  <token id="t910" trans="Elseken">
+    <dipl id="t910_d1" trans="Elseken" utf="Elseken" />
+    <anno ascii="Elseken" checked="n" id="t910_m1" trans="Elseken" utf="Elseken" />
+  </token>
+  <token id="t911" trans="Jn">
+    <dipl id="t911_d1" trans="Jn" utf="Jn" />
+    <anno ascii="Jn" checked="n" id="t911_m1" trans="Jn" utf="Jn" />
+  </token>
+  <token id="t912" trans="vor[ti]den">
+    <dipl id="t912_d1" trans="vor[ti]den" utf="vortiden" />
+    <anno ascii="vortiden" checked="n" id="t912_m1" trans="vor[ti]den" utf="vortiden" />
+  </token>
+  <token id="t913" trans="des">
+    <dipl id="t913_d1" trans="des" utf="des" />
+    <anno ascii="des" checked="n" id="t913_m1" trans="des" utf="des" />
+  </token>
+  <token id="t914" trans="seluͤen">
+    <dipl id="t914_d1" trans="seluͤen" utf="seluͤen" />
+    <anno ascii="seluͤen" checked="n" id="t914_m1" trans="seluͤen" utf="seluͤen" />
+  </token>
+  <token id="t915" trans="Johans">
+    <dipl id="t915_d1" trans="Johans" utf="Johans" />
+    <anno ascii="Johans" checked="n" id="t915_m1" trans="Johans" utf="Johans" />
+  </token>
+  <token id="t916" trans="des">
+    <dipl id="t916_d1" trans="des" utf="des" />
+    <anno ascii="des" checked="n" id="t916_m1" trans="des" utf="des" />
+  </token>
+  <token id="t917" trans="pypers">
+    <dipl id="t917_d1" trans="pypers" utf="pypers" />
+    <anno ascii="pypers" checked="n" id="t917_m1" trans="pypers" utf="pypers" />
+  </token>
+  <token id="t918" trans="echte">
+    <dipl id="t918_d1" trans="echte" utf="echte" />
+    <anno ascii="echte" checked="n" id="t918_m1" trans="echte" utf="echte" />
+  </token>
+  <token id="t919" trans="husvrouwe">
+    <dipl id="t919_d1" trans="husvrouwe" utf="husvrouwe" />
+    <anno ascii="husvrouwe" checked="n" id="t919_m1" trans="husvrouwe" utf="husvrouwe" />
+  </token>
+  <token id="t920" trans="to">
+    <dipl id="t920_d1" trans="to" utf="to" />
+    <anno ascii="to" checked="n" id="t920_m1" trans="to" utf="to" />
+  </token>
+  <token id="t921" trans="troste">
+    <dipl id="t921_d1" trans="troste" utf="troste" />
+    <anno ascii="troste" checked="n" id="t921_m1" trans="troste" utf="troste" />
+  </token>
+  <token id="t922" trans="vnd">
+    <dipl id="t922_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t922_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t923" trans="salicheyt">
+    <dipl id="t923_d1" trans="salicheyt" utf="salicheyt" />
+    <anno ascii="salicheyt" checked="n" id="t923_m1" trans="salicheyt" utf="salicheyt" />
+  </token>
+  <token id="t924" trans="erer">
+    <dipl id="t924_d1" trans="erer" utf="erer" />
+    <anno ascii="erer" checked="n" id="t924_m1" trans="erer" utf="erer" />
+  </token>
+  <token id="t925" trans="drijer">
+    <dipl id="t925_d1" trans="drijer" utf="drijer" />
+    <anno ascii="drijer" checked="n" id="t925_m1" trans="drijer" utf="drijer" />
+  </token>
+  <token id="t926" trans="zeyle">
+    <dipl id="t926_d1" trans="zeyle" utf="zeyle" />
+    <anno ascii="zeyle" checked="n" id="t926_m1" trans="zeyle" utf="zeyle" />
+  </token>
+  <token id="t927" trans="vnd">
+    <dipl id="t927_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t927_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t928" trans="dar">
+    <dipl id="t928_d1" trans="dar" utf="dar" />
+    <anno ascii="dar" checked="n" id="t928_m1" trans="dar" utf="dar" />
+  </token>
+  <token id="t929" trans="v{R_m}me">
+    <dipl id="t929_d1" trans="v{R_m}me" utf="vmme" />
+    <anno ascii="vmme" checked="n" id="t929_m1" trans="v{R_m}me" utf="vmme" />
+  </token>
+  <token id="t930" trans="vor">
+    <dipl id="t930_d1" trans="vor" utf="vor" />
+    <anno ascii="vor" checked="n" id="t930_m1" trans="vor" utf="vor" />
+  </token>
+  <token id="t931" trans="der">
+    <dipl id="t931_d1" trans="der" utf="der" />
+    <anno ascii="der" checked="n" id="t931_m1" trans="der" utf="der" />
+  </token>
+  <token id="t932" trans="vorg{R_enompten}">
+    <dipl id="t932_d1" trans="vorg{R_enompten}" utf="vorgenompten" />
+    <anno ascii="vorgenompten" checked="n" id="t932_m1" trans="vorg{R_enompten}" utf="vorgenompten" />
+  </token>
+  <token id="t933" trans="drijer">
+    <dipl id="t933_d1" trans="drijer" utf="drijer" />
+    <anno ascii="drijer" checked="n" id="t933_m1" trans="drijer" utf="drijer" />
+  </token>
+  <token id="t934" trans="zeyle">
+    <dipl id="t934_d1" trans="zeyle" utf="zeyle" />
+    <anno ascii="zeyle" checked="n" id="t934_m1" trans="zeyle" utf="zeyle" />
+  </token>
+  <token id="t935" trans="to">
+    <dipl id="t935_d1" trans="to" utf="to" />
+    <anno ascii="to" checked="n" id="t935_m1" trans="to" utf="to" />
+  </token>
+  <token id="t936" trans="biddene">
+    <dipl id="t936_d1" trans="biddene" utf="biddene" />
+    <anno ascii="biddene" checked="n" id="t936_m1" trans="biddene" utf="biddene" />
+  </token>
+  <token id="t937" trans="sunder">
+    <dipl id="t937_d1" trans="sunder" utf="sunder" />
+    <anno ascii="sunder" checked="n" id="t937_m1" trans="sunder" utf="sunder" />
+  </token>
+  <token id="t938" trans="al">
+    <dipl id="t938_d1" trans="al" utf="al" />
+    <anno ascii="al" checked="n" id="t938_m1" trans="al" utf="al" />
+  </token>
+  <token id="t939" trans="argelist">
+    <dipl id="t939_d1" trans="argelist" utf="argelist" />
+    <anno ascii="argelist" checked="n" id="t939_m1" trans="argelist" utf="argelist" />
+  </token>
+  <token id="t940" trans=",">
+    <dipl id="t940_d1" trans="," utf="," />
+    <anno ascii="," checked="n" id="t940_m1" trans="," utf=",">
+      <bound_sent tag="Satzteil_F" /></anno>
+  </token>
+  <token id="t941" trans="wante">
+    <dipl id="t941_d1" trans="wante" utf="wante" />
+    <anno ascii="wante" checked="n" id="t941_m1" trans="wante" utf="wante" />
+  </token>
+  <token id="t942" trans="dyt">
+    <dipl id="t942_d1" trans="dyt" utf="dyt" />
+    <anno ascii="dyt" checked="n" id="t942_m1" trans="dyt" utf="dyt" />
+  </token>
+  <token id="t943" trans="aldus">
+    <dipl id="t943_d1" trans="aldus" utf="aldus" />
+    <anno ascii="aldus" checked="n" id="t943_m1" trans="aldus" utf="aldus">
+      <bound_sent tag="Satzteil_I" /></anno>
+  </token>
+  <token id="t944" trans="so">
+    <dipl id="t944_d1" trans="so" utf="so" />
+    <anno ascii="so" checked="n" id="t944_m1" trans="so" utf="so" />
+  </token>
+  <token id="t945" trans="vorg{R_enompt}">
+    <dipl id="t945_d1" trans="vorg{R_enompt}" utf="vorgenompt" />
+    <anno ascii="vorgenompt" checked="n" id="t945_m1" trans="vorg{R_enompt}" utf="vorgenompt" />
+  </token>
+  <token id="t946" trans="steyt">
+    <dipl id="t946_d1" trans="steyt" utf="steyt" />
+    <anno ascii="steyt" checked="n" id="t946_m1" trans="steyt" utf="steyt" />
+  </token>
+  <token id="t947" trans=".">
+    <dipl id="t947_d1" trans="." utf="." />
+    <anno ascii="." checked="n" id="t947_m1" trans="." utf=".">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t948" trans="vor">
+    <dipl id="t948_d1" trans="vor" utf="vor" />
+    <anno ascii="vor" checked="n" id="t948_m1" trans="vor" utf="vor" />
+  </token>
+  <token id="t949" trans="vns">
+    <dipl id="t949_d1" trans="vns" utf="vns" />
+    <anno ascii="vns" checked="n" id="t949_m1" trans="vns" utf="vns" />
+  </token>
+  <token id="t950" trans="Ghiselberte">
+    <dipl id="t950_d1" trans="Ghiselberte" utf="Ghiselberte" />
+    <anno ascii="Ghiselberte" checked="n" id="t950_m1" trans="Ghiselberte" utf="Ghiselberte" />
+  </token>
+  <token id="t951" trans="vrijgreuen">
+    <dipl id="t951_d1" trans="vrijgreuen" utf="vrijgreuen" />
+    <anno ascii="vrijgreuen" checked="n" id="t951_m1" trans="vrijgreuen" utf="vrijgreuen" />
+  </token>
+  <token id="t952" trans="vorg{R_enompt}">
+    <dipl id="t952_d1" trans="vorg{R_enompt}" utf="vorgenompt" />
+    <anno ascii="vorgenompt" checked="n" id="t952_m1" trans="vorg{R_enompt}" utf="vorgenompt" />
+  </token>
+  <token id="t953" trans="gescheyn">
+    <dipl id="t953_d1" trans="gescheyn" utf="gescheyn" />
+    <anno ascii="gescheyn" checked="n" id="t953_m1" trans="gescheyn" utf="gescheyn" />
+  </token>
+  <token id="t954" trans="ys">
+    <dipl id="t954_d1" trans="ys" utf="ys" />
+    <anno ascii="ys" checked="n" id="t954_m1" trans="ys" utf="ys" />
+  </token>
+  <token id="t955" trans=",">
+    <dipl id="t955_d1" trans="," utf="," />
+    <anno ascii="," checked="n" id="t955_m1" trans="," utf=",">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t956" trans="zo">
+    <dipl id="t956_d1" trans="zo" utf="zo" />
+    <anno ascii="zo" checked="n" id="t956_m1" trans="zo" utf="zo" />
+  </token>
+  <token id="t957" trans="hebbe">
+    <dipl id="t957_d1" trans="hebbe" utf="hebbe" />
+    <anno ascii="hebbe" checked="n" id="t957_m1" trans="hebbe" utf="hebbe" />
+  </token>
+  <token id="t958" trans="wij">
+    <dipl id="t958_d1" trans="wij" utf="wij" />
+    <anno ascii="wij" checked="n" id="t958_m1" trans="wij" utf="wij" />
+  </token>
+  <token id="t959" trans="des">
+    <dipl id="t959_d1" trans="des" utf="des" />
+    <anno ascii="des" checked="n" id="t959_m1" trans="des" utf="des" />
+  </token>
+  <token id="t960" trans="to">
+    <dipl id="t960_d1" trans="to" utf="to" />
+    <anno ascii="to" checked="n" id="t960_m1" trans="to" utf="to" />
+  </token>
+  <token id="t961" trans="tughe">
+    <dipl id="t961_d1" trans="tughe" utf="tughe" />
+    <anno ascii="tughe" checked="n" id="t961_m1" trans="tughe" utf="tughe" />
+  </token>
+  <token id="t962" trans="vnse">
+    <dipl id="t962_d1" trans="vnse" utf="vnse" />
+    <anno ascii="vnse" checked="n" id="t962_m1" trans="vnse" utf="vnse" />
+  </token>
+  <token id="t963" trans="Jngesegel">
+    <dipl id="t963_d1" trans="Jngesegel" utf="Jngesegel" />
+    <anno ascii="Jngesegel" checked="n" id="t963_m1" trans="Jngesegel" utf="Jngesegel" />
+  </token>
+  <token id="t964" trans="v{R_m}me">
+    <dipl id="t964_d1" trans="v{R_m}me" utf="vmme" />
+    <anno ascii="vmme" checked="n" id="t964_m1" trans="v{R_m}me" utf="vmme" />
+  </token>
+  <token id="t965" trans="bede">
+    <dipl id="t965_d1" trans="bede" utf="bede" />
+    <anno ascii="bede" checked="n" id="t965_m1" trans="bede" utf="bede" />
+  </token>
+  <token id="t966" trans="willen">
+    <dipl id="t966_d1" trans="willen" utf="willen" />
+    <anno ascii="willen" checked="n" id="t966_m1" trans="willen" utf="willen" />
+  </token>
+  <token id="t967" trans="beyder">
+    <dipl id="t967_d1" trans="beyder" utf="beyder" />
+    <anno ascii="beyder" checked="n" id="t967_m1" trans="beyder" utf="beyder" />
+  </token>
+  <token id="t968" trans="partije">
+    <dipl id="t968_d1" trans="partije" utf="partije" />
+    <anno ascii="partije" checked="n" id="t968_m1" trans="partije" utf="partije" />
+  </token>
+  <token id="t969" trans="an">
+    <dipl id="t969_d1" trans="an" utf="an" />
+    <anno ascii="an" checked="n" id="t969_m1" trans="an" utf="an" />
+  </token>
+  <token id="t970" trans="dussen">
+    <dipl id="t970_d1" trans="dussen" utf="dussen" />
+    <anno ascii="dussen" checked="n" id="t970_m1" trans="dussen" utf="dussen" />
+  </token>
+  <token id="t971" trans="breff">
+    <dipl id="t971_d1" trans="breff" utf="breff" />
+    <anno ascii="breff" checked="n" id="t971_m1" trans="breff" utf="breff" />
+  </token>
+  <token id="t972" trans="gehangen">
+    <dipl id="t972_d1" trans="gehangen" utf="gehangen" />
+    <anno ascii="gehangen" checked="n" id="t972_m1" trans="gehangen" utf="gehangen" />
+  </token>
+  <token id="t973" trans=",">
+    <dipl id="t973_d1" trans="," utf="," />
+    <anno ascii="," checked="n" id="t973_m1" trans="," utf=",">
+      <bound_sent tag="Satzteil_F" /></anno>
+  </token>
+  <token id="t974" trans="hir">
+    <dipl id="t974_d1" trans="hir" utf="hir" />
+    <anno ascii="hir" checked="n" id="t974_m1" trans="hir" utf="hir" />
+  </token>
+  <token id="t975" trans="weren">
+    <dipl id="t975_d1" trans="weren" utf="weren" />
+    <anno ascii="weren" checked="n" id="t975_m1" trans="weren" utf="weren" />
+  </token>
+  <token id="t976" trans="an">
+    <dipl id="t976_d1" trans="an" utf="an" />
+    <anno ascii="an" checked="n" id="t976_m1" trans="an" utf="an" />
+  </token>
+  <token id="t977" trans="vnd">
+    <dipl id="t977_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t977_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t978" trans="ouͤer">
+    <dipl id="t978_d1" trans="ouͤer" utf="ouͤer" />
+    <anno ascii="ouͤer" checked="n" id="t978_m1" trans="ouͤer" utf="ouͤer" />
+  </token>
+  <token id="t979" trans="to">
+    <dipl id="t979_d1" trans="to" utf="to" />
+    <anno ascii="to" checked="n" id="t979_m1" trans="to" utf="to" />
+  </token>
+  <token id="t980" trans="rechten">
+    <dipl id="t980_d1" trans="rechten" utf="rechten" />
+    <anno ascii="rechten" checked="n" id="t980_m1" trans="rechten" utf="rechten" />
+  </token>
+  <token id="t981" trans="tuchluden">
+    <dipl id="t981_d1" trans="tuchluden" utf="tuchluden" />
+    <anno ascii="tuchluden" checked="n" id="t981_m1" trans="tuchluden" utf="tuchluden" />
+  </token>
+  <token id="t982" trans="gebe=den">
+    <dipl id="t982_d1" trans="gebe=" utf="gebe=" />
+    <dipl id="t982_d2" trans="den" utf="den" />
+    <anno ascii="gebeden" checked="n" id="t982_m1" trans="gebe=den" utf="gebe=den" />
+  </token>
+  <token id="t983" trans="von">
+    <dipl id="t983_d1" trans="von" utf="von" />
+    <anno ascii="von" checked="n" id="t983_m1" trans="von" utf="von" />
+  </token>
+  <token id="t984" trans="beiden">
+    <dipl id="t984_d1" trans="beiden" utf="beiden" />
+    <anno ascii="beiden" checked="n" id="t984_m1" trans="beiden" utf="beiden" />
+  </token>
+  <token id="t985" trans="syden">
+    <dipl id="t985_d1" trans="syden" utf="syden" />
+    <anno ascii="syden" checked="n" id="t985_m1" trans="syden" utf="syden" />
+  </token>
+  <token id="t986" trans="Johan">
+    <dipl id="t986_d1" trans="Johan" utf="Johan" />
+    <anno ascii="Johan" checked="n" id="t986_m1" trans="Johan" utf="Johan" />
+  </token>
+  <token id="t987" trans="strobuck">
+    <dipl id="t987_d1" trans="strobuck" utf="strobuck" />
+    <anno ascii="strobuck" checked="n" id="t987_m1" trans="strobuck" utf="strobuck" />
+  </token>
+  <token id="t988" trans="vnd">
+    <dipl id="t988_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t988_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t989" trans="Euert">
+    <dipl id="t989_d1" trans="Euert" utf="Euert" />
+    <anno ascii="Euert" checked="n" id="t989_m1" trans="Euert" utf="Euert" />
+  </token>
+  <token id="t990" trans="lypperma{R_n}">
+    <dipl id="t990_d1" trans="lypperma{R_n}" utf="lypperman" />
+    <anno ascii="lypperman" checked="n" id="t990_m1" trans="lypperma{R_n}" utf="lypperman" />
+  </token>
+  <token id="t991" trans="vnd">
+    <dipl id="t991_d1" trans="vnd" utf="vnd" />
+    <anno ascii="vnd" checked="n" id="t991_m1" trans="vnd" utf="vnd" />
+  </token>
+  <token id="t992" trans="mer">
+    <dipl id="t992_d1" trans="mer" utf="mer" />
+    <anno ascii="mer" checked="n" id="t992_m1" trans="mer" utf="mer" />
+  </token>
+  <token id="t993" trans="guder">
+    <dipl id="t993_d1" trans="guder" utf="guder" />
+    <anno ascii="guder" checked="n" id="t993_m1" trans="guder" utf="guder" />
+  </token>
+  <token id="t994" trans="lude">
+    <dipl id="t994_d1" trans="lude" utf="lude" />
+    <anno ascii="lude" checked="n" id="t994_m1" trans="lude" utf="lude" />
+  </token>
+  <token id="t995" trans="genoch">
+    <dipl id="t995_d1" trans="genoch" utf="genoch" />
+    <anno ascii="genoch" checked="n" id="t995_m1" trans="genoch" utf="genoch">
+      <bound_sent tag="Satz" /></anno>
+  </token>
+  <token id="t996" trans="Datu{R_m}">
+    <dipl id="t996_d1" trans="Datu{R_m}" utf="Datum" />
+    <anno ascii="Datum" checked="n" id="t996_m1" trans="Datu{R_m}" utf="Datum" />
+  </token>
+  <token id="t997" trans="Anno">
+    <dipl id="t997_d1" trans="Anno" utf="Anno" />
+    <anno ascii="Anno" checked="n" id="t997_m1" trans="Anno" utf="Anno" />
+  </token>
+  <token id="t998" trans="d{R_omi}nj">
+    <dipl id="t998_d1" trans="d{R_omi}nj" utf="dominj" />
+    <anno ascii="dominj" checked="n" id="t998_m1" trans="d{R_omi}nj" utf="dominj" />
+  </token>
+  <token id="t999" trans="M">
+    <dipl id="t999_d1" trans="M" utf="M" />
+    <anno ascii="M" checked="n" id="t999_m1" trans="M" utf="M" />
+  </token>
+  <token id="t1000" trans="cccc">
+    <dipl id="t1000_d1" trans="cccc" utf="cccc" />
+    <anno ascii="cccc" checked="n" id="t1000_m1" trans="cccc" utf="cccc" />
+  </token>
+  <token id="t1001" trans="xlnono">
+    <dipl id="t1001_d1" trans="xlnono" utf="xlnono" />
+    <anno ascii="xlnono" checked="n" id="t1001_m1" trans="xlnono" utf="xlnono" />
+  </token>
+  <token id="t1002" trans="f{R_e}r{R_ia}">
+    <dipl id="t1002_d1" trans="f{R_e}r{R_ia}" utf="feria" />
+    <anno ascii="feria" checked="n" id="t1002_m1" trans="f{R_e}r{R_ia}" utf="feria" />
+  </token>
+  <token id="t1003" trans="secunda">
+    <dipl id="t1003_d1" trans="secunda" utf="secunda" />
+    <anno ascii="secunda" checked="n" id="t1003_m1" trans="secunda" utf="secunda" />
+  </token>
+  <token id="t1004" trans="p{R_os}t">
+    <dipl id="t1004_d1" trans="p{R_os}t" utf="post" />
+    <anno ascii="post" checked="n" id="t1004_m1" trans="p{R_os}t" utf="post" />
+  </token>
+  <token id="t1005" trans="d{R_omi}nicam">
+    <dipl id="t1005_d1" trans="d{R_omi}nicam" utf="dominicam" />
+    <anno ascii="dominicam" checked="n" id="t1005_m1" trans="d{R_omi}nicam" utf="dominicam" />
+  </token>
+  <token id="t1006" trans="vocem">
+    <dipl id="t1006_d1" trans="vocem" utf="vocem" />
+    <anno ascii="vocem" checked="n" id="t1006_m1" trans="vocem" utf="vocem" />
+  </token>
+  <token id="t1007" trans="Jocunditatis">
+    <dipl id="t1007_d1" trans="Jocunditatis" utf="Jocunditatis" />
+    <anno ascii="Jocunditatis" checked="n" id="t1007_m1" trans="Jocunditatis" utf="Jocunditatis" />
+  </token>
+</text>
