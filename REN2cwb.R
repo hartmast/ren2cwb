@@ -123,6 +123,54 @@ for(j in 1:length(f)) {
 }
 
 
+# In a second step, we add sentence boundaries
+# to the data. (This could have been done before,
+# but well...)
+rm(list = ls())
+d <- readLines("ren.vrt")
+
+# function for inserting line
+insert_line <- function(vec, position, what) {
+  vec1 <- vec[1:(position-1)]
+  vec2 <- vec[position:length(vec)]
+  
+  return(c(vec1, what, vec2))
+  
+}
+
+# find start and end of texte
+text_start <- grep("<text id", d)
+text_end   <- grep("</text", d)
+
+# insert sentence start tag at the beginning
+# of the text and sentence end tag at its end
+
+for(i in 1:length(text_start)) {
+  d <- insert_line(d, (text_start[i]+1), "<s>")
+  d <- insert_line(d, (text_end[i]+1), "</s>")
+  text_start <- text_start+2
+  text_end   <- text_end+2
+}
+
+# insert sentence tags in-between after 
+# tokens with sent="Satz", except in cases where
+# the </s> tag already follows
+find_satz <- grep("Satz$", d)
+
+
+# remove cases where item after find_satz is already </s>
+find_satz <- find_satz[-which(d[find_satz+1] == "</s>")]
+
+for(i in 1:length(find_satz)) {
+  d <- insert_line(d, (find_satz[i]+1), "</s>")
+  find_satz <- find_satz + 1
+  d <- insert_line(d, (find_satz[i]+1), "<s>")
+  find_satz <- find_satz + 1
+  print(i)
+}
+
+write.table(d, "ren_sentence.vrt", row.names = F, col.names = F, quote = F, append = F)
+
 # 
 # 
 # # read data
