@@ -26,73 +26,82 @@ for(j in 1:length(f)) {
   token_start <- grep("<token id", d)
   token_end   <- grep("</token", d)
   
+  anno_start <- grep("<anno", d)
+  
+  
   # empty table for dipl, lemma, POS, morph
   cur_tbl <- tibble(
-    word      = character(length(token_start)),
-    token_id  = character(length(token_start)),
-    dipl      = character(length(token_start)),
-    lemma     = character(length(token_start)),
-    pos       = character(length(token_start)),
-    morph     = character(length(token_start)),
-    lemma_wsd = character(length(token_start)),
-    bound_sent = character(length(token_start)),
+    word      = character(length(anno_start)),
+    token_id  = character(length(anno_start)),
+    dipl      = character(length(anno_start)),
+    lemma     = character(length(anno_start)),
+    pos       = character(length(anno_start)),
+    morph     = character(length(anno_start)),
+    lemma_wsd = character(length(anno_start)),
+    bound_sent = character(length(anno_start)),
   )
   
   
   # extract values
   
-  for(i in 1:length(token_start)) {
-    cur <-d[token_start[i]:token_end[i]]
+  for(i in 1:length(anno_start)) {
+    cur <- d[anno_start[i]:token_end[which(token_end>anno_start[i])][1]]
     
-    if(length(grep(".*<token id=\"", cur)) > 0) {
-      cur_tbl$token_id[i] <- gsub("\".*", "", gsub(".*<token id=\"", "", cur[grep("token id", cur)]))
+    # cur <-d[token_start[i]:token_end[i]]
+    
+    
+    
+    if(length(grep(".*<anno .* id=\"", cur)) > 0) {
+      cur_tbl$token_id[i] <- gsub("\".*", "", gsub(".*id=\"", "", grep("<anno .* id=\"", cur, value = T)[1])) # gsub("\".*", "", gsub(".*<token id=\"", "", cur[grep("token id", cur)]))
     } else {
       cur_tbl$token_id[i] <- "-"
     }
     
-    if(length(grep(".*<token id=\".*trans", cur)) > 0) {
-      cur_tbl$dipl[i] <- gsub("\".*", "", gsub(".*trans=\"", "", cur[grep("token id", cur)]))
+    if(length(grep(".*<anno ascii=\".*trans", cur)) > 0) {
+      
+      cur_tbl$dipl[i] <- gsub("\".*", "", gsub(".*trans=\"", "", grep("anno ascii.*trans=\"", cur, value = T)[1])) # gsub("\".*", "", gsub(".*trans=\"", "", cur[grep("token id", cur)]))
     } else {
       cur_tbl$dipl[i] <- "-"
     }
     
-    if(length(grep(".*<token id=\".*trans", cur)) > 0) {
-      cur_tbl$word[i] <- gsub("\".*", "", gsub(".*trans=\"", "", cur[grep("token id", cur)]))
+    if(length(grep(".*<anno ascii=\".*trans", cur)) > 0) {
+      
+      cur_tbl$word[i] <- gsub("\".*", "", gsub(".*trans=\"", "", grep("anno ascii.*trans=\"", cur, value = T)[1])) # gsub("\".*", "", gsub(".*trans=\"", "", cur[grep("token id", cur)]))
     } else {
       cur_tbl$word[i] <- "-"
     }
     
     if(length(grep(".*<lemma tag=\"", cur)) > 0) {
-      cur_tbl$lemma[i] <- gsub("\".*", "", gsub(".*<lemma tag=\"", "", cur[grep("lemma tag", cur)]))
+      cur_tbl$lemma[i] <- gsub("\".*", "", gsub(".*<lemma tag=\"", "", cur[grep("lemma tag", cur)[1]]))
     } else {
       cur_tbl$lemma[i] <- "-"
     }
     
     if(length(grep(".*<lemma_wsd tag=\"", cur)) > 0) {
-      cur_tbl$lemma_wsd[i] <- gsub("\".*", "", gsub(".*<lemma_wsd tag=\"", "", cur[grep("lemma_wsd tag", cur)]))
+      cur_tbl$lemma_wsd[i] <- gsub("\".*", "", gsub(".*<lemma_wsd tag=\"", "", cur[grep("lemma_wsd tag", cur)[1]]))
     } else {
       cur_tbl$lemma_wsd[i] <- "-"
     }
     
     if(length(grep(".*<morph tag=\"", cur)) > 0) {
-      cur_tbl$morph[i] <- gsub("\".*", "", gsub(".*<morph tag=\"", "", cur[grep("morph tag", cur)]))
+      cur_tbl$morph[i] <- gsub("\".*", "", gsub(".*<morph tag=\"", "", cur[grep("morph tag", cur)[1]]))
     } else {
       cur_tbl$morph[i] <- "-"
     }
     
     if(length(grep(".*<pos tag=\"", cur)) > 0) {
-      cur_tbl$pos[i] <- gsub("\".*", "", gsub(".*<pos tag=\"", "", cur[grep("pos tag", cur)]))
+      cur_tbl$pos[i] <- gsub("\".*", "", gsub(".*<pos tag=\"", "", cur[grep("pos tag", cur)[1]]))
     } else {
       cur_tbl$pos[i] <- "-"
     }
     
     if(length(grep(".*<bound_sent tag=\"", cur)) > 0) {
-      cur_tbl$bound_sent[i] <- gsub("\".*", "", gsub(".*<bound_sent tag=\"", "", cur[grep("bound_sent tag", cur)]))
+      cur_tbl$bound_sent[i] <- gsub("\".*", "", gsub(".*<bound_sent tag=\"", "", cur[grep("bound_sent tag", cur)[1]]))
     } else {
       cur_tbl$bound_sent[i] <- "-"
     }
     
-    
+    # print(i)
     
   }
   

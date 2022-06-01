@@ -1,3 +1,10 @@
 cwb-encode -c utf8 -d /Users/stefanhartmann/Documents/cqp-data/ren -f /Users/stefanhartmann/sciebo/Futurkonstruktionen/REN/CoraXML_ReN/ren_sentence.vrt -R /Users/stefanhartmann/Documents/cwb-registry/ren -P token_id -P dipl -P lemma -P pos -P morph -P lemma_wsd -P bound_sent -S corpus -S s -S text:0+id+abbr_ddd+text-type+text_name+reference+edition+literature+library+library-shelfmark+online+scribe_or_printer+place+extent+columns+style+hands+author+drawer+date+external_source+notes_manuscript+notes_language+corpus+notes_transcription+notes_annotation+digitization_by+collation_by+pre_editing_by+annotation_by+proofreading_by+illustration+extract+reference_secondary+online_file+topic+topic_ReN+genre+time+medium+language-area+base_for_transcription+token+language+language-type
 
 cwb-makeall -r /Users/stefanhartmann/Documents/cwb-registry ren
+
+
+## Test
+
+cwb-encode -c utf8 -d /Users/stefanhartmann/Documents/cqp-data/rentest -f /Users/stefanhartmann/sciebo/Futurkonstruktionen/REN/CoraXML_ReN/ren_sentence.vrt -R /Users/stefanhartmann/Documents/cwb-registry/rentest -P token_id -P dipl -P lemma -P pos -P morph -P lemma_wsd -P bound_sent -S corpus -S s -S text:0+id+abbr_ddd+text-type+text_name+reference+edition+literature+library+library-shelfmark+online+scribe_or_printer+place+extent+columns+style+hands+author+drawer+date+external_source+notes_manuscript+notes_language+corpus+notes_transcription+notes_annotation+digitization_by+collation_by+pre_editing_by+annotation_by+proofreading_by+illustration+extract+reference_secondary+online_file+topic+topic_ReN+genre+time+medium+language-area+base_for_transcription+token+language+language-type
+
+cwb-makeall -r /Users/stefanhartmann/Documents/cwb-registry rentest
